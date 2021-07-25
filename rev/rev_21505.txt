@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"742":{"pageid":742,"ns":0,"title":"\u52a9\u653b\u5e16","revisions":[{"revid":21505,"parentid":18893,"minor":"","user":"QWERTY 52 38","timestamp":"2020-10-20T13:10:44Z","comment":"// Edit via Wikiplus"}]}}}}

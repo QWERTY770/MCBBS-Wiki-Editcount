@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2927":{"pageid":2927,"ns":0,"title":"\ud83d\udc26\ud83d\udc95\ud83c\udf38\ud83c\udf38","revisions":[{"revid":22862,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-11-14T06:10:15Z","comment":"\u5c06[[\ud83d\udc26\ud83d\udc95\ud83c\udf38\ud83c\udf38]]\u91cd\u5b9a\u5411\u81f3[[\u65b0\u4ebax\u53f7]] // Wikiplus"}]}}}}

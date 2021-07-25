@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3042":{"pageid":3042,"ns":0,"title":"\u307e\u3075\u307e\u3075","revisions":[{"revid":26766,"parentid":24375,"user":"\u5496\u5566\u5b50","timestamp":"2021-02-08T11:22:07Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u5929\u771f\u53ef\u7231\u5496\u5566\u5b50]]\u66f4\u6539\u4e3a[[\u5815\u5929\u4f7f\u4e4b\u5893]]"}]}}}}

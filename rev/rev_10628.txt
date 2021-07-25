@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"252":{"pageid":252,"ns":0,"title":"Zapic","revisions":[{"revid":10628,"parentid":10036,"minor":"","user":"Salt lovely","timestamp":"2020-06-16T15:19:04Z","comment":"// Edit via Wikiplus"}]}}}}

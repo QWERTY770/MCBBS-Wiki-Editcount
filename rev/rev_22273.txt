@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"8":{"pageid":8,"ns":6,"title":"\u6587\u4ef6:Clock.png","revisions":[{"revid":22273,"parentid":4416,"user":"MashKJo","timestamp":"2020-11-08T11:23:21Z","comment":""}]}}}}

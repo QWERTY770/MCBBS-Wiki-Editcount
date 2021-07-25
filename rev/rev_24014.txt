@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3017":{"pageid":3017,"ns":8,"title":"MediaWiki:Addon-prism-plugins.js","revisions":[{"revid":24014,"parentid":24006,"minor":"","user":"Salt lovely","timestamp":"2020-11-25T16:01:30Z","comment":"\u6c49\u5316"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"664":{"pageid":664,"ns":0,"title":"LocusAzzurro","revisions":[{"revid":14030,"parentid":14029,"user":"\u54aa\u54aa","timestamp":"2020-07-16T05:42:01Z","comment":""}]}}}}

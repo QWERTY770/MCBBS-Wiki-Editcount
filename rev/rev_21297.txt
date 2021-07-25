@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"339":{"pageid":339,"ns":10,"title":"\u6a21\u677f:Lang","revisions":[{"revid":21297,"parentid":1469,"user":"MashKJo","timestamp":"2020-10-17T12:13:01Z","comment":"// Edit via Wikiplus"}]}}}}

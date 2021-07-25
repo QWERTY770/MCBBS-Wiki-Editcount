@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"177":{"pageid":177,"ns":0,"title":"\u8b66\u544a","revisions":[{"revid":26417,"parentid":15119,"user":"\u6d1e\u7a74\u591c\u83ba","timestamp":"2021-02-02T04:06:34Z","comment":"SkyCatcher\u4e8b\u4ef6\uff1a\u7248\u4e3b\u5f3a\u5236\u4e0b\u53f0\uff0c\u6328\u5361\u7528\u6237\u89e3\u5c01"}]}}}}

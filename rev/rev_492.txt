@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"175":{"pageid":175,"ns":0,"title":"john180","revisions":[{"revid":492,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-04-13T00:22:24Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201cjohn180\uff0c[[MCBBS]]\u51e0\u4f4d\u5e38\u52a1\u7ba1\u7406\u5458\u4e4b\u4e00\u3002\u201d"}]}}}}

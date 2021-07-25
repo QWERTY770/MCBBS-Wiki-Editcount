@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"174":{"pageid":174,"ns":0,"title":"rom718","revisions":[{"revid":9381,"parentid":6454,"minor":"","user":"Ling NPC","timestamp":"2020-06-05T10:03:41Z","comment":""}]}}}}

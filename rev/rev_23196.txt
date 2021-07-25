@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"141":{"pageid":141,"ns":6,"title":"\u6587\u4ef6:QWERTY 52 38.png","revisions":[{"revid":23196,"parentid":341,"user":"MashKJo","timestamp":"2020-11-14T15:22:19Z","comment":"// Edit via Wikiplus"}]}}}}

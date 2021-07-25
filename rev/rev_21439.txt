@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"94":{"pageid":94,"ns":0,"title":"MashKJo","revisions":[{"revid":21439,"parentid":21438,"user":"MashKJo","timestamp":"2020-10-19T16:02:26Z","comment":"/* \u4f60\u77e5\u9053\u5417 */ // Edit via Wikiplus"}]}}}}

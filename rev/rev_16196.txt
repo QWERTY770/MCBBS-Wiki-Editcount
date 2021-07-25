@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2235":{"pageid":2235,"ns":10,"title":"\u6a21\u677f:ts","revisions":[{"revid":16196,"parentid":0,"user":"Sheep-realms","timestamp":"2020-08-01T10:28:47Z","comment":"\u5c06[[\u6a21\u677f:ts]]\u91cd\u5b9a\u5411\u81f3[[\u6a21\u677f:\u8ba8\u8bba\u4e32\u72b6\u6001]] // Wikiplus"}]}}}}

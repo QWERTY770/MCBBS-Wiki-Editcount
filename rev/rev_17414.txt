@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"676":{"pageid":676,"ns":0,"title":"skyliye","revisions":[{"revid":17414,"parentid":10525,"user":"QWERTY 52 38","timestamp":"2020-08-12T08:45:58Z","comment":"// Edit via Wikiplus"}]}}}}

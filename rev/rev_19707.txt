@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2648":{"pageid":2648,"ns":10,"title":"\u6a21\u677f:DOM","revisions":[{"revid":19707,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-09-07T11:53:44Z","comment":"\u5c06[[Template:DOM]]\u91cd\u5b9a\u5411\u81f3[[\u6a21\u677f:DaysOfMonth]] // Wikiplus"}]}}}}

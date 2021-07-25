@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1964":{"pageid":1964,"ns":0,"title":"Minecraft:\u7248\u672c\u6897","revisions":[{"revid":19255,"parentid":18574,"minor":"","user":"Enderman3133","timestamp":"2020-08-31T06:50:36Z","comment":"\u53c2\u89c1minecraft wiki"}]}}}}

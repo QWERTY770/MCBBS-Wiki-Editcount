@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2732":{"pageid":2732,"ns":0,"title":"killTease","revisions":[{"revid":27124,"parentid":24408,"user":"\u731609","timestamp":"2021-02-15T02:03:54Z","comment":""}]}}}}

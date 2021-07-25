@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2918":{"pageid":2918,"ns":0,"title":"MashKJo/\u4f5c\u54c1","revisions":[{"revid":22688,"parentid":22687,"user":"MashKJo","timestamp":"2020-11-14T00:44:02Z","comment":"/* \u6c99\u96d5Minecraft Wiki */ // Edit via Wikiplus"}]}}}}

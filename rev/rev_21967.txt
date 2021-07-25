@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1728":{"pageid":1728,"ns":0,"title":"LonelyLoner","revisions":[{"revid":21967,"parentid":21963,"user":"MashKJo","timestamp":"2020-11-05T03:59:25Z","comment":"// Edit via Wikiplus"}]}}}}

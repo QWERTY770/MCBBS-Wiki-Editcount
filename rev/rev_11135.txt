@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"378":{"pageid":378,"ns":10,"title":"\u6a21\u677f:Attention","revisions":[{"revid":11135,"parentid":11120,"user":"QWERTY 52 38","timestamp":"2020-06-22T06:46:07Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2198":{"pageid":2198,"ns":0,"title":"V.M.Samlye","revisions":[{"revid":15939,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-07-31T00:39:32Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Kakagou]]"}]}}}}

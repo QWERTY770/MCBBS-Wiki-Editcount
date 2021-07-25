@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"Kakagou","revisions":[{"revid":3843,"parentid":3840,"minor":"","user":"MashKJo","timestamp":"2020-04-20T05:41:41Z","comment":""}]}}}}

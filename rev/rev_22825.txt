@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"375":{"pageid":375,"ns":6,"title":"\u6587\u4ef6:Commons-emblem-issue.png","revisions":[{"revid":22825,"parentid":1670,"minor":"","user":"Salt lovely","timestamp":"2020-11-14T05:41:41Z","comment":"// Edit via Wikiplus"}]}}}}

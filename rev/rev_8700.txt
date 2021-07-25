@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1322":{"pageid":1322,"ns":0,"title":"\u8003\u53e4\u5bb6","revisions":[{"revid":8700,"parentid":8570,"minor":"","user":"QWERTY 52 38","timestamp":"2020-05-28T13:53:09Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"938":{"pageid":938,"ns":0,"title":"ir-0","revisions":[{"revid":8544,"parentid":6114,"user":"Sheep-realms","timestamp":"2020-05-27T07:55:56Z","comment":""}]}}}}

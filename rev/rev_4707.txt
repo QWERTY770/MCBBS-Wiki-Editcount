@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"37":{"pageid":37,"ns":10,"title":"\u6a21\u677f:PersonInfoBox","revisions":[{"revid":4707,"parentid":4705,"user":"Sheep-realms","timestamp":"2020-04-23T15:40:53Z","comment":"\u64a4\u9500[[Special:Contributions/Sheep-realms|Sheep-realms]]\uff08[[User talk:Sheep-realms|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c4705"}]}}}}

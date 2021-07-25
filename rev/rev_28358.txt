@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3339":{"pageid":3339,"ns":8,"title":"MediaWiki:Gadget-section-View","revisions":[{"revid":28358,"parentid":0,"user":"Sheep-realms","timestamp":"2021-03-17T13:06:04Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c\u9875\u9762\u663e\u793a\u201d"}]}}}}

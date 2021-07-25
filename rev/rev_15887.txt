@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"565":{"pageid":565,"ns":0,"title":"\u66b4\u5f92\u4ea7\u5375","revisions":[{"revid":15887,"parentid":15528,"minor":"","user":"Lxazl5770","timestamp":"2020-07-30T10:07:39Z","comment":"\u4f60\u73b0\u5728\u53ef\u4ee5\u6709\u521b\u610f\u5730\uff08\u5728\u521b\u9020\u6a21\u5f0f\u4e2d\uff09\u5403\u4e1c\u897f\u4e86\uff01"}]}}}}

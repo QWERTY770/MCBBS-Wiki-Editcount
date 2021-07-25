@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1524":{"pageid":1524,"ns":14,"title":"\u5206\u7c7b:The Redpixel\u6210\u5458","revisions":[{"revid":20776,"parentid":9982,"user":"MashKJo","timestamp":"2020-10-15T10:05:23Z","comment":"// Edit via Wikiplus"}]}}}}

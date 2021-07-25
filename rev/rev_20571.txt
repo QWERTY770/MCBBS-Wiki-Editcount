@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"288":{"pageid":288,"ns":0,"title":"bbsmaster","revisions":[{"revid":20571,"parentid":20466,"user":"\u6c99\u6f20\u4e4b\u9e70xzy","timestamp":"2020-10-08T07:02:31Z","comment":""}]}}}}

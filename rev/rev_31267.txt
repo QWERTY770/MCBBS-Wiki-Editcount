@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1200":{"pageid":1200,"ns":6,"title":"\u6587\u4ef6:Xbox One\u6b63\u7248\u52cb\u7ae0.png","revisions":[{"revid":31267,"parentid":21037,"user":"Hzwcyq","timestamp":"2021-07-08T17:03:34Z","comment":"Hzwcyq\u4e0a\u4f20[[\u6587\u4ef6:Xbox One\u6b63\u7248\u52cb\u7ae0.png]]\u7684\u65b0\u7248\u672c"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1420":{"pageid":1420,"ns":0,"title":"\u71c3\u96ea\u542c\u98ce","revisions":[{"revid":10768,"parentid":10767,"user":"Sharks","timestamp":"2020-06-19T10:38:29Z","comment":"/* TA\u7684\u8bd7\u8bcd\u4f5c\u54c1 */"}]}}}}

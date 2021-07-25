@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1187":{"pageid":1187,"ns":6,"title":"\u6587\u4ef6:Crowdin\u7ffb\u8bd1\u8005\u52cb\u7ae0.png","revisions":[{"revid":21026,"parentid":7099,"minor":"","user":"Salt lovely","timestamp":"2020-10-16T06:08:37Z","comment":"// Edit via Wikiplus"}]}}}}

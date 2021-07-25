@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2500":{"pageid":2500,"ns":0,"title":"Wwzlus","revisions":[{"revid":18774,"parentid":18105,"minor":"","user":"Salt lovely","timestamp":"2020-08-25T13:34:38Z","comment":"// Edit via Wikiplus"}]}}}}

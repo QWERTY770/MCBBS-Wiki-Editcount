@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1229":{"pageid":1229,"ns":6,"title":"\u6587\u4ef6:Fandom Wiki\u5173\u95ed\u8868\u5355.png","revisions":[{"revid":23180,"parentid":7340,"user":"MashKJo","timestamp":"2020-11-14T15:02:51Z","comment":"// Edit via Wikiplus"}]}}}}

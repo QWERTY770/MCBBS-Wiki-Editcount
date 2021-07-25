@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2572":{"pageid":2572,"ns":0,"title":"\u5185\u5b58","revisions":[{"revid":18819,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-08-26T06:07:34Z","comment":"Redirect [[\u5185\u5b58]] to [[rom718]] // Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3034":{"pageid":3034,"ns":274,"title":"Widget:SaltOutsidePicLoader","revisions":[{"revid":24277,"parentid":0,"user":"Salt lovely","timestamp":"2020-12-05T08:51:02Z","comment":"\u56fe\u7247\u5916\u94fe"}]}}}}

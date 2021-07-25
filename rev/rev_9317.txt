@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1065":{"pageid":1065,"ns":0,"title":"66ccff","revisions":[{"revid":9317,"parentid":9311,"minor":"","user":"Salt lovely","timestamp":"2020-06-04T12:40:30Z","comment":"\u8bdd\u8bf4\u8fd9\u4e2a\u9875\u9762\u7684\u201c\u56fe\u7247\u201d\u5c45\u7136\u662f5\u4e2a\u201c\u25a0\u201d...."}]}}}}

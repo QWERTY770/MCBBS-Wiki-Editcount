@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1688":{"pageid":1688,"ns":8,"title":"MediaWiki:Uploadtext","revisions":[{"revid":11295,"parentid":11274,"user":"Sheep-realms","timestamp":"2020-06-23T11:58:39Z","comment":""}]}}}}

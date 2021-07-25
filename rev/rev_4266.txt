@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"790":{"pageid":790,"ns":8,"title":"MediaWiki:Right-editpatroller","revisions":[{"revid":4266,"parentid":4263,"user":"Sheep-realms","timestamp":"2020-04-21T08:40:35Z","comment":""}]}}}}

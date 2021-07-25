@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1667":{"pageid":1667,"ns":0,"title":"Rypixel","revisions":[{"revid":11206,"parentid":11205,"user":"Rypixel1","timestamp":"2020-06-23T03:56:43Z","comment":""}]}}}}

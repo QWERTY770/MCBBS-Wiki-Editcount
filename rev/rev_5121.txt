@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"95":{"pageid":95,"ns":0,"title":"magicbear","revisions":[{"revid":5121,"parentid":5120,"minor":"","user":"\u571f\u7403\u7403","timestamp":"2020-04-26T21:21:52Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1212":{"pageid":1212,"ns":0,"title":"Stray79","revisions":[{"revid":9947,"parentid":9945,"minor":"","user":"Ender56","timestamp":"2020-06-10T14:52:14Z","comment":""}]}}}}

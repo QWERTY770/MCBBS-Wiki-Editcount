@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"97":{"pageid":97,"ns":0,"title":"geludan","revisions":[{"revid":14739,"parentid":14713,"minor":"","user":"QWERTY 52 38","timestamp":"2020-07-20T13:32:57Z","comment":"// Edit via Wikiplus"}]}}}}

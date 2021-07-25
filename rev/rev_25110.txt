@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1732":{"pageid":1732,"ns":10,"title":"\u6a21\u677f:MCBBSThread","revisions":[{"revid":25110,"parentid":21302,"user":"QWERTY 52 38","timestamp":"2020-12-26T06:57:42Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1175":{"pageid":1175,"ns":10,"title":"\u6a21\u677f:GroupInfoBox","revisions":[{"revid":7103,"parentid":7093,"minor":"","user":"SPGoding","timestamp":"2020-05-14T04:12:13Z","comment":"\u9ed8\u8ba4\u56de\u5e16\u56fe\u6807\u4e3a File:group_icon_member.png"}]}}}}

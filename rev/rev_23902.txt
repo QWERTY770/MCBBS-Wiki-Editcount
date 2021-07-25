@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2838":{"pageid":2838,"ns":0,"title":"ganeteam","revisions":[{"revid":23902,"parentid":23799,"user":"Prinz Eugen","timestamp":"2020-11-22T03:49:36Z","comment":""}]}}}}

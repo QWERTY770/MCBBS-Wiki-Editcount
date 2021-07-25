@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"288":{"pageid":288,"ns":0,"title":"bbsmaster","revisions":[{"revid":11145,"parentid":10479,"minor":"","user":"Salt lovely","timestamp":"2020-06-22T08:35:59Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1111":{"pageid":1111,"ns":6,"title":"\u6587\u4ef6:bg border right.png","revisions":[{"revid":21197,"parentid":6739,"user":"MashKJo","timestamp":"2020-10-17T08:22:35Z","comment":"// Edit via Wikiplus"}]}}}}

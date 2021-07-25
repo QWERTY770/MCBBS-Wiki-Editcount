@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"830":{"pageid":830,"ns":0,"title":"Smokey Days","revisions":[{"revid":19957,"parentid":19955,"minor":"","user":"QWERTY 52 38","timestamp":"2020-09-13T09:45:39Z","comment":"// Edit via Wikiplus"}]}}}}

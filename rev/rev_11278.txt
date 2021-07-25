@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"814":{"pageid":814,"ns":8,"title":"MediaWiki:Licenses","revisions":[{"revid":11278,"parentid":11271,"user":"Sheep-realms","timestamp":"2020-06-23T06:57:41Z","comment":""}]}}}}

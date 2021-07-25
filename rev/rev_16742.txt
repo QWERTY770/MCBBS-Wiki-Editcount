@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2194":{"pageid":2194,"ns":0,"title":"xukarhei","revisions":[{"revid":16742,"parentid":16393,"minor":"","user":"Salt lovely","timestamp":"2020-08-07T08:04:17Z","comment":"// Edit via Wikiplus"}]}}}}

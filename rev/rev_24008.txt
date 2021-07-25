@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3019":{"pageid":3019,"ns":8,"title":"MediaWiki:Addon-prism-lang-plus2.js","revisions":[{"revid":24008,"parentid":0,"user":"Salt lovely","timestamp":"2020-11-25T15:31:22Z","comment":"?, matlab, ?, python, ruby, ?, sass, scss, ts, vbnet, vb, yaml"}]}}}}

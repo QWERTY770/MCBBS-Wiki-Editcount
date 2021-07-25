@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1528":{"pageid":1528,"ns":0,"title":"\u5c51\ud83e\udd55","revisions":[{"revid":10019,"parentid":0,"user":"Sheep-realms","timestamp":"2020-06-12T04:16:12Z","comment":"Sheep-realms\u79fb\u52a8\u9875\u9762[[\u5c51\ud83e\udd55]]\u81f3[[\u6298\u53e0]]\u8986\u76d6\u91cd\u5b9a\u5411\uff1a\u7981\u6b62emoji\u6807\u9898"}]}}}}

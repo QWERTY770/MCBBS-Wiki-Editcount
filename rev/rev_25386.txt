@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1625":{"pageid":1625,"ns":2,"title":"\u7528\u6237:QWERTY 52 38/common.js","revisions":[{"revid":25386,"parentid":25384,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2021-01-02T11:04:24Z","comment":"\u770b\u7740\u788d\u773c\u5c31\u6539\u6389\u4e86\uff0c\u5e0c\u671b\u4e0d\u4ecb\u610f\u3002"}]}}}}

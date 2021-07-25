@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2962":{"pageid":2962,"ns":0,"title":"QWERTY 38 52","revisions":[{"revid":23342,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-11-15T08:35:26Z","comment":"\u5c06[[QWERTY_38_52]]\u91cd\u5b9a\u5411\u81f3[[QWERTY_52_38]] // Wikiplus"}]}}}}

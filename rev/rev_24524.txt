@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3044":{"pageid":3044,"ns":0,"title":"KamBridges","revisions":[{"revid":24524,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-12-11T11:31:26Z","comment":"\u5c06[[KamBridges]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}

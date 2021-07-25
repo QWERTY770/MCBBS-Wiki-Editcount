@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1400":{"pageid":1400,"ns":0,"title":"\u6e38\u5ba2","revisions":[{"revid":18197,"parentid":18196,"user":"Charon1","timestamp":"2020-08-19T09:03:11Z","comment":"\u64a4\u9500[[Special:Contributions/Charon1|Charon1]]\uff08[[User talk:Charon1|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c18196"}]}}}}

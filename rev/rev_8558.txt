@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1365":{"pageid":1365,"ns":0,"title":"\u780d\u624b\u5ca9","revisions":[{"revid":8558,"parentid":8552,"minor":"","user":"Drowned","timestamp":"2020-05-27T08:45:41Z","comment":"\u8fd9\u91cc\u5feb\u6210MinecraftWiki\u4e86"}]}}}}

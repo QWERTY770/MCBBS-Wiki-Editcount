@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"341":{"pageid":341,"ns":10,"title":"\u6a21\u677f:ruby","revisions":[{"revid":1473,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-15T01:04:18Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6a21\u677f:Ruby]]"}]}}}}

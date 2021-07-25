@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2209":{"pageid":2209,"ns":6,"title":"\u6587\u4ef6:Cobalt\u52cb\u7ae0.png","revisions":[{"revid":16013,"parentid":0,"user":"Ricolove","timestamp":"2020-07-31T17:14:22Z","comment":""}]}}}}

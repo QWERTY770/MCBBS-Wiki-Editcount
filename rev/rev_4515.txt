@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"827":{"pageid":827,"ns":8,"title":"MediaWiki:Copyrightwarning","revisions":[{"revid":4515,"parentid":4514,"user":"Eicy","timestamp":"2020-04-23T01:11:09Z","comment":""}]}}}}

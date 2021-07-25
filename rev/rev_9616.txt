@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1495":{"pageid":1495,"ns":1,"title":"\u8ba8\u8bba:QWERTY770","revisions":[{"revid":9616,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-06-07T11:05:10Z","comment":"QWERTY 52 38\u79fb\u52a8\u9875\u9762[[\u8ba8\u8bba:QWERTY 52 38]]\u81f3[[\u8ba8\u8bba:1683239263]]\uff1a\u6539\u540d"}]}}}}

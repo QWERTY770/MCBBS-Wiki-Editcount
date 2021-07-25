@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"760":{"pageid":760,"ns":10,"title":"\u6a21\u677f:Anchor","revisions":[{"revid":19543,"parentid":4089,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-09-04T22:51:09Z","comment":"// Edit via Wikiplus"}]}}}}

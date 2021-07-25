@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"744":{"pageid":744,"ns":6,"title":"\u6587\u4ef6:Google Translate logo.png","revisions":[{"revid":3998,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-20T09:36:32Z","comment":""}]}}}}

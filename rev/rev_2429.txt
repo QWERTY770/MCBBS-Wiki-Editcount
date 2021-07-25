@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"5":{"pageid":5,"ns":8,"title":"MediaWiki:Sidebar","revisions":[{"revid":2429,"parentid":2118,"user":"MashKJo","timestamp":"2020-04-17T02:06:59Z","comment":""}]}}}}

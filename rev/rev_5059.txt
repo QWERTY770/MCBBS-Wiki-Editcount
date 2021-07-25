@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"505":{"pageid":505,"ns":12,"title":"\u5e2e\u52a9:Wiki\u7f16\u8f91\u8fdb\u9636\u624b\u518c","revisions":[{"revid":5059,"parentid":4139,"user":"QWERTY 52 38","timestamp":"2020-04-26T11:47:50Z","comment":"/* \u7f29\u8fdb */"}]}}}}

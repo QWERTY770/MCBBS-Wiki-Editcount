@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"228":{"pageid":228,"ns":0,"title":"\u5403\u74dc\u7fa4\u4f17","revisions":[{"revid":923,"parentid":773,"minor":"","user":"MidsummerEnd","timestamp":"2020-04-13T12:36:28Z","comment":""}]}}}}

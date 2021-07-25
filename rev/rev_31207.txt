@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1065":{"pageid":1065,"ns":0,"title":"66ccff","revisions":[{"revid":31207,"parentid":31180,"minor":"","user":"Salt lovely","timestamp":"2021-07-04T15:24:31Z","comment":"Hexadecimal = \u5341\u516d\u8fdb\u5236// Edit via Wikiplus"}]}}}}

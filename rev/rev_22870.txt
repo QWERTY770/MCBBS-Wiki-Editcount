@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1354":{"pageid":1354,"ns":10,"title":"\u6a21\u677f:AutoUGroup/Ban","revisions":[{"revid":22870,"parentid":22866,"user":"Salt lovely","timestamp":"2020-11-14T06:50:54Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2583":{"pageid":2583,"ns":2,"title":"\u7528\u6237:\u6d1e\u7a74\u591c\u83ba/EInputStream","revisions":[{"revid":30764,"parentid":19066,"user":"\u6d1e\u7a74\u591c\u83ba","timestamp":"2021-06-05T06:17:03Z","comment":""}]}}}}

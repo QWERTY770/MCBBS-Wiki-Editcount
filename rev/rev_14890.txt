@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2094":{"pageid":2094,"ns":0,"title":"\u5b85\u9b42","revisions":[{"revid":14890,"parentid":0,"user":"MashKJo","timestamp":"2020-07-22T05:40:52Z","comment":"\u5c06[[\u5b85\u9b42]]\u91cd\u5b9a\u5411\u81f3[[gamerteam]] // Wikiplus"}]}}}}

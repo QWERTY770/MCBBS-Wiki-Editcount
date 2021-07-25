@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"10":{"pageid":10,"ns":6,"title":"\u6587\u4ef6:Diamond.png","revisions":[{"revid":4419,"parentid":19,"minor":"","user":"Sheep-realms","timestamp":"2020-04-22T05:50:43Z","comment":"// Edit via Wikiplus"}]}}}}

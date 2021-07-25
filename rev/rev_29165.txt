@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2600":{"pageid":2600,"ns":10,"title":"\u6a21\u677f:\u6587\u4ef6\u7248\u6743/Mojang/doc","revisions":[{"revid":29165,"parentid":21220,"user":"MysticNebula70","timestamp":"2021-04-17T14:52:34Z","comment":""}]}}}}

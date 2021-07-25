@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"557":{"pageid":557,"ns":6,"title":"\u6587\u4ef6:Disambig.png","revisions":[{"revid":2868,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-18T06:54:25Z","comment":"\u6d88\u6b67\u4e49"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3278":{"pageid":3278,"ns":8,"title":"MediaWiki:Flowthread-blacklist","revisions":[{"revid":27527,"parentid":27526,"user":"Sheep-realms","timestamp":"2021-02-20T07:42:33Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"939":{"pageid":939,"ns":2,"title":"\u7528\u6237:Mr.Snake","revisions":[{"revid":6680,"parentid":5414,"minor":"","user":"Salt lovely","timestamp":"2020-05-10T03:04:30Z","comment":"\u7981\u6b62\u5957\u5a03"}]}}}}

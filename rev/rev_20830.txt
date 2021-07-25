@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2732":{"pageid":2732,"ns":0,"title":"killTease","revisions":[{"revid":20830,"parentid":20693,"user":"MashKJo","timestamp":"2020-10-15T10:35:02Z","comment":"// Edit via Wikiplus"}]}}}}

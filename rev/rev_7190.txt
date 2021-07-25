@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1065":{"pageid":1065,"ns":0,"title":"66ccff","revisions":[{"revid":7190,"parentid":7186,"user":"MashKJo","timestamp":"2020-05-14T10:34:11Z","comment":"\u64a4\u9500[[Special:Contributions/Qiuzilu|Qiuzilu]]\uff08[[User talk:Qiuzilu|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c7186"}]}}}}

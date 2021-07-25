@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"100":{"pageid":100,"ns":0,"title":"BiggayJN","revisions":[{"revid":3104,"parentid":2410,"user":"MashKJo","timestamp":"2020-04-18T12:47:05Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3028":{"pageid":3028,"ns":10,"title":"\u6a21\u677f:Mod","revisions":[{"revid":24142,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-12-02T09:44:04Z","comment":"\u5c06[[Template:Mod]]\u91cd\u5b9a\u5411\u81f3[[\u6a21\u677f:\u6a21\u7ec4\u4fe1\u606f]] // Wikiplus"}]}}}}

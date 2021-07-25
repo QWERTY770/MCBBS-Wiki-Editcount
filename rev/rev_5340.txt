@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"728":{"pageid":728,"ns":10,"title":"\u6a21\u677f:\u65bd\u5de5\u4e2d","revisions":[{"revid":5340,"parentid":4622,"user":"Sheep-realms","timestamp":"2020-04-27T15:04:21Z","comment":""}]}}}}

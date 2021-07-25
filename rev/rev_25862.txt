@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2506":{"pageid":2506,"ns":0,"title":"ELProject","revisions":[{"revid":25862,"parentid":22487,"user":"Eicy","timestamp":"2021-01-20T10:02:52Z","comment":""}]}}}}

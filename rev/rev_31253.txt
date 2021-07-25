@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3612":{"pageid":3612,"ns":2,"title":"\u7528\u6237:50829/vector.css","revisions":[{"revid":31253,"parentid":0,"user":"50829","timestamp":"2021-07-08T05:51:49Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201c/* \u589e\u5927\u4e2d\u6587\u5b57\u53f7 */ #bodyContent { \tfont-size: 94.4%; }\u201d\u7684\u65b0\u9875\u9762"}]}}}}

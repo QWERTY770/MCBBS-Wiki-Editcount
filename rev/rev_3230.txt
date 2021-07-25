@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"537":{"pageid":537,"ns":8,"title":"MediaWiki:Abusefilter-warning-short-new-article","revisions":[{"revid":3230,"parentid":2776,"user":"Sheep-realms","timestamp":"2020-04-19T03:50:20Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"605":{"pageid":605,"ns":8,"title":"MediaWiki:Abusefilter-warning-wronguserpage","revisions":[{"revid":27424,"parentid":27408,"minor":"","user":"Eicy","timestamp":"2021-02-19T01:36:47Z","comment":"// Edit via Wikiplus"}]}}}}

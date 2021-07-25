@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1882":{"pageid":1882,"ns":0,"title":"\u5ba3\u4f20\u4f4d","revisions":[{"revid":17656,"parentid":17283,"minor":"","user":"QWERTY 52 38","timestamp":"2020-08-14T06:51:02Z","comment":"// Edit via Wikiplus"}]}}}}

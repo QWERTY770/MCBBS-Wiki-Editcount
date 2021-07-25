@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3316":{"pageid":3316,"ns":6,"title":"\u6587\u4ef6:BONESTUDIObanner.png","revisions":[{"revid":28099,"parentid":0,"user":"-xiao kai-","timestamp":"2021-03-06T21:30:48Z","comment":""}]}}}}

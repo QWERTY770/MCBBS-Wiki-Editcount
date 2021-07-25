@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"588":{"pageid":588,"ns":0,"title":"Charon1","revisions":[{"revid":21900,"parentid":20875,"user":"QWERTY 52 38","timestamp":"2020-11-01T05:40:37Z","comment":"\uff1f\uff1f\uff1f"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1742":{"pageid":1742,"ns":6,"title":"\u6587\u4ef6:CaptainTrips\u8fb1\u9a82.jpg","revisions":[{"revid":11652,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-06-26T23:04:34Z","comment":"CaptainTrips\u8fb1\u9a82"}]}}}}

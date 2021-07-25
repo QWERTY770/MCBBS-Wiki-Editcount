@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"639":{"pageid":639,"ns":6,"title":"\u6587\u4ef6:80%.gif","revisions":[{"revid":3348,"parentid":0,"user":"MashKJo","timestamp":"2020-04-19T06:38:27Z","comment":""}]}}}}

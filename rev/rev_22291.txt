@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"240":{"pageid":240,"ns":3,"title":"\u7528\u6237\u8ba8\u8bba:QWERTY 52 38","revisions":[{"revid":22291,"parentid":22191,"user":"MashKJo","timestamp":"2020-11-08T11:31:39Z","comment":""}]}}}}

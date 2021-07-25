@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2942":{"pageid":2942,"ns":0,"title":"Lxazl5770","revisions":[{"revid":22994,"parentid":0,"user":"MashKJo","timestamp":"2020-11-14T08:03:39Z","comment":"// Edit via Wikiplus"}]}}}}

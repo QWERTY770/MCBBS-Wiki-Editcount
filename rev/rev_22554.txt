@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1740":{"pageid":1740,"ns":6,"title":"\u6587\u4ef6:Danny\u4ed4\u4e3e\u62a5LonelyLoner.jpg","revisions":[{"revid":22554,"parentid":22544,"user":"MashKJo","timestamp":"2020-11-12T15:59:02Z","comment":"// Edit via Wikiplus"}]}}}}

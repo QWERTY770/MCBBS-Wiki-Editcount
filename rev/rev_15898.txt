@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2195":{"pageid":2195,"ns":6,"title":"\u6587\u4ef6:\u88ab\u9f99\u5c60.JPG","revisions":[{"revid":15898,"parentid":0,"user":"\u5496\u5566\u5b50","timestamp":"2020-07-30T12:35:04Z","comment":"\u6765\u81eahttps://www.mcbbs.net/thread-1061077-2-1.html"}]}}}}

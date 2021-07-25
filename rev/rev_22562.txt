@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1741":{"pageid":1741,"ns":6,"title":"\u6587\u4ef6:icybowser\u8fb1\u9a82.jpeg","revisions":[{"revid":22562,"parentid":12133,"user":"MashKJo","timestamp":"2020-11-12T16:18:48Z","comment":""}]}}}}

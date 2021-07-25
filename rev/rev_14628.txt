@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2070":{"pageid":2070,"ns":0,"title":"\u7834\u4e8b\u6c34","revisions":[{"revid":14628,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-07-19T13:58:21Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6c34\u5e16]]"}]}}}}

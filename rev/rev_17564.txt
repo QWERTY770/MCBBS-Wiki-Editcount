@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2426":{"pageid":2426,"ns":0,"title":"wzd ksl","revisions":[{"revid":17564,"parentid":17563,"minor":"","user":"Lxazl5770","timestamp":"2020-08-13T08:54:24Z","comment":""}]}}}}

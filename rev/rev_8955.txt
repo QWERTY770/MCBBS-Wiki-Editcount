@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"664":{"pageid":664,"ns":0,"title":"LocusAzzurro","revisions":[{"revid":8955,"parentid":8954,"minor":"","user":"Salt lovely","timestamp":"2020-05-30T12:28:59Z","comment":""}]}}}}

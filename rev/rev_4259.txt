@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"788":{"pageid":788,"ns":8,"title":"MediaWiki:Protect-level-editexcellenteditor","revisions":[{"revid":4259,"parentid":4253,"user":"Sheep-realms","timestamp":"2020-04-21T08:36:21Z","comment":""}]}}}}

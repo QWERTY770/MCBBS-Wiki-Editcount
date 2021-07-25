@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2940":{"pageid":2940,"ns":10,"title":"\u6a21\u677f:\u6587\u4ef6\u7248\u6743/MediaWiki\u622a\u56fe/doc","revisions":[{"revid":29162,"parentid":29161,"user":"MysticNebula70","timestamp":"2021-04-17T14:51:00Z","comment":""}]}}}}

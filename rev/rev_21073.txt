@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1198":{"pageid":1198,"ns":6,"title":"\u6587\u4ef6:Android\u6b63\u7248\u52cb\u7ae0.png","revisions":[{"revid":21073,"parentid":7134,"minor":"","user":"Salt lovely","timestamp":"2020-10-16T06:27:41Z","comment":"// Edit via Wikiplus"}]}}}}

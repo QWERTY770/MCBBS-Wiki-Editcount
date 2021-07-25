@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2989":{"pageid":2989,"ns":0,"title":"\u65ad\u6865\u6b8b\u5f71","revisions":[{"revid":28337,"parentid":28336,"user":"46f","timestamp":"2021-03-16T12:24:30Z","comment":"\u64a4\u9500[[Special:Contributions/46f|46f]]\uff08[[User talk:46f|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c28336"}]}}}}

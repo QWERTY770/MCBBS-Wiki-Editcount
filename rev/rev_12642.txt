@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1839":{"pageid":1839,"ns":2,"title":"\u7528\u6237:MappyJ","revisions":[{"revid":12642,"parentid":12624,"user":"\u6697\u5f71\u6708\u8d4e","timestamp":"2020-07-06T04:02:29Z","comment":""}]}}}}

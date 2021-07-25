@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2537":{"pageid":2537,"ns":10,"title":"\u6a21\u677f:-/doc","revisions":[{"revid":22574,"parentid":18473,"minor":"","user":"Salt lovely","timestamp":"2020-11-13T05:00:38Z","comment":"\u6279\u91cf\u66ff\u6362\uff1a\u66ff\u6362 \u201c/$/\u201d \u4e3a \u201c[[\u5206\u7c7b:\u6a21\u677f\u6587\u6863]]\u201d \u7b2c 1/1 \u4e2a"}]}}}}

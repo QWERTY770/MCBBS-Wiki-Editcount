@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"240":{"pageid":240,"ns":3,"title":"\u7528\u6237\u8ba8\u8bba:QWERTY 52 38","revisions":[{"revid":21528,"parentid":21527,"user":"MashKJo","timestamp":"2020-10-20T14:10:14Z","comment":"/* \u4e0d\u8981\u6539\u52a8\u5f15\u6587\u4e3a\u597d */ // Edit via Wikiplus"}]}}}}

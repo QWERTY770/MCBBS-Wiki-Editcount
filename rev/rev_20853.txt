@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2768":{"pageid":2768,"ns":0,"title":"Mod\u53d1\u5e03","revisions":[{"revid":20853,"parentid":20852,"minor":"","user":"QWERTY 52 38","timestamp":"2020-10-15T11:48:50Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"664":{"pageid":664,"ns":0,"title":"LocusAzzurro","revisions":[{"revid":19831,"parentid":19135,"user":"QWERTY 52 38","timestamp":"2020-09-11T11:16:53Z","comment":"// Edit via Wikiplus"}]}}}}

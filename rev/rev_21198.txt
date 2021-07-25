@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1112":{"pageid":1112,"ns":6,"title":"\u6587\u4ef6:top bg.png","revisions":[{"revid":21198,"parentid":6740,"user":"MashKJo","timestamp":"2020-10-17T08:22:42Z","comment":""}]}}}}

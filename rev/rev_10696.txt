@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1403":{"pageid":1403,"ns":0,"title":"LkStent","revisions":[{"revid":10696,"parentid":10695,"minor":"","user":"QWERTY 52 38","timestamp":"2020-06-18T12:18:17Z","comment":""}]}}}}

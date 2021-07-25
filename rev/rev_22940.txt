@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1799":{"pageid":1799,"ns":6,"title":"\u6587\u4ef6:Drowned with Trident.png","revisions":[{"revid":22940,"parentid":22939,"user":"MashKJo","timestamp":"2020-11-14T07:05:56Z","comment":"// Edit via Wikiplus"}]}}}}

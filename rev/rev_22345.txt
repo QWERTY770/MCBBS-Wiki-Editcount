@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"642":{"pageid":642,"ns":6,"title":"\u6587\u4ef6:Gold Ingot.png","revisions":[{"revid":22345,"parentid":22342,"minor":"","user":"Salt lovely","timestamp":"2020-11-09T07:33:40Z","comment":"// Edit via Wikiplus"}]}}}}

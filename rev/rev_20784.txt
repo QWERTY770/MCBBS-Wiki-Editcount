@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1921":{"pageid":1921,"ns":14,"title":"\u5206\u7c7b:Herobrine\u7528\u6237\u7ec4","revisions":[{"revid":20784,"parentid":13184,"user":"MashKJo","timestamp":"2020-10-15T10:09:07Z","comment":"// Edit via Wikiplus"}]}}}}

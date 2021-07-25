@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"300":{"pageid":300,"ns":6,"title":"\u6587\u4ef6:150px-Player Head.png","revisions":[{"revid":22166,"parentid":4415,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-08T03:41:28Z","comment":""}]}}}}

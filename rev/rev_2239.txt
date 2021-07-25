@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"456":{"pageid":456,"ns":0,"title":"MCBBS\u7279\u6027","revisions":[{"revid":2239,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-04-16T08:31:52Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c{{Improved}} \u672c\u9875\u9762\u6536\u5f55\u4e86[[MCBBS]]\u7684\u5947\u602a\u7279\u6027\u3002\u201d"}]}}}}

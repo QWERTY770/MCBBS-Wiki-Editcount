@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1671":{"pageid":1671,"ns":10,"title":"\u6a21\u677f:\u6587\u4ef6\u7248\u6743/MCWiki/doc","revisions":[{"revid":29163,"parentid":11233,"user":"MysticNebula70","timestamp":"2021-04-17T14:51:14Z","comment":""}]}}}}

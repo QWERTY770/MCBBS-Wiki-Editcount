@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"775":{"pageid":775,"ns":4,"title":"MCBBS Wiki:Wiki\u5386\u53f2","revisions":[{"revid":19868,"parentid":18667,"minor":"","user":"QWERTY 52 38","timestamp":"2020-09-11T23:17:29Z","comment":"// Edit via Wikiplus"}]}}}}

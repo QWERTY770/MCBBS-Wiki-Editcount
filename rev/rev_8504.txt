@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1365":{"pageid":1365,"ns":0,"title":"\u780d\u624b\u5ca9","revisions":[{"revid":8504,"parentid":8446,"minor":"","user":"LocusAzzurro","timestamp":"2020-05-26T18:37:26Z","comment":"\u66f4\u591a\u57fa\u5ca9\u77e5\u8bc6"}]}}}}

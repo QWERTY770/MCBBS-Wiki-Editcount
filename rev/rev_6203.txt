@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1027":{"pageid":1027,"ns":274,"title":"Widget:TimeSinceNextEdit","revisions":[{"revid":6203,"parentid":6202,"user":"Sheep-realms","timestamp":"2020-05-04T00:59:27Z","comment":""}]}}}}

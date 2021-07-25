@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3258":{"pageid":3258,"ns":6,"title":"\u6587\u4ef6:\u9ec4\u51ef\u822a\u5e16\u5b50\u4e0b\u7684\u56de\u590d.jpg","revisions":[{"revid":27326,"parentid":0,"user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2021-02-17T08:43:45Z","comment":"https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=66613&pid=983868"}]}}}}

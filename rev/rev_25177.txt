@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2966":{"pageid":2966,"ns":0,"title":"AlabTNT","revisions":[{"revid":25177,"parentid":24822,"user":"AlabTNT","timestamp":"2020-12-29T03:56:32Z","comment":""}]}}}}

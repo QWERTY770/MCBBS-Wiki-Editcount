@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"184":{"pageid":184,"ns":0,"title":"\u65e5\u7ecf\u6c34","revisions":[{"revid":16507,"parentid":8016,"minor":"","user":"\u5496\u5566\u5b50","timestamp":"2020-08-03T14:53:19Z","comment":"\u300a[[\u5173\u4e8eMCBBS Wiki\u4e00\u5806\u4eba\u5199\u73a9\u610f\u4e0d\u52a0\u53e5\u53f7\u8fd9\u4ef6\u9b3c\u4e8b]]\u300b"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"316":{"pageid":316,"ns":10,"title":"\u6a21\u677f:color","revisions":[{"revid":1446,"parentid":1413,"minor":"","user":"QWERTY 52 38","timestamp":"2020-04-15T00:21:03Z","comment":"QWERTY 52 38\u79fb\u52a8\u9875\u9762[[\u6a21\u677f:Color]]\u81f3[[\u6a21\u677f:color]]\u8986\u76d6\u91cd\u5b9a\u5411"}]}}}}

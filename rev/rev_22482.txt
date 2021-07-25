@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2912":{"pageid":2912,"ns":0,"title":"Kaunselor","revisions":[{"revid":22482,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-11-10T10:11:12Z","comment":"\u5c06[[Kaunselor]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}

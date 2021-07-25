@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"306":{"pageid":306,"ns":0,"title":"icrdr","revisions":[{"revid":5035,"parentid":4571,"minor":"","user":"Salt lovely","timestamp":"2020-04-25T09:24:03Z","comment":""}]}}}}

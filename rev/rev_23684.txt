@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1290":{"pageid":1290,"ns":0,"title":"ZX\u590f\u591c\u4e4b\u98ce","revisions":[{"revid":23684,"parentid":23683,"minor":"","user":"ZX\u590f\u591c\u4e4b\u98ce","timestamp":"2020-11-19T05:18:47Z","comment":"/* \u79ef\u5206\u6784\u6210 */ \u4fee\u590d\u5c0f\u95ee\u9898"}]}}}}

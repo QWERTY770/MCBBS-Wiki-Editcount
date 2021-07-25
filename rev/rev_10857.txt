@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1232":{"pageid":1232,"ns":2,"title":"\u7528\u6237:Dianliang233/\u683c\u5f0f\u6307\u5bfc","revisions":[{"revid":10857,"parentid":7417,"user":"Kirimoto Aki","timestamp":"2020-06-20T04:43:46Z","comment":""}]}}}}

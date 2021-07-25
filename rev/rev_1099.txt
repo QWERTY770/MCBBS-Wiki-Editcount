@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"269":{"pageid":269,"ns":0,"title":"\u667a\u4e43offical","revisions":[{"revid":1099,"parentid":1097,"user":"- \u84dd\u989c5886 -","timestamp":"2020-04-14T01:45:41Z","comment":"\u64a4\u9500[[Special:Contributions/- \u84dd\u989c5886 -|- \u84dd\u989c5886 -]]\uff08[[User talk:- \u84dd\u989c5886 -|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c1097"}]}}}}

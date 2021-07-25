@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"727":{"pageid":727,"ns":6,"title":"\u6587\u4ef6:Stop hand nuvola purple.png","revisions":[{"revid":3818,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-20T05:21:12Z","comment":""}]}}}}

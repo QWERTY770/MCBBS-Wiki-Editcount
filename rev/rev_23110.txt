@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2034":{"pageid":2034,"ns":6,"title":"\u6587\u4ef6:\u5e2e\u52a9\u6587\u6863\u96be\u5ea6-\u6df1\u6e0a.png","revisions":[{"revid":23110,"parentid":14309,"minor":"","user":"Salt lovely","timestamp":"2020-11-14T13:09:44Z","comment":"\u6dfb\u52a0\u201c\n[[\u5206\u7c7b:Wiki\u56fe\u7247]]\u201d\u5230\u9875\u5c3e"}]}}}}

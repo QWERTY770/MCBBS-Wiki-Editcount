@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1913":{"pageid":1913,"ns":8,"title":"MediaWiki:Newarticletext/namespace/default","revisions":[{"revid":13122,"parentid":0,"user":"Sheep-realms","timestamp":"2020-07-09T13:24:33Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2673":{"pageid":2673,"ns":10,"title":"\u6a21\u677f:getEC","revisions":[{"revid":20044,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-09-18T11:14:40Z","comment":"\u5c06[[Template:getEC]]\u91cd\u5b9a\u5411\u81f3[[\u6a21\u677f:getEditCount]] // Wikiplus"}]}}}}

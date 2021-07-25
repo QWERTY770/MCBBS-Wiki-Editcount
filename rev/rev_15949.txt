@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2205":{"pageid":2205,"ns":0,"title":"CPU\u548c\u5904\u7406\u5668\u4e0d\u662f\u540c\u4e00\u4e2a\u4e1c\u897f\u5417","revisions":[{"revid":15949,"parentid":15947,"user":"800805","timestamp":"2020-07-31T01:15:27Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"588":{"pageid":588,"ns":0,"title":"Charon1","revisions":[{"revid":18706,"parentid":18705,"user":"Charon1","timestamp":"2020-08-24T02:02:42Z","comment":""}]}}}}

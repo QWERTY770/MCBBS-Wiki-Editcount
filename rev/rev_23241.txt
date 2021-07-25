@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2007":{"pageid":2007,"ns":0,"title":"wjwrh","revisions":[{"revid":23241,"parentid":22650,"user":"MashKJo","timestamp":"2020-11-15T02:11:53Z","comment":"// Edit via Wikiplus"}]}}}}

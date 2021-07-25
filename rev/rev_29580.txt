@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3430":{"pageid":3430,"ns":6,"title":"\u6587\u4ef6:\u6cf0\u62c9\u745e\u4e9aTerraria.png","revisions":[{"revid":29580,"parentid":29579,"minor":"","user":"Jaanai","timestamp":"2021-04-25T16:58:39Z","comment":"// Edit via Wikiplus"}]}}}}

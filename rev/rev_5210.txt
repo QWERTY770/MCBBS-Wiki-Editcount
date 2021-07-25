@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"912":{"pageid":912,"ns":0,"title":"Mr Snake","revisions":[{"revid":5210,"parentid":5207,"minor":"","user":"Mr.Snake","timestamp":"2020-04-27T01:28:24Z","comment":"Mr.Snake\u79fb\u52a8\u9875\u9762[[Mr Snake]]\u81f3[[\u7528\u6237:Mr Snake]]"}]}}}}

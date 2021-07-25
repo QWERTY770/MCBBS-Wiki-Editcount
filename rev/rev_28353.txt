@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3335":{"pageid":3335,"ns":8,"title":"MediaWiki:Gadget-popups.js","revisions":[{"revid":28353,"parentid":0,"user":"Sheep-realms","timestamp":"2021-03-17T13:00:05Z","comment":"// Edit via Wikiplus"}]}}}}

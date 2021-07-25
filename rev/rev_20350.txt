@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1894":{"pageid":1894,"ns":2,"title":"\u7528\u6237:MashKJo/common.css","revisions":[{"revid":20350,"parentid":20349,"user":"MashKJo","timestamp":"2020-10-01T08:23:11Z","comment":""}]}}}}

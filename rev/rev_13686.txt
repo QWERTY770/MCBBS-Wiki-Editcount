@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1651":{"pageid":1651,"ns":4,"title":"MCBBS Wiki:FAQ","revisions":[{"revid":13686,"parentid":12966,"minor":"","user":"QWERTY 52 38","timestamp":"2020-07-13T23:17:02Z","comment":"/* \u7528\u6237\u9875\u9762\u5982\u4f55\u4f7f\u7528\uff1f */ // Edit via Wikiplus"}]}}}}

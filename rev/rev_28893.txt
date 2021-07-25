@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1900":{"pageid":1900,"ns":5,"title":"MCBBS Wiki\u8ba8\u8bba:\u7533\u8bf7\u804c\u4f4d","revisions":[{"revid":28893,"parentid":28892,"user":"Jaanai","timestamp":"2021-04-08T00:36:44Z","comment":"/* \u7533\u8bf7\u5de1\u67e5\u5458 */"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2990":{"pageid":2990,"ns":0,"title":"NMFWiki","revisions":[{"revid":23792,"parentid":0,"user":"MashKJo","timestamp":"2020-11-21T05:22:30Z","comment":"// Edit via Wikiplus"}]}}}}

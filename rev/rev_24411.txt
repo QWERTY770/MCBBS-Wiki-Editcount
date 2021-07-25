@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2584":{"pageid":2584,"ns":0,"title":"JJ\u602a\u5927\u6218","revisions":[{"revid":24411,"parentid":19570,"minor":"","user":"\u5751\u89e6\u53ef","timestamp":"2020-12-10T12:20:43Z","comment":"\u3010\u624b\u52a8\u3011\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u300c[ [(\u5206\u7c7b?):\u7528\u6237]]\u300d\u4e3a\u300c\u300d"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"676":{"pageid":676,"ns":0,"title":"skyliye","revisions":[{"revid":10517,"parentid":10496,"user":"\u3053\u3093\u306b\u3061\u306f","timestamp":"2020-06-16T06:05:45Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}

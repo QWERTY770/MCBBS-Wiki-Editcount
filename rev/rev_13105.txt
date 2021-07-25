@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1902":{"pageid":1902,"ns":8,"title":"MediaWiki:Edittools","revisions":[{"revid":13105,"parentid":13104,"user":"Sheep-realms","timestamp":"2020-07-09T12:58:39Z","comment":""}]}}}}

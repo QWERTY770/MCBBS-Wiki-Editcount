@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2387":{"pageid":2387,"ns":2,"title":"\u7528\u6237:\u5496\u5566\u5b50/Quotes","revisions":[{"revid":18149,"parentid":17273,"user":"\u5496\u5566\u5b50","timestamp":"2020-08-18T17:03:18Z","comment":"{{quote|\u4ed6\u8fd8\u80fd\u628a\u6211\u548b\u6837\uff0c\u5c01\u6211\u53f7\u554a?}}"}]}}}}

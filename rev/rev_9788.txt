@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"736":{"pageid":736,"ns":0,"title":"KakaRou","revisions":[{"revid":9788,"parentid":6679,"minor":"","user":"Salt lovely","timestamp":"2020-06-09T04:21:26Z","comment":"// Edit via Wikiplus"}]}}}}

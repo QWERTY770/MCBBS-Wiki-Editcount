@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"112":{"pageid":112,"ns":4,"title":"MCBBS Wiki:\u673a\u5668\u4eba","revisions":[{"revid":25100,"parentid":20483,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-12-26T02:19:02Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}

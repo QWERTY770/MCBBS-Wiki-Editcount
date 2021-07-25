@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1743":{"pageid":1743,"ns":6,"title":"\u6587\u4ef6:AM Starx\u8fb1\u9a82.jpg","revisions":[{"revid":22836,"parentid":22564,"minor":"","user":"Salt lovely","timestamp":"2020-11-14T05:55:49Z","comment":"\u6279\u91cf\u6dfb\u52a0\uff1a\u6dfb\u52a0\u201c[[\u5206\u7c7b:\u8bba\u575b\u622a\u56fe]]\u201d\u5230\u9875\u5c3e \u7b2c 2/5 \u4e2a"}]}}}}

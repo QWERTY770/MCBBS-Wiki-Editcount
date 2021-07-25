@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1832":{"pageid":1832,"ns":0,"title":"drowned qwq","revisions":[{"revid":24868,"parentid":12478,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-17T11:39:22Z","comment":"// Edit via Wikiplus"}]}}}}

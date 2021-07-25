@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"991":{"pageid":991,"ns":8,"title":"MediaWiki:Abusefilter-warning-index-category","revisions":[{"revid":27314,"parentid":5872,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2021-02-17T06:52:45Z","comment":"\u8c01\u5199\u7684 * 2"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"RarityEG","revisions":[{"revid":28434,"parentid":28433,"user":"Skjsjhb","timestamp":"2021-03-20T15:34:06Z","comment":"rm -rf \u65e0\u7528\u5185\u5bb9"}]}}}}

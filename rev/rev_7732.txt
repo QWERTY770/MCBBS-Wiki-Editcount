@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1261":{"pageid":1261,"ns":0,"title":"\u7efc\u5408\u6e38\u620f\u8ba8\u8bba\u533a/\u94b4Cobalt","revisions":[{"revid":7732,"parentid":7729,"minor":"","user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2020-05-20T09:13:36Z","comment":""}]}}}}

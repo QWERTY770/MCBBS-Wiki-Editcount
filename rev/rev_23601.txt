@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"264":{"pageid":264,"ns":0,"title":"Ranick","revisions":[{"revid":23601,"parentid":17474,"user":"MashKJo","timestamp":"2020-11-17T15:28:31Z","comment":"// Edit via Wikiplus"}]}}}}

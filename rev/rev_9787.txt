@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1009":{"pageid":1009,"ns":0,"title":"KakaGou","revisions":[{"revid":9787,"parentid":6678,"minor":"","user":"Salt lovely","timestamp":"2020-06-09T04:21:17Z","comment":"// Edit via Wikiplus"}]}}}}

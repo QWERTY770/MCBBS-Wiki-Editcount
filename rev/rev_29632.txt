@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"24":{"pageid":24,"ns":0,"title":"\u6c34\u5e16","revisions":[{"revid":29632,"parentid":27384,"user":"Game boy","timestamp":"2021-04-26T04:57:00Z","comment":"\u6dfb\u52a0\u5185\u5bb9"}]}}}}

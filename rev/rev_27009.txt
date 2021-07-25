@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3218":{"pageid":3218,"ns":2,"title":"\u7528\u6237:QWERTY 52 38/\u5b58\u6863/MBW/gamerteamed","revisions":[{"revid":27009,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-02-14T00:23:03Z","comment":"// Edit via Wikiplus"}]}}}}

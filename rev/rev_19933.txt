@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2265":{"pageid":2265,"ns":0,"title":"NMFWikiCC\u534f\u8bae\u4e8b\u4ef6","revisions":[{"revid":19933,"parentid":19932,"minor":"","user":"Salt lovely","timestamp":"2020-09-13T04:29:11Z","comment":""}]}}}}

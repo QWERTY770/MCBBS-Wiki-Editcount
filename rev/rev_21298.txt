@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"340":{"pageid":340,"ns":10,"title":"\u6a21\u677f:Ruby","revisions":[{"revid":21298,"parentid":16933,"user":"MashKJo","timestamp":"2020-10-17T12:13:18Z","comment":"// Edit via Wikiplus"}]}}}}

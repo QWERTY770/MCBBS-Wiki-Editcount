@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"912":{"pageid":912,"ns":0,"title":"Mr Snake","revisions":[{"revid":10592,"parentid":9258,"minor":"","user":"Salt lovely","timestamp":"2020-06-16T14:20:49Z","comment":"// Edit via Wikiplus"}]}}}}

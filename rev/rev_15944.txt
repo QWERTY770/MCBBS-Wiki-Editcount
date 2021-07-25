@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2203":{"pageid":2203,"ns":0,"title":"KalphaGo","revisions":[{"revid":15944,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-07-31T00:51:50Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Kakagou]]"}]}}}}

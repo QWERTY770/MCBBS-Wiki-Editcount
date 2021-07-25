@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"99":{"pageid":99,"ns":0,"title":"DDOC","revisions":[{"revid":190,"parentid":154,"user":"MashKJo","timestamp":"2020-04-11T10:54:42Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2828":{"pageid":2828,"ns":12,"title":"\u5e2e\u52a9:HTML\u5143\u7d20\u6807\u7b7e","revisions":[{"revid":21555,"parentid":21554,"user":"QWERTY 52 38","timestamp":"2020-10-21T11:50:44Z","comment":"// Edit via Wikiplus"}]}}}}

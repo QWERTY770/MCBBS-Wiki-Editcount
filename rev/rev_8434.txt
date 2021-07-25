@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"565":{"pageid":565,"ns":0,"title":"\u66b4\u5f92\u4ea7\u5375","revisions":[{"revid":8434,"parentid":8423,"minor":"","user":"Sheep-realms","timestamp":"2020-05-26T00:59:17Z","comment":"\u64a4\u9500[[Special:Contributions/Drowned|Drowned]]\uff08[[User talk:Drowned|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c8423"}]}}}}

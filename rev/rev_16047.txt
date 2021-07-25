@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"439":{"pageid":439,"ns":10,"title":"\u6a21\u677f:\u6025\u9700\u6539\u8fdb","revisions":[{"revid":16047,"parentid":16043,"minor":"","user":"Peanutz1096","timestamp":"2020-08-01T02:11:05Z","comment":"\u64a4\u9500[[Special:Contributions/Peanutz1096|Peanutz1096]]\uff08[[User talk:Peanutz1096|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c16043"}]}}}}

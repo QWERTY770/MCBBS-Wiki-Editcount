@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1140":{"pageid":1140,"ns":0,"title":"kakagou12","revisions":[{"revid":6978,"parentid":0,"user":"Salt lovely","timestamp":"2020-05-13T01:56:34Z","comment":"\u7edd\u4e86\uff0c\u597d\u591a\u9a6c\u7532"}]}}}}

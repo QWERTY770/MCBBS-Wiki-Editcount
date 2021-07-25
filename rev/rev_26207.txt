@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3164":{"pageid":3164,"ns":0,"title":"Herobrine(\u6897)","revisions":[{"revid":26207,"parentid":26206,"user":"QWERTY 52 38","timestamp":"2021-01-26T13:07:44Z","comment":"/* \u7279\u5f81 */ // Edit via Wikiplus"}]}}}}

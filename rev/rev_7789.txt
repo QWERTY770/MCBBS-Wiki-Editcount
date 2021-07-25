@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1262":{"pageid":1262,"ns":0,"title":"Rancy\u4e8b\u4ef6","revisions":[{"revid":7789,"parentid":7706,"minor":"","user":"Salt lovely","timestamp":"2020-05-20T14:56:12Z","comment":"\u4fee\u590d\u5957\u5a03\u91cd\u5b9a\u5411"}]}}}}

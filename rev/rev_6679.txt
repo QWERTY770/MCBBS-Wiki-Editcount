@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"736":{"pageid":736,"ns":0,"title":"KakaRou","revisions":[{"revid":6679,"parentid":3844,"minor":"","user":"Salt lovely","timestamp":"2020-05-10T03:03:57Z","comment":"\u7981\u6b62\u5957\u5a03"}]}}}}

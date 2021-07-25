@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"704":{"pageid":704,"ns":8,"title":"MediaWiki:Abusefilter-warning-whitespace","revisions":[{"revid":5538,"parentid":3727,"user":"Sheep-realms","timestamp":"2020-04-28T16:12:44Z","comment":""}]}}}}

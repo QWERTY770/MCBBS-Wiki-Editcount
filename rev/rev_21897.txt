@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2859":{"pageid":2859,"ns":0,"title":"\u661f\u7687\u4e36\u67e0\u6aac","revisions":[{"revid":21897,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-11-01T05:36:23Z","comment":"\u5c06[[\u661f\u7687\u4e36\u67e0\u6aac]]\u91cd\u5b9a\u5411\u81f3[[\u67e0\u6aac]] // Wikiplus"}]}}}}

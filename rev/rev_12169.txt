@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"675":{"pageid":675,"ns":0,"title":"\u81ea\u7531\u674e\u4ee3\u6570","revisions":[{"revid":12169,"parentid":12168,"user":"DiamondsBlocks","timestamp":"2020-07-02T05:04:54Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"765":{"pageid":765,"ns":2,"title":"\u7528\u6237:Sheep-realms/common.js","revisions":[{"revid":4100,"parentid":4099,"minor":"","user":"Sheep-realms","timestamp":"2020-04-20T16:02:53Z","comment":"Sheep-realms\u79fb\u52a8\u9875\u9762[[\u7528\u6237:Sheep-realms/Common.js]]\u81f3[[\u7528\u6237:Sheep-realms/common.js]]"}]}}}}

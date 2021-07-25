@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1755":{"pageid":1755,"ns":0,"title":"\u7ba1\u7406\u5458/\u4efb\u514d\u5386\u53f2","revisions":[{"revid":11832,"parentid":11788,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-06-28T12:46:03Z","comment":"/* 2013\u5e74 */\u5364\u86cb\u662f\u8d85\u7ea7\u7248\u4e3b\uff0c\u4e0d\u662f\u7ba1\u7406\u5458"}]}}}}

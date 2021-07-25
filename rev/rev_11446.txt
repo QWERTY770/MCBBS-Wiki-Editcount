@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1704":{"pageid":1704,"ns":0,"title":"\u3053\u3093\u306b\u3061\u306f","revisions":[{"revid":11446,"parentid":11443,"minor":"","user":"Sheep-realms","timestamp":"2020-06-25T03:10:33Z","comment":"/* \u4f60\u77e5\u9053\u5417 */ \u81ea\u5df1\u7684\u540d\u5b57\u90fd\u4e0d\u4f1a\u8bfb\u5417 // Edit via Wikiplus"}]}}}}

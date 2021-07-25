@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"744":{"pageid":744,"ns":6,"title":"\u6587\u4ef6:Google Translate logo.png","revisions":[{"revid":23182,"parentid":23181,"user":"MashKJo","timestamp":"2020-11-14T15:03:42Z","comment":"// Edit via Wikiplus"}]}}}}

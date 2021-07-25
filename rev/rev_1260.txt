@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"288":{"pageid":288,"ns":0,"title":"bbsmaster","revisions":[{"revid":1260,"parentid":1259,"user":"Salt lovely","timestamp":"2020-04-14T08:05:49Z","comment":"\u64a4\u9500[[Special:Contributions/Salt lovely|Salt lovely]]\uff08[[User talk:Salt lovely|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c1259"}]}}}}

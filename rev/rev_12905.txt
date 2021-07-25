@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1434":{"pageid":1434,"ns":0,"title":"stang555","revisions":[{"revid":12905,"parentid":12904,"minor":"","user":"A55778866579","timestamp":"2020-07-07T19:20:59Z","comment":""}]}}}}

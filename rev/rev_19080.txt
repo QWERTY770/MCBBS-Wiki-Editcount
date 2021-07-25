@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2281":{"pageid":2281,"ns":2,"title":"\u7528\u6237:QWERTY 52 38/common.css","revisions":[{"revid":19080,"parentid":19018,"minor":"","user":"QWERTY 52 38","timestamp":"2020-08-29T14:02:28Z","comment":"\u9ad8\u4eae\u6d4b\u8bd5\u5931\u8d25"}]}}}}

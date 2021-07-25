@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1068":{"pageid":1068,"ns":0,"title":"papermoon","revisions":[{"revid":6506,"parentid":6505,"user":"Siiftun1857","timestamp":"2020-05-06T15:16:14Z","comment":""}]}}}}

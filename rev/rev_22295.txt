@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2288":{"pageid":2288,"ns":0,"title":"\u5c0f\u80d6\u6a58","revisions":[{"revid":22295,"parentid":16711,"user":"MashKJo","timestamp":"2020-11-08T11:39:51Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u9984\u9968\u4e4b\u5b50]]\u66f4\u6539\u4e3a[[\u51b0\u5ddd\u6a58\u5b50]]"}]}}}}

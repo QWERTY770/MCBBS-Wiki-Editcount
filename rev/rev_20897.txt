@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2771":{"pageid":2771,"ns":14,"title":"\u5206\u7c7b:\u6574\u5408\u5305\u4f5c\u54c1","revisions":[{"revid":20897,"parentid":20896,"minor":"","user":"MashKJo","timestamp":"2020-10-15T15:24:17Z","comment":"MashKJo\u79fb\u52a8\u9875\u9762[[\u5206\u7c7b:\u6574\u5408\u5305]]\u81f3[[\u5206\u7c7b:\u6574\u5408\u5305\u4f5c\u54c1]]"}]}}}}

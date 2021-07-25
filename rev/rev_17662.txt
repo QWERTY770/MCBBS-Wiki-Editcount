@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"715":{"pageid":715,"ns":0,"title":"SPGoding","revisions":[{"revid":17662,"parentid":17349,"minor":"","user":"QWERTY 52 38","timestamp":"2020-08-14T06:54:20Z","comment":"// Edit via Wikiplus"}]}}}}

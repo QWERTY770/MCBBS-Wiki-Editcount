@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang","revisions":[{"revid":159,"parentid":158,"minor":"","user":"MashKJo","timestamp":"2020-04-11T09:47:21Z","comment":"MashKJo\u79fb\u52a8\u9875\u9762[[Bugjump]]\u81f3[[Mojang]]"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"933":{"pageid":933,"ns":0,"title":"\u9b3c\u755c\u755c","revisions":[{"revid":5506,"parentid":5505,"user":"Ghost chu","timestamp":"2020-04-28T11:16:43Z","comment":""}]}}}}

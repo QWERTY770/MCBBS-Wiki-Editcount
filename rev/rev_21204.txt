@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2505":{"pageid":2505,"ns":6,"title":"\u6587\u4ef6:ELPLogo.png","revisions":[{"revid":21204,"parentid":21202,"user":"MashKJo","timestamp":"2020-10-17T08:26:37Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1212":{"pageid":1212,"ns":0,"title":"Stray79","revisions":[{"revid":10606,"parentid":9970,"minor":"","user":"Salt lovely","timestamp":"2020-06-16T14:27:59Z","comment":"// Edit via Wikiplus"}]}}}}

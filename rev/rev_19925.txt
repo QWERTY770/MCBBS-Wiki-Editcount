@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1990":{"pageid":1990,"ns":0,"title":"NMFW","revisions":[{"revid":19925,"parentid":16671,"minor":"","user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2020-09-12T21:59:22Z","comment":"\u53e6\u4e00\u4e2a\u542b\u4e49\u5199\u6e05\u695a\u561b\uff0c\u4e0d\u8981\u6253\u54d1\u8ff7"}]}}}}

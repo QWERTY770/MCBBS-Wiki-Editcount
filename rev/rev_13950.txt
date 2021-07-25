@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2002":{"pageid":2002,"ns":0,"title":"Earfreet","revisions":[{"revid":13950,"parentid":13949,"user":"Sheep-realms","timestamp":"2020-07-16T02:27:25Z","comment":"\u64a4\u9500[[Special:Contributions/Sheep-realms|Sheep-realms]]\uff08[[User talk:Sheep-realms|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c13949"}]}}}}

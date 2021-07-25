@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1508":{"pageid":1508,"ns":0,"title":"\u4e00\u6761\u61d2\u61d2\u72d7","revisions":[{"revid":11829,"parentid":11671,"minor":"","user":"Sheep-realms","timestamp":"2020-06-28T12:44:53Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u5361\u72d7\u635e\u9762]]\u66f4\u6539\u4e3a[[Kakagou]]"}]}}}}

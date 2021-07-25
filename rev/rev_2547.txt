@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"95":{"pageid":95,"ns":0,"title":"magicbear","revisions":[{"revid":2547,"parentid":2218,"user":"Sheep-realms","timestamp":"2020-04-17T07:18:43Z","comment":""}]}}}}

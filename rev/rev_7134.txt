@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1198":{"pageid":1198,"ns":6,"title":"\u6587\u4ef6:Android\u6b63\u7248\u52cb\u7ae0.png","revisions":[{"revid":7134,"parentid":0,"user":"Drowned","timestamp":"2020-05-14T06:24:48Z","comment":""}]}}}}

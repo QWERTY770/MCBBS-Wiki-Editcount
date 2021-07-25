@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"252":{"pageid":252,"ns":0,"title":"Zapic","revisions":[{"revid":8942,"parentid":4567,"minor":"","user":"QWERTY 52 38","timestamp":"2020-05-30T10:20:25Z","comment":"\u7f51\u7ad9\u8fc1\u79fb"}]}}}}

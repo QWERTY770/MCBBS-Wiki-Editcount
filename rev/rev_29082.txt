@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3382":{"pageid":3382,"ns":8,"title":"MediaWiki:HanziConverterPlus.js","revisions":[{"revid":29082,"parentid":0,"user":"Salt lovely","timestamp":"2021-04-15T07:14:16Z","comment":"\u7e41\u7b80\u8f6c\u6362\u5de5\u5177\u8865\u5145\u5305"}]}}}}

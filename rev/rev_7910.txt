@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1284":{"pageid":1284,"ns":0,"title":"\u79ef\u5206\u7edf\u8ba1\u4eba","revisions":[{"revid":7910,"parentid":7909,"minor":"","user":"Sheep-realms","timestamp":"2020-05-22T04:26:27Z","comment":"// Edit via Wikiplus"}]}}}}

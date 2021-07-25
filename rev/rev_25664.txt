@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3114":{"pageid":3114,"ns":0,"title":"\u5927\u533a\u5e38\u52a1\u7248\u4e3b","revisions":[{"revid":25664,"parentid":0,"user":"MashKJo","timestamp":"2021-01-09T15:44:55Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[MCBBS\u5df2\u79fb\u9664\u673a\u5236#\u7ba1\u7406\u7ec4]]"}]}}}}

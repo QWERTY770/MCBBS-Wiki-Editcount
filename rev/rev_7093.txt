@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1175":{"pageid":1175,"ns":10,"title":"\u6a21\u677f:GroupInfoBox","revisions":[{"revid":7093,"parentid":7087,"minor":"","user":"SPGoding","timestamp":"2020-05-14T04:01:06Z","comment":"\u663e\u793a\u7b49\u7ea7\u56fe\u6807\u3002\u5927\u6982\uff0c\u4e0d\u4f1a\u70b8\uff1f"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1918":{"pageid":1918,"ns":0,"title":"YTRIIOO","revisions":[{"revid":13180,"parentid":13179,"user":"QWERTY 52 38","timestamp":"2020-07-10T10:22:59Z","comment":"// Edit via Wikiplus"}]}}}}

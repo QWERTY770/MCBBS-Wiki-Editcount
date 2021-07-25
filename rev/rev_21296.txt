@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"390":{"pageid":390,"ns":10,"title":"\u6a21\u677f:Lan","revisions":[{"revid":21296,"parentid":1713,"user":"MashKJo","timestamp":"2020-10-17T12:12:40Z","comment":"// Edit via Wikiplus"}]}}}}

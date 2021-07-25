@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"621":{"pageid":621,"ns":0,"title":"\u5927\u627f\u6c14\u6c64(\u4f5c\u54c1)","revisions":[{"revid":9930,"parentid":9235,"user":"\u5c0f\u6797\u6700\u725b","timestamp":"2020-06-10T13:55:14Z","comment":"/* \u300a\u5927\u627f\u6c14\u6c64\u300b\u53d1\u5e03\u65f6\u95f4 */"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"379":{"pageid":379,"ns":6,"title":"\u6587\u4ef6:Gnome-emblem-important.png","revisions":[{"revid":22169,"parentid":1682,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-08T03:44:34Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3042":{"pageid":3042,"ns":0,"title":"\u307e\u3075\u307e\u3075","revisions":[{"revid":24375,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-12-08T11:01:59Z","comment":"\u5c06[[\u307e\u3075\u307e\u3075]]\u91cd\u5b9a\u5411\u81f3[[\u5929\u771f\u53ef\u7231\u5496\u5566\u5b50]] // Wikiplus"}]}}}}

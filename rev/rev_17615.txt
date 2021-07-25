@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1963":{"pageid":1963,"ns":12,"title":"\u5e2e\u52a9:\u6d88\u6b67\u4e49\u9875","revisions":[{"revid":17615,"parentid":17614,"minor":"","user":"QWERTY 52 38","timestamp":"2020-08-13T23:51:11Z","comment":"// Edit via Wikiplus"}]}}}}

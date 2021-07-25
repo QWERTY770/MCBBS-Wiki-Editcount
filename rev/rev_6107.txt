@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"120":{"pageid":120,"ns":4,"title":"MCBBS Wiki:\u7533\u8bf7\u804c\u4f4d","revisions":[{"revid":6107,"parentid":5305,"user":"QWERTY 52 38","timestamp":"2020-05-03T03:11:13Z","comment":"/* \u7533\u8bf7\u5de1\u67e5\u5458 */ \u65b0\u7ae0\u8282"}]}}}}

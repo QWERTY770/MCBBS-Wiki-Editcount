@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"57":{"pageid":57,"ns":0,"title":"\u8ff7\u60d1\u7684js","revisions":[{"revid":13278,"parentid":13277,"user":"Earl","timestamp":"2020-07-11T12:47:08Z","comment":"/* \u8bc4\u4ef7 */"}]}}}}

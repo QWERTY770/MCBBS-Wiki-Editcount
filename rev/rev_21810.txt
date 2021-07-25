@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2838":{"pageid":2838,"ns":0,"title":"ganeteam","revisions":[{"revid":21810,"parentid":21745,"minor":"","user":"Wwzlus","timestamp":"2020-10-30T12:16:10Z","comment":"Wwzlus\u79fb\u52a8\u9875\u9762[[gameteam]]\u81f3[[ganeteam]]\uff1a\u6539\u540d"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"293":{"pageid":293,"ns":12,"title":"\u5e2e\u52a9:\u6c99\u76d2/handler","revisions":[{"revid":16156,"parentid":16143,"minor":"","user":"Peanutz1096","timestamp":"2020-08-01T08:39:57Z","comment":"\u64a4\u9500[[Special:Contributions/Peanutz1096|Peanutz1096]]\uff08[[User talk:Peanutz1096|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c16143"}]}}}}

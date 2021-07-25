@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1636":{"pageid":1636,"ns":8,"title":"MediaWiki:Mobile-frontend-editor-abusefilter-warning","revisions":[{"revid":10856,"parentid":10855,"user":"Sheep-realms","timestamp":"2020-06-20T04:42:55Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"343":{"pageid":343,"ns":0,"title":"\u7eff\u5b9d\u77f3","revisions":[{"revid":18867,"parentid":18866,"user":"\u67ab\u9ece\u79cb","timestamp":"2020-08-27T06:28:50Z","comment":"\u64a4\u9500[[Special:Contributions/\u67ab\u9ece\u79cb|\u67ab\u9ece\u79cb]]\uff08[[User talk:\u67ab\u9ece\u79cb|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c18866"}]}}}}

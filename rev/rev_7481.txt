@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"288":{"pageid":288,"ns":0,"title":"bbsmaster","revisions":[{"revid":7481,"parentid":7472,"user":"Dianliang233","timestamp":"2020-05-16T12:19:15Z","comment":"[InPageEdit] \u6ca1\u6709\u7f16\u8f91\u6458\u8981"}]}}}}

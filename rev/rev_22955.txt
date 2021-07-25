@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2939":{"pageid":2939,"ns":10,"title":"\u6a21\u677f:\u6587\u4ef6\u7248\u6743/MediaWiki\u622a\u56fe","revisions":[{"revid":22955,"parentid":22950,"user":"MashKJo","timestamp":"2020-11-14T07:23:12Z","comment":"// Edit via Wikiplus"}]}}}}

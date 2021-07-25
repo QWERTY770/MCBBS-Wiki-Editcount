@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1680":{"pageid":1680,"ns":10,"title":"\u6a21\u677f:\u6587\u4ef6\u7248\u6743/CC BY-NC-SA/doc","revisions":[{"revid":29157,"parentid":11249,"user":"MysticNebula70","timestamp":"2021-04-17T14:48:28Z","comment":""}]}}}}

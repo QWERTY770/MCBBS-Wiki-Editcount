@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"513":{"pageid":513,"ns":8,"title":"MediaWiki:Gadgets-definition","revisions":[{"revid":2618,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-17T08:57:04Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c*DotsSyntaxHighlighter[ResourceLoader]|DotsSyntaxHighlighter.js\u201d"}]}}}}

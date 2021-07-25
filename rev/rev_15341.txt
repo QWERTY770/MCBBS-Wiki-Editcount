@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"618":{"pageid":618,"ns":8,"title":"MediaWiki:Mobile.css","revisions":[{"revid":15341,"parentid":15339,"minor":"","user":"Salt lovely","timestamp":"2020-07-25T16:49:42Z","comment":"\u5de6\u4fa7\u8fb9\u680f// Edit via Wikiplus"}]}}}}

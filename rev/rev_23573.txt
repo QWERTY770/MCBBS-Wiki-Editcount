@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"528":{"pageid":528,"ns":0,"title":"The Redpixel","revisions":[{"revid":23573,"parentid":16129,"minor":"","user":"Salt lovely","timestamp":"2020-11-17T13:08:42Z","comment":"\u6dfb\u52a0\u201c[[\u5206\u7c7b:\u7ea2\u77f3\u7814\u7a76\u5c0f\u7ec4]]\u201d\u5230\u9875\u5c3e"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3334":{"pageid":3334,"ns":8,"title":"MediaWiki:Gadget-Navigation popups","revisions":[{"revid":28362,"parentid":28352,"user":"Sheep-realms","timestamp":"2021-03-17T13:13:49Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3188":{"pageid":3188,"ns":0,"title":"\ud83e\udd76\u2744\ufe0f\u2620\ufe0f","revisions":[{"revid":26456,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-02-02T08:59:26Z","comment":"\u5c06[[\ud83e\udd76\u2744\ufe0f\u2620\ufe0f]]\u91cd\u5b9a\u5411\u81f3[[Stray79]] // Wikiplus"}]}}}}

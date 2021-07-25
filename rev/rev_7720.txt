@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"804":{"pageid":804,"ns":0,"title":"\u56db\u4e5d\u4e8b\u4ef6","revisions":[{"revid":7720,"parentid":4360,"minor":"","user":"Salt lovely","timestamp":"2020-05-20T07:46:36Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u56db\u00b7\u4e5d\u4e8b\u4ef6]]\u66f4\u6539\u4e3a[[\u56db\u00b7\u4e5d\u5c41\u7237\u4e8b\u4ef6]]"}]}}}}

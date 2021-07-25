@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"699":{"pageid":699,"ns":6,"title":"\u6587\u4ef6:\u88ab\u8bef\u8ba4\u4e3a\u56de\u590d\u5237\u5c4f.png","revisions":[{"revid":3709,"parentid":0,"user":"\u7231\u5fc3\u9b54\u738bFHC","timestamp":"2020-04-19T16:02:25Z","comment":"\u88ab\u8bef\u8ba4\u4e3a\u56de\u590d\u5237\u5c4f"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"19":{"pageid":19,"ns":1,"title":"\u8ba8\u8bba:\u8ba8\u8bba\u677f","revisions":[{"revid":12316,"parentid":12272,"user":"Dianliang233","timestamp":"2020-07-04T03:09:07Z","comment":"[InPageEdit] \u6ca1\u6709\u7f16\u8f91\u6458\u8981 /* javascript\u8bf7\u6559 */"}]}}}}

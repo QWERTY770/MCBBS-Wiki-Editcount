@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2068":{"pageid":2068,"ns":0,"title":"\u9524\u826f\u9524\u5f71","revisions":[{"revid":23323,"parentid":14605,"minor":"","user":"QWERTY 52 38","timestamp":"2020-11-15T06:39:47Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u6d6e\u4e16\u5fb7]]\u66f4\u6539\u4e3a[[\u767d\u53f6Official]]"}]}}}}

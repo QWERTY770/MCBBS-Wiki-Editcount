@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"725":{"pageid":725,"ns":0,"title":"ff98sha","revisions":[{"revid":20806,"parentid":20432,"user":"MashKJo","timestamp":"2020-10-15T10:18:58Z","comment":"// Edit via Wikiplus"}]}}}}

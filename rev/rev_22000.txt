@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"537":{"pageid":537,"ns":8,"title":"MediaWiki:Abusefilter-warning-short-new-article","revisions":[{"revid":22000,"parentid":14281,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-06T05:05:11Z","comment":""}]}}}}

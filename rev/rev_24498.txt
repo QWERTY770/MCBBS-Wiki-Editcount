@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1918":{"pageid":1918,"ns":0,"title":"YTRIIOO","revisions":[{"revid":24498,"parentid":15241,"minor":"","user":"Salt lovely","timestamp":"2020-12-11T11:11:39Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2101":{"pageid":2101,"ns":6,"title":"\u6587\u4ef6:JvCP logo.jpeg","revisions":[{"revid":14941,"parentid":0,"user":"Skjsjhb","timestamp":"2020-07-22T16:39:38Z","comment":""}]}}}}

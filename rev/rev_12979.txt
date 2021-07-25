@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1780":{"pageid":1780,"ns":4,"title":"MCBBS Wiki:\u7ba1\u7406\u5458\u544a\u793a\u677f/\u5b58\u6863/2020\u5e74/4\u6708","revisions":[{"revid":12979,"parentid":11925,"minor":"","user":"Salt lovely","timestamp":"2020-07-08T12:51:26Z","comment":"\u53cc\u91cd\u5957\u5a03// Edit via Wikiplus"}]}}}}

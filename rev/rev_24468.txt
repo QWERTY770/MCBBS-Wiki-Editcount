@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"668":{"pageid":668,"ns":0,"title":"ouAuAuo","revisions":[{"revid":24468,"parentid":23936,"minor":"","user":"Salt lovely","timestamp":"2020-12-11T10:59:47Z","comment":"// Edit via Wikiplus"}]}}}}

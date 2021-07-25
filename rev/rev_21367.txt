@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1651":{"pageid":1651,"ns":4,"title":"MCBBS Wiki:FAQ","revisions":[{"revid":21367,"parentid":13686,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-10-18T03:38:46Z","comment":"// Edit via Wikiplus"}]}}}}

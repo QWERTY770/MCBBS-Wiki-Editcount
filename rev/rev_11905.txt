@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"97":{"pageid":97,"ns":0,"title":"geludan","revisions":[{"revid":11905,"parentid":11041,"minor":"","user":"\u78e8\u783a","timestamp":"2020-06-29T00:58:39Z","comment":""}]}}}}

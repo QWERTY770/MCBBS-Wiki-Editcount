@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"987":{"pageid":987,"ns":0,"title":"\u5446\u74dcDomado","revisions":[{"revid":8518,"parentid":5999,"minor":"","user":"Sheep-realms","timestamp":"2020-05-27T01:55:37Z","comment":"\u4fee\u590d\u6a21\u677f\u53c2\u6570"}]}}}}

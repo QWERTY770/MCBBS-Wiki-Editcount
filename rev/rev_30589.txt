@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"258":{"pageid":258,"ns":1,"title":"\u8ba8\u8bba:\u8ff7\u60d1\u7684js","revisions":[{"revid":30589,"parentid":27282,"minor":"","user":"\u6d1e\u7a74\u591c\u83ba","timestamp":"2021-05-30T01:54:28Z","comment":"\u6d1e\u7a74\u591c\u83ba\u79fb\u52a8\u9875\u9762[[\u8ba8\u8bba:\u5c45\u4ed5]]\u81f3[[\u8ba8\u8bba:Enjous]]\uff1a\u6539\u540d"}]}}}}

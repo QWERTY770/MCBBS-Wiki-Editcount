@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"95":{"pageid":95,"ns":0,"title":"magicbear","revisions":[{"revid":11143,"parentid":9883,"minor":"","user":"Salt lovely","timestamp":"2020-06-22T08:35:40Z","comment":"// Edit via Wikiplus"}]}}}}

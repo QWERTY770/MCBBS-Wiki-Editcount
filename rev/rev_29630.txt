@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"452":{"pageid":452,"ns":0,"title":"\u7248\u57571522","revisions":[{"revid":29630,"parentid":29629,"user":"LeoPro","timestamp":"2021-04-26T04:48:26Z","comment":"\u64a4\u9500[[Special:Contributions/Game boy|Game boy]]\uff08[[User talk:Game boy|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c29629 (\u8ff7\u60d1\u7f16\u8f91)"}]}}}}

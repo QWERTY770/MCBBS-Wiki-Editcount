@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2100":{"pageid":2100,"ns":0,"title":"JvCP","revisions":[{"revid":14948,"parentid":14942,"user":"MashKJo","timestamp":"2020-07-23T01:06:33Z","comment":"// Edit via Wikiplus"}]}}}}

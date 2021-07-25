@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"107":{"pageid":107,"ns":0,"title":"\u9493\u9c7c\u5e16","revisions":[{"revid":172,"parentid":0,"user":"MashKJo","timestamp":"2020-04-11T09:55:42Z","comment":"MashKJo\u79fb\u52a8\u9875\u9762[[\u9493\u9c7c\u5e16]]\u81f3[[\u9493\u9c7c\u4e8b\u4ef6]]"}]}}}}

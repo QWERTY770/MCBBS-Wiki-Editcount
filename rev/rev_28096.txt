@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3315":{"pageid":3315,"ns":6,"title":"\u6587\u4ef6:BoneStudio.png","revisions":[{"revid":28096,"parentid":0,"user":"-xiao kai-","timestamp":"2021-03-06T21:15:33Z","comment":""}]}}}}

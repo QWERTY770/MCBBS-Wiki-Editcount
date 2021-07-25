@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"503":{"pageid":503,"ns":0,"title":"\u7ba1\u7406\u5458","revisions":[{"revid":28216,"parentid":22678,"user":"Eterstars","timestamp":"2021-03-12T14:36:05Z","comment":"\u66f4\u65b0 gamerteam\u65b0\u7ba1\u7406"}]}}}}

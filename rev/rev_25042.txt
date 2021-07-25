@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3070":{"pageid":3070,"ns":2,"title":"\u7528\u6237:\u81ea\u7531\u674e\u4ee3\u6570-bot","revisions":[{"revid":25042,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-12-24T15:00:09Z","comment":"\u5148\u7528\u5927\u53f7\u521b\u5efa\u4e0a\uff0c\u61d2\u5f97\u7b49\u4e00\u5929\u4e86\u3002"}]}}}}

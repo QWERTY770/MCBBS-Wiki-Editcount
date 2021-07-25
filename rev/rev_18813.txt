@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2567":{"pageid":2567,"ns":0,"title":"\u4ee3\u6570","revisions":[{"revid":18813,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-08-26T06:04:33Z","comment":"Redirect [[\u4ee3\u6570]] to [[\u81ea\u7531\u674e\u4ee3\u6570]] // Wikiplus"}]}}}}

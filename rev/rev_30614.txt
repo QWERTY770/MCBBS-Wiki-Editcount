@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"323":{"pageid":323,"ns":8,"title":"MediaWiki:Common.css","revisions":[{"revid":30614,"parentid":30491,"minor":"","user":"Salt lovely","timestamp":"2021-05-31T04:48:30Z","comment":"\u4f18\u5316\u53f3\u4fa7\u4fe1\u606f\u680f\u56fe\u7247\u663e\u793a\u95ee\u9898\uff0c\u4f18\u5316\u9ed1\u5e55\u6548\u679c"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"155":{"pageid":155,"ns":0,"title":"PTSD\u221d\u9f8c\u9f8a\u95f5","revisions":[{"revid":10288,"parentid":10285,"minor":"","user":"PTSD\u221d\u9f8c\u9f8a\u95f5","timestamp":"2020-06-14T08:17:37Z","comment":"/* \u9f8c\u8e49\u95f5\u662f\u600e\u4e48\u6c34\u4e3b\u9898\u7684 */"}]}}}}

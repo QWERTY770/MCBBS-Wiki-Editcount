@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"195":{"pageid":195,"ns":0,"title":"MCBBS","revisions":[{"revid":11558,"parentid":11557,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-06-25T21:42:26Z","comment":"/* 2013\u5e74 */\u6742\u9879\u95ee\u9898\uff1b\n\u7b97\u4e86\u592a\u7d2f\u4e86\uff0c\u4eca\u5929\u5c31\u642c\u8fd0\u4e00\u5e74\u7684\u5386\u53f2\u5427"}]}}}}

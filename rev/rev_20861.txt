@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2770":{"pageid":2770,"ns":0,"title":"Mojang AB","revisions":[{"revid":20861,"parentid":20860,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-10-15T12:27:42Z","comment":"// Edit via Wikiplus"}]}}}}

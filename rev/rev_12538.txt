@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1838":{"pageid":1838,"ns":0,"title":"\u5929\u7fbd","revisions":[{"revid":12538,"parentid":12537,"user":"\u5929\u7fbd","timestamp":"2020-07-05T12:42:43Z","comment":"\u64a4\u9500[[Special:Contributions/\u5929\u7fbd|\u5929\u7fbd]]\uff08[[User talk:\u5929\u7fbd|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c12537"}]}}}}

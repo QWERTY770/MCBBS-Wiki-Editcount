@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2593":{"pageid":2593,"ns":0,"title":"KVIWNNVQSBGD","revisions":[{"revid":24409,"parentid":24151,"minor":"","user":"\u5751\u89e6\u53ef","timestamp":"2020-12-10T12:18:27Z","comment":"\u3010\u624b\u52a8\u3011\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u300c[[(\u5206\u7c7b?):\u7528\u6237]]\u300d\u4e3a\u300c\u300d"}]}}}}

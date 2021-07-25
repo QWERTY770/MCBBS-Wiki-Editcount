@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2263":{"pageid":2263,"ns":0,"title":"NTanFine","revisions":[{"revid":21177,"parentid":16440,"user":"MashKJo","timestamp":"2020-10-17T07:57:15Z","comment":"// Edit via Wikiplus"}]}}}}

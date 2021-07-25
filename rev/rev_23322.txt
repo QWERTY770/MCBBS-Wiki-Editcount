@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1092":{"pageid":1092,"ns":0,"title":"TGC-\u6d6e\u4e16\u5fb7","revisions":[{"revid":23322,"parentid":6687,"minor":"","user":"QWERTY 52 38","timestamp":"2020-11-15T06:39:34Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u6d6e\u4e16\u5fb7]]\u66f4\u6539\u4e3a[[\u767d\u53f6Official]]"}]}}}}

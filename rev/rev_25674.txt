@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2296":{"pageid":2296,"ns":0,"title":"Mod\u53d1\u5e03/1.7.10\u4e13\u533a","revisions":[{"revid":25674,"parentid":17632,"minor":"","user":"Salt lovely","timestamp":"2021-01-10T05:29:21Z","comment":"// Edit via Wikiplus"}]}}}}

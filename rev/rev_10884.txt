@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1140":{"pageid":1140,"ns":0,"title":"kakagou12","revisions":[{"revid":10884,"parentid":9786,"user":"Ff98sha","timestamp":"2020-06-20T08:59:59Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u5361\u72d7\u635e\u9762]]\u66f4\u6539\u4e3a[[Kakagou]]"}]}}}}

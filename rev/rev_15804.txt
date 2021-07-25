@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"77":{"pageid":77,"ns":0,"title":"\u672b\u8def\u4e4b\u5730(\u7248\u5757)","revisions":[{"revid":15804,"parentid":15803,"minor":"","user":"\u5496\u5566\u5b50","timestamp":"2020-07-29T19:15:00Z","comment":"/* \u57fa\u672c\u89c4\u5b9a */ \u7248\u89c4\u4e5f\u80fd\u6f0f\u53e5\u53f7\uff0c\u9707\u64bc\u5496\u67d0\u4eba"}]}}}}

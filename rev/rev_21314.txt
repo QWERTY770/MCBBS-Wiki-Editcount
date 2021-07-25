@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2637":{"pageid":2637,"ns":10,"title":"\u6a21\u677f:IsDevidedExactly","revisions":[{"revid":21314,"parentid":19677,"user":"MashKJo","timestamp":"2020-10-17T12:21:20Z","comment":"// Edit via Wikiplus"}]}}}}

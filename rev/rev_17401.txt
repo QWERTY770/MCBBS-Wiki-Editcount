@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1241":{"pageid":1241,"ns":0,"title":"\u677f\u7816w","revisions":[{"revid":17401,"parentid":17398,"user":"DiamondsBlocks","timestamp":"2020-08-12T07:25:02Z","comment":"// Edit via Wikiplus"}]}}}}

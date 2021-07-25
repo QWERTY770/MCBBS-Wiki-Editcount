@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"675":{"pageid":675,"ns":0,"title":"\u81ea\u7531\u674e\u4ee3\u6570","revisions":[{"revid":19877,"parentid":19876,"user":"MashKJo","timestamp":"2020-09-12T02:06:57Z","comment":"\u64a4\u9500[[Special:Contributions/MashKJo|MashKJo]]\uff08[[User talk:MashKJo|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c19876"}]}}}}

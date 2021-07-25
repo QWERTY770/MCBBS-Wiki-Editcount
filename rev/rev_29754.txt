@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3447":{"pageid":3447,"ns":2,"title":"\u7528\u6237:Salt/common.js","revisions":[{"revid":29754,"parentid":0,"user":"Salt","timestamp":"2021-05-01T02:43:02Z","comment":"\u5efa\u7acb\u5185\u5bb9\u4e3a\u201cmw.loader.load('https://cdn.jsdelivr.net/gh/mcbbs-wiki/SaltUI/SaltUI-MCBBSWiki.js')\u201d\u7684\u65b0\u9875\u9762"}]}}}}

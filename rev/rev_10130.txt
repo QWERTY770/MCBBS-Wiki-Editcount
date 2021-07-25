@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1535":{"pageid":1535,"ns":10,"title":"\u6a21\u677f:NameSpaceTest","revisions":[{"revid":10130,"parentid":10129,"minor":"","user":"Sheep-realms","timestamp":"2020-06-13T02:28:01Z","comment":""}]}}}}

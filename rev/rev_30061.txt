@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"39":{"pageid":39,"ns":10,"title":"\u6a21\u677f:quote","revisions":[{"revid":30061,"parentid":30060,"user":"Sheep-realms","timestamp":"2021-05-10T13:30:03Z","comment":""}]}}}}

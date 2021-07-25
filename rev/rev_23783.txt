@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2838":{"pageid":2838,"ns":0,"title":"ganeteam","revisions":[{"revid":23783,"parentid":23257,"minor":"","user":"Salt lovely","timestamp":"2020-11-21T02:58:01Z","comment":"\u66ff\u6362 \u201c== \u6ce8\u91ca ==\u201d \u4e3a \u201c== \u6ce8\u91ca\u4e0e\u5916\u90e8\u94fe\u63a5 ==\u201d"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2568":{"pageid":2568,"ns":0,"title":"\u72d7\u5934","revisions":[{"revid":18814,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-08-26T06:05:06Z","comment":"Redirect [[\u72d7\u5934]] to [[...]] // Wikiplus"}]}}}}

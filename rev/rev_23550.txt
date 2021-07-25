@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2972":{"pageid":2972,"ns":0,"title":"\u8bba\u575b","revisions":[{"revid":23550,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-11-17T11:07:32Z","comment":"\u5c06[[\u8bba\u575b]]\u91cd\u5b9a\u5411\u81f3[[MCBBS]] // Wikiplus"}]}}}}

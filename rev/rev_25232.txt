@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2588":{"pageid":2588,"ns":0,"title":"Sakura End","revisions":[{"revid":25232,"parentid":19062,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-30T14:07:55Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u6d88\u5931\u5931\u5931\u5931]]\u66f4\u6539\u4e3a[[\u6d88\u5931\u4e8e\u4e16]]"}]}}}}

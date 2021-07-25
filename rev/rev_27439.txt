@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3270":{"pageid":3270,"ns":6,"title":"\u6587\u4ef6:Minecraft Earth board picture.png","revisions":[{"revid":27439,"parentid":0,"user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2021-02-19T03:52:42Z","comment":"\u300a\u6211\u7684\u4e16\u754c\uff1a\u5730\u7403\u300b\u7248\u5757\u56fe\u6807"}]}}}}

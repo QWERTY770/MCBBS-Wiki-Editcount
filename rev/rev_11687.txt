@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"725":{"pageid":725,"ns":0,"title":"ff98sha","revisions":[{"revid":11687,"parentid":11686,"minor":"","user":"\u571f\u7403\u7403","timestamp":"2020-06-27T07:33:17Z","comment":""}]}}}}

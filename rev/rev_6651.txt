@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"39":{"pageid":39,"ns":10,"title":"\u6a21\u677f:quote","revisions":[{"revid":6651,"parentid":1525,"user":"Dianliang233","timestamp":"2020-05-10T02:01:07Z","comment":"0202\u5e74\u5566 \u6709\u4eba\u8fd8\u5728\u7528table\u6392\u7248 \u6211\u771ftm\u5c51\u5c51\u4f60\u54e6\uff08"}]}}}}

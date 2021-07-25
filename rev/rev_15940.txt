@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2199":{"pageid":2199,"ns":0,"title":"\u6211\u5403\u76d0\u6912\u849c","revisions":[{"revid":15940,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-07-31T00:40:04Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Kakagou]]"}]}}}}

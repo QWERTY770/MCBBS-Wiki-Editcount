@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"751":{"pageid":751,"ns":0,"title":"Greensky","revisions":[{"revid":10570,"parentid":5973,"minor":"","user":"Salt lovely","timestamp":"2020-06-16T12:53:00Z","comment":"// Edit via Wikiplus"}]}}}}

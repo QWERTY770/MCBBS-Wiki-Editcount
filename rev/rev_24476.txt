@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1434":{"pageid":1434,"ns":0,"title":"stang555","revisions":[{"revid":24476,"parentid":23236,"minor":"","user":"Salt lovely","timestamp":"2020-12-11T11:03:06Z","comment":"// Edit via Wikiplus"}]}}}}

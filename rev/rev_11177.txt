@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1284":{"pageid":1284,"ns":0,"title":"\u79ef\u5206\u7edf\u8ba1\u4eba","revisions":[{"revid":11177,"parentid":11028,"minor":"","user":"DiamondsBlocks","timestamp":"2020-06-22T14:22:39Z","comment":"DiamondsBlocks\u79fb\u52a8\u9875\u9762[[\u90a3\u8fb9\u7684\u4eba]]\u81f3[[\u79ef\u5206\u7edf\u8ba1\u4eba]]\uff1a\u7528\u6237\u6539\u540d"}]}}}}

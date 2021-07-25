@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2298":{"pageid":2298,"ns":0,"title":"FHC\u7ea2\u77f3","revisions":[{"revid":16754,"parentid":0,"user":"800805","timestamp":"2020-08-07T08:38:11Z","comment":"800805\u79fb\u52a8\u9875\u9762[[FHC\u7ea2\u77f3]]\u81f3[[== \u6bcf\u53e5\u8bdd\u540e\u9762\u662f\u5426\u90fd\u8981\u52a0\u53e5\u53f7 ==]]"}]}}}}

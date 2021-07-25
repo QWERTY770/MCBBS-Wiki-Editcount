@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3134":{"pageid":3134,"ns":10,"title":"\u6a21\u677f:\u70df\u82b1","revisions":[{"revid":25854,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-01-20T06:07:42Z","comment":"\u5c06[[Template:\u70df\u82b1]]\u91cd\u5b9a\u5411\u81f3[[\u6a21\u677f:FireWork]] // Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3148":{"pageid":3148,"ns":8,"title":"MediaWiki:Vector.js","revisions":[{"revid":26024,"parentid":26020,"minor":"","user":"Salt lovely","timestamp":"2021-01-24T02:13:30Z","comment":"ES2015 == ES5 // false ; mw.ES2015 === mwES5 //"}]}}}}

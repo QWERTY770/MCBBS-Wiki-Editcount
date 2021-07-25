@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"19":{"pageid":19,"ns":1,"title":"\u8ba8\u8bba:\u8ba8\u8bba\u677f","revisions":[{"revid":8204,"parentid":8203,"user":"QWERTY 52 38","timestamp":"2020-05-24T08:03:51Z","comment":"/* \u5173\u4e8e\u201cMCBBS\u201d */"}]}}}}

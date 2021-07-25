@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2910":{"pageid":2910,"ns":12,"title":"\u5e2e\u52a9:\u5f00\u53d1\u8005\u6587\u6863","revisions":[{"revid":22475,"parentid":22474,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-09T14:16:16Z","comment":"/* mw.ui */"}]}}}}

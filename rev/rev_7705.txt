@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1113":{"pageid":1113,"ns":0,"title":"5\u00b71\u53cd\u9988\u7248\u7248\u6218\u4e8b\u4ef6","revisions":[{"revid":7705,"parentid":7701,"minor":"","user":"Salt lovely","timestamp":"2020-05-20T07:11:44Z","comment":"Salt lovely\u79fb\u52a8\u9875\u9762[[Rancy\u4e8b\u4ef6]]\u81f3[[\u4e94\u00b7\u4e00\u53cd\u9988\u7248\u7248\u6218\u4e8b\u4ef6]]"}]}}}}

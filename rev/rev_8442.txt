@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1324":{"pageid":1324,"ns":0,"title":"Herobrine(\u7528\u6237\u7ec4)","revisions":[{"revid":8442,"parentid":8286,"user":"Xiang xge","timestamp":"2020-05-26T02:39:21Z","comment":"/* \u83b7\u5f97 */"}]}}}}

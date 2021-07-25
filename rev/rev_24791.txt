@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3059":{"pageid":3059,"ns":8,"title":"MediaWiki:Gadget-PrismLoader.js","revisions":[{"revid":24791,"parentid":0,"user":"Salt lovely","timestamp":"2020-12-16T08:43:03Z","comment":"."}]}}}}

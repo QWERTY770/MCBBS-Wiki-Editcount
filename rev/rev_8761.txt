@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"587":{"pageid":587,"ns":0,"title":"\u53e3\u5410\u82ac\u82b3","revisions":[{"revid":8761,"parentid":8759,"user":"Salt lovely","timestamp":"2020-05-29T08:04:01Z","comment":"\u8fd9\u4e2a\u9875\u9762\u4e0d\u592a\u201cMCBBS\u201d\uff1b\u8bba\u575b\u6ca1\u6709\u201c\u7d20\u8d28\u5e7f\u573a\u201d\uff1b\u6dfb\u52a0\u4e86\u70b9\u4e1c\u897f"}]}}}}

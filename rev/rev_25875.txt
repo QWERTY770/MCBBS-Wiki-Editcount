@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3133":{"pageid":3133,"ns":10,"title":"\u6a21\u677f:FireWork","revisions":[{"revid":25875,"parentid":25873,"minor":"","user":"Salt lovely","timestamp":"2021-01-20T13:49:49Z","comment":"// Edit via Wikiplus"}]}}}}

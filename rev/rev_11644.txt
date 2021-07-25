@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1740":{"pageid":1740,"ns":6,"title":"\u6587\u4ef6:Danny\u4ed4\u4e3e\u62a5LonelyLoner.jpg","revisions":[{"revid":11644,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-06-26T22:33:19Z","comment":""}]}}}}

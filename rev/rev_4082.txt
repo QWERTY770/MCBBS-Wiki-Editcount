@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"757":{"pageid":757,"ns":6,"title":"\u6587\u4ef6:Logo.png","revisions":[{"revid":4082,"parentid":0,"user":"Eicy","timestamp":"2020-04-20T14:03:35Z","comment":"BY:1.Minecraft Wiki 2.FHC"}]}}}}

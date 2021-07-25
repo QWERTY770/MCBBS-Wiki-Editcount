@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2028":{"pageid":2028,"ns":8,"title":"MediaWiki:Abusefilter-warning-large-lsegment-deletion","revisions":[{"revid":27315,"parentid":14283,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2021-02-17T06:53:06Z","comment":"\u8c01\u5199\u7684 * 3"}]}}}}

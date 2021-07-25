@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"10":{"pageid":10,"ns":6,"title":"\u6587\u4ef6:Diamond.png","revisions":[{"revid":22275,"parentid":4419,"user":"MashKJo","timestamp":"2020-11-08T11:23:38Z","comment":""}]}}}}

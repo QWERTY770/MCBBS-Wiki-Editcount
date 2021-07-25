@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3250":{"pageid":3250,"ns":0,"title":"Eterstars","revisions":[{"revid":28234,"parentid":28185,"user":"Fsddg 41","timestamp":"2021-03-13T02:23:31Z","comment":"/* \u8bba\u575b\u751f\u6daf */"}]}}}}

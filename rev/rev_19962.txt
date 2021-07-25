@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"139":{"pageid":139,"ns":0,"title":"QWERTY770","revisions":[{"revid":19962,"parentid":19002,"user":"QWERTY 52 38","timestamp":"2020-09-13T10:03:51Z","comment":"// Edit via Wikiplus"}]}}}}

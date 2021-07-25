@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1839":{"pageid":1839,"ns":2,"title":"\u7528\u6237:MappyJ","revisions":[{"revid":12624,"parentid":12585,"user":"\u5751\u89e6\u53ef","timestamp":"2020-07-06T03:09:41Z","comment":"\u8bf7\u4f7f\u7528[[\u6a21\u677f:\u7ef4\u57fa\u7528\u6237\u4fe1\u606f]]/\u5728\u4e3b\u6761\u76ee\u7a7a\u95f4\u4f7f\u7528[[\u6a21\u677f:PersonInfoBox]]"}]}}}}

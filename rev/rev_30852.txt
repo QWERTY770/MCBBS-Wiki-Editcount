@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3576":{"pageid":3576,"ns":8,"title":"MediaWiki:SaltAlbum.js","revisions":[{"revid":30852,"parentid":0,"user":"Salt lovely","timestamp":"2021-06-08T16:31:10Z","comment":"github\u4e0a\u4e0d\u53bb\uff0c\u6e90\u7801\u7b49\u4f1a\u66f4\u65b0..."}]}}}}

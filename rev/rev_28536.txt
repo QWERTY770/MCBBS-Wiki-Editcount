@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2743":{"pageid":2743,"ns":274,"title":"Widget:getMCBBSAvatar","revisions":[{"revid":28536,"parentid":25174,"minor":"","user":"Salt lovely","timestamp":"2021-03-25T05:01:36Z","comment":"\u65b0\u589e\u56fe\u7247\u52a0\u8f7d\u5931\u8d25\u540e\u7684\u91cd\u8bd5\u4e0e\u663e\u793a\u9ed8\u8ba4\u5934\u50cf"}]}}}}

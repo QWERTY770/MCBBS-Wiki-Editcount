@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2202":{"pageid":2202,"ns":0,"title":"Kalice","revisions":[{"revid":15943,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-07-31T00:51:25Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Kakagou]]"}]}}}}

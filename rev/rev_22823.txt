@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2925":{"pageid":2925,"ns":0,"title":"\u6d6e\u4e16\u5fb7","revisions":[{"revid":22823,"parentid":0,"user":"\u5751\u89e6\u53ef","timestamp":"2020-11-14T05:30:17Z","comment":"\u5751\u89e6\u53ef\u79fb\u52a8\u9875\u9762[[\u6d6e\u4e16\u5fb7]]\u81f3[[\u767d\u53f6Official]]\uff1a\u91cd\u547d\u540d"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1138":{"pageid":1138,"ns":0,"title":"\u5624\u5c0f\u6a31","revisions":[{"revid":6969,"parentid":0,"user":"Drowned","timestamp":"2020-05-12T23:29:38Z","comment":"\u7528\u6237\u201c\u82cf\u8f9e\u6ca1\u7761\u9971\u201d\u5df2\u540c\u610f\u521b\u5efa\u5e76\u7f16\u8f91\u6b64\u9875\u9762"}]}}}}

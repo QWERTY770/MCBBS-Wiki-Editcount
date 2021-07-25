@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1395":{"pageid":1395,"ns":0,"title":"Ling NPC","revisions":[{"revid":9886,"parentid":8675,"minor":"","user":"Salt lovely","timestamp":"2020-06-09T14:25:20Z","comment":"\u8bf7\u4f7f\u7528\u79fb\u52a8\u529f\u80fd// Edit via Wikiplus"}]}}}}

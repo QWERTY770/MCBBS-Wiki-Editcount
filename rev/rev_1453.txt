@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"335":{"pageid":335,"ns":10,"title":"\u6a21\u677f:Yesno","revisions":[{"revid":1453,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-15T00:36:38Z","comment":"\u521b\u5efa\u8f85\u52a9\u6a21\u677f"}]}}}}

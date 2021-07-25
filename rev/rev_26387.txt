@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"938":{"pageid":938,"ns":0,"title":"ir-0","revisions":[{"revid":26387,"parentid":26385,"user":"46f","timestamp":"2021-02-01T10:58:40Z","comment":""}]}}}}

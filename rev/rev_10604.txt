@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1448":{"pageid":1448,"ns":0,"title":"Salt lovely","revisions":[{"revid":10604,"parentid":9867,"minor":"","user":"Salt lovely","timestamp":"2020-06-16T14:27:31Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1986":{"pageid":1986,"ns":2,"title":"\u7528\u6237:\u94bb\u77f3ew666/\u6c99\u76d2/Pycmd","revisions":[{"revid":13803,"parentid":13802,"user":"\u94bb\u77f3ew666","timestamp":"2020-07-15T01:56:24Z","comment":"/* \u66f4\u65b0\u548c\u4f18\u5316 */"}]}}}}

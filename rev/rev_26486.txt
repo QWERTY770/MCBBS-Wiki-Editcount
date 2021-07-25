@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2588":{"pageid":2588,"ns":0,"title":"Sakura End","revisions":[{"revid":26486,"parentid":25232,"minor":"","user":"\u6d1e\u7a74\u591c\u83ba","timestamp":"2021-02-02T14:45:01Z","comment":"\u5957\u5a03"}]}}}}

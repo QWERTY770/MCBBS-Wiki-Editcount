@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1622":{"pageid":1622,"ns":2,"title":"\u7528\u6237:Salt lovely/common.css","revisions":[{"revid":22518,"parentid":22516,"minor":"","user":"Salt lovely","timestamp":"2020-11-12T01:45:58Z","comment":"\u64a4\u9500[[Special:Contributions/Salt lovely|Salt lovely]]\uff08[[User talk:Salt lovely|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c22516"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"951":{"pageid":951,"ns":8,"title":"MediaWiki:Abusefilter-warning-sysop-template","revisions":[{"revid":27425,"parentid":27407,"minor":"","user":"Eicy","timestamp":"2021-02-19T01:36:54Z","comment":"// Edit via Wikiplus"}]}}}}

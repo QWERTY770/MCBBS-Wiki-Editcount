@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"525":{"pageid":525,"ns":10,"title":"\u6a21\u677f:The Redpixel","revisions":[{"revid":3936,"parentid":3167,"minor":"","user":"\u5751\u89e6\u53ef","timestamp":"2020-04-20T07:34:53Z","comment":""}]}}}}

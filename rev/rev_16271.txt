@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"73":{"pageid":73,"ns":0,"title":"\u6a31\u5343\u843d\u5996\u7cbe","revisions":[{"revid":16271,"parentid":15287,"user":"MidsummerEnd","timestamp":"2020-08-01T14:34:15Z","comment":"\u591a\u4f59\u7684\u4e1c\u897f\u4e0d\u7528\u518d\u7559\u4e0b\u4e86\uff0c\u4e0d\u4f1a\u518d\u4e3awiki\u505a\u51fa\u4ec0\u4e48\u8d21\u732e\u4e86"}]}}}}

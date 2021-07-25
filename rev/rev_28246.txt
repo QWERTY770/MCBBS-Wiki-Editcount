@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1639":{"pageid":1639,"ns":2,"title":"\u7528\u6237:DiamondsBlocks/common.js","revisions":[{"revid":28246,"parentid":28245,"minor":"","user":"DiamondsBlocks","timestamp":"2021-03-13T06:43:13Z","comment":""}]}}}}

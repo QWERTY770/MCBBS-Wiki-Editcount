@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1434":{"pageid":1434,"ns":0,"title":"stang555","revisions":[{"revid":10735,"parentid":10539,"minor":"","user":"Sheep-realms","timestamp":"2020-06-19T05:31:21Z","comment":""}]}}}}

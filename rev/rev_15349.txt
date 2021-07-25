@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"618":{"pageid":618,"ns":8,"title":"MediaWiki:Mobile.css","revisions":[{"revid":15349,"parentid":15348,"user":"Sheep-realms","timestamp":"2020-07-25T18:11:47Z","comment":""}]}}}}

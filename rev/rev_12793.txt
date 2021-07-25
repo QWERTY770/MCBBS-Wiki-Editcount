@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1880":{"pageid":1880,"ns":0,"title":"\u4f60\u95ee\u6211\u7b54/\u57fa\u5ca9\u7248\u95ee\u7b54","revisions":[{"revid":12793,"parentid":0,"user":"MashKJo","timestamp":"2020-07-07T00:43:18Z","comment":"\u5c06[[\u4f60\u95ee\u6211\u7b54/\u57fa\u5ca9\u7248\u95ee\u7b54]]\u91cd\u5b9a\u5411\u81f3[[\u57fa\u5ca9\u7248\u95ee\u7b54]] // Wikiplus"}]}}}}

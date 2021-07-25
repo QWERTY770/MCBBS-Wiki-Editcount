@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"736":{"pageid":736,"ns":0,"title":"KakaRou","revisions":[{"revid":11825,"parentid":11668,"minor":"","user":"Sheep-realms","timestamp":"2020-06-28T12:44:13Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u5361\u72d7\u635e\u9762]]\u66f4\u6539\u4e3a[[Kakagou]]"}]}}}}

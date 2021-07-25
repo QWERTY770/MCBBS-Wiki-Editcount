@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1199":{"pageid":1199,"ns":6,"title":"\u6587\u4ef6:iOS\u6b63\u7248\u52cb\u7ae0.png","revisions":[{"revid":21055,"parentid":7135,"minor":"","user":"Salt lovely","timestamp":"2020-10-16T06:13:00Z","comment":"// Edit via Wikiplus"}]}}}}

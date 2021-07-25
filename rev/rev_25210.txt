@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2838":{"pageid":2838,"ns":0,"title":"ganeteam","revisions":[{"revid":25210,"parentid":25209,"user":"MashKJo","timestamp":"2020-12-30T03:29:59Z","comment":"/* \u6ce8\u518c\u7ecf\u5386 */ // Edit via Wikiplus"}]}}}}

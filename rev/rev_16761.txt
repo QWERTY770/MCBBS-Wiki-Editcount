@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2294":{"pageid":2294,"ns":0,"title":"\u94c1\u9550","revisions":[{"revid":16761,"parentid":16739,"user":"MashKJo","timestamp":"2020-08-07T10:57:39Z","comment":"/* \u94c1\u9550\u8fd8\u53ef\u80fd\u662f */ // Edit via Wikiplus"}]}}}}

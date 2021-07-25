@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2592":{"pageid":2592,"ns":2,"title":"\u7528\u6237:\u6d1e\u7a74\u591c\u83ba/common.js","revisions":[{"revid":19130,"parentid":19129,"user":"\u6d1e\u7a74\u591c\u83ba","timestamp":"2020-08-30T07:49:07Z","comment":"\u6e05\u7a7a\u9875\u9762"}]}}}}

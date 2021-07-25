@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1749":{"pageid":1749,"ns":0,"title":"\u96f6\u7d20","revisions":[{"revid":12142,"parentid":12138,"user":"\u96f6\u7d20","timestamp":"2020-07-01T15:45:40Z","comment":"\u64a4\u9500[[Special:Contributions/\u96f6\u7d20|\u96f6\u7d20]]\uff08[[User talk:\u96f6\u7d20|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c12138"}]}}}}

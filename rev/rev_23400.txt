@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2441":{"pageid":2441,"ns":6,"title":"\u6587\u4ef6:\u7a7a\u54e5\u7684logo.png","revisions":[{"revid":23400,"parentid":17649,"user":"MashKJo","timestamp":"2020-11-15T13:35:08Z","comment":"// Edit via Wikiplus"}]}}}}

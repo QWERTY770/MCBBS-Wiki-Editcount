@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1203":{"pageid":1203,"ns":6,"title":"\u6587\u4ef6:Windows Mobile\u6b63\u7248\u52cb\u7ae0.png","revisions":[{"revid":7164,"parentid":0,"user":"Drowned","timestamp":"2020-05-14T07:27:43Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"787":{"pageid":787,"ns":8,"title":"MediaWiki:Protect-level-editpatroller","revisions":[{"revid":4260,"parentid":4252,"user":"Sheep-realms","timestamp":"2020-04-21T08:36:38Z","comment":""}]}}}}

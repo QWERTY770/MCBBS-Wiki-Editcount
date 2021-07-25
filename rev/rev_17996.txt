@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2100":{"pageid":2100,"ns":0,"title":"JvCP","revisions":[{"revid":17996,"parentid":15250,"user":"Charon1","timestamp":"2020-08-17T23:11:49Z","comment":""}]}}}}

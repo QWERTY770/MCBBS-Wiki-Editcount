@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3207":{"pageid":3207,"ns":0,"title":"\u5176\u4ed6\u6c38\u4e45\u5c01\u7981\u7528\u6237/mcdalu","revisions":[{"revid":28866,"parentid":28545,"minor":"","user":"Salt lovely","timestamp":"2021-04-06T10:20:10Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"174":{"pageid":174,"ns":0,"title":"rom718","revisions":[{"revid":20339,"parentid":19960,"minor":"","user":"Salt lovely","timestamp":"2020-10-01T07:12:13Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2946":{"pageid":2946,"ns":6,"title":"\u6587\u4ef6:Mod\u53d1\u5e03.png","revisions":[{"revid":29561,"parentid":23057,"minor":"","user":"Jaanai","timestamp":"2021-04-25T16:43:28Z","comment":"Jaanai\u79fb\u52a8\u9875\u9762[[\u6587\u4ef6:Mod\u53d1\u5e03\u7248\u5757\u56fe\u7247.png]]\u81f3[[\u6587\u4ef6:Mod\u53d1\u5e03.png]]"}]}}}}

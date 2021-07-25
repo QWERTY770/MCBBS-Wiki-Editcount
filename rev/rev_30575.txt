@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3526":{"pageid":3526,"ns":8,"title":"MediaWiki:NationalDays.js","revisions":[{"revid":30575,"parentid":0,"user":"Salt lovely","timestamp":"2021-05-29T04:31:19Z","comment":"\u4ed3\u5e93\u5730\u5740\uff1ahttps://github.com/mcbbs-wiki/Wiki-Common-JS"}]}}}}

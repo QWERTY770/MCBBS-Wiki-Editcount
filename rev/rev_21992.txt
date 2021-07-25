@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"539":{"pageid":539,"ns":8,"title":"MediaWiki:Abusefilter-warning-Wikilink","revisions":[{"revid":21992,"parentid":5542,"user":"MashKJo","timestamp":"2020-11-05T14:22:10Z","comment":"// Edit via Wikiplus"}]}}}}

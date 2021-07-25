@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2418":{"pageid":2418,"ns":2,"title":"\u7528\u6237:Kongtoudage468","revisions":[{"revid":18452,"parentid":18449,"user":"Kongtoudage468","timestamp":"2020-08-21T06:42:47Z","comment":""}]}}}}

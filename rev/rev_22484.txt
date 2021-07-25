@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2868":{"pageid":2868,"ns":2,"title":"\u7528\u6237:\u81ea\u7531\u674e\u4ee3\u6570/common.css","revisions":[{"revid":22484,"parentid":22483,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-10T10:40:12Z","comment":"pre\u771f\u53d7\u4e0d\u4e86"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"738":{"pageid":738,"ns":6,"title":"\u6587\u4ef6:MCBBSWiki-LOGO-\u5bbd.png","revisions":[{"revid":3904,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-20T06:22:04Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"789":{"pageid":789,"ns":8,"title":"MediaWiki:Right-editexcellenteditor","revisions":[{"revid":4265,"parentid":4257,"user":"Sheep-realms","timestamp":"2020-04-21T08:40:20Z","comment":""}]}}}}

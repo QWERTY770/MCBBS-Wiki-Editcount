@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2500":{"pageid":2500,"ns":0,"title":"Wwzlus","revisions":[{"revid":20405,"parentid":18774,"user":"MashKJo","timestamp":"2020-10-02T05:50:26Z","comment":"\u7981\u6b62\u5957\u5a03\uff01"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2503":{"pageid":2503,"ns":10,"title":"\u6a21\u677f:\u6574\u5408\u5305\u4fe1\u606f","revisions":[{"revid":22247,"parentid":18113,"user":"MashKJo","timestamp":"2020-11-08T11:04:13Z","comment":"// Edit via Wikiplus"}]}}}}

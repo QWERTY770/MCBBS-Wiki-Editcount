@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1493":{"pageid":1493,"ns":0,"title":"\u6b86\u8fb0\u7fbd","revisions":[{"revid":12034,"parentid":10327,"minor":"","user":"\u78e8\u783a","timestamp":"2020-07-01T00:44:40Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"Kakagou","revisions":[{"revid":8610,"parentid":8042,"minor":"","user":"Salt lovely","timestamp":"2020-05-27T12:48:39Z","comment":"\u5206\u7c7b:\u827a\u672f\u5bb6 \u8fc1\u79fb\u5230 \u5206\u7c7b:\u827a\u672f\u5bb6\u7528\u6237\u7ec4"}]}}}}

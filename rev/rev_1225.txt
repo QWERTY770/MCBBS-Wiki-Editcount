@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"264":{"pageid":264,"ns":0,"title":"Ranick","revisions":[{"revid":1225,"parentid":1205,"user":"Salt lovely","timestamp":"2020-04-14T05:22:40Z","comment":""}]}}}}

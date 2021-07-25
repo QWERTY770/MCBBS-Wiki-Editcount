@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"323":{"pageid":323,"ns":8,"title":"MediaWiki:Common.css","revisions":[{"revid":7153,"parentid":7006,"user":"Sheep-realms","timestamp":"2020-05-14T07:00:43Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2969":{"pageid":2969,"ns":274,"title":"Widget:SaltUserScoreLevel","revisions":[{"revid":23552,"parentid":23551,"minor":"","user":"Salt lovely","timestamp":"2020-11-17T11:24:02Z","comment":"."}]}}}}

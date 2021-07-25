@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"89":{"pageid":89,"ns":0,"title":"White i","revisions":[{"revid":14565,"parentid":14117,"minor":"","user":"QWERTY 52 38","timestamp":"2020-07-19T04:50:06Z","comment":"// Edit via Wikiplus"}]}}}}

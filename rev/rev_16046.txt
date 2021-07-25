@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"505":{"pageid":505,"ns":12,"title":"\u5e2e\u52a9:Wiki\u7f16\u8f91\u8fdb\u9636\u624b\u518c","revisions":[{"revid":16046,"parentid":15611,"user":"Lxazl5770","timestamp":"2020-08-01T02:11:04Z","comment":"\u8fd9\u5c31\u662f\u4e3a\u4ec0\u4e48\u5728\u884c\u9996\u52a0\u4e2a\u7a7a\u683c\u4e5f\u80fd\u5b9e\u73b0\u7684\u539f\u56e0"}]}}}}

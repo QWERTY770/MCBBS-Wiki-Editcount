@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"550":{"pageid":550,"ns":0,"title":"\u7248\u4e3b(\u603b\u79f0)","revisions":[{"revid":2940,"parentid":2883,"user":"MashKJo","timestamp":"2020-04-18T08:24:24Z","comment":""}]}}}}

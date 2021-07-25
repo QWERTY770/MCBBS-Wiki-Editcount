@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2291":{"pageid":2291,"ns":0,"title":"\u51dc\u591c\u4e36\u96e8\u6708","revisions":[{"revid":16725,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-08-07T05:14:37Z","comment":"\u5c06[[\u51dc\u591c\u4e36\u96e8\u6708]]\u91cd\u5b9a\u5411\u81f3[[\u51db\u591c\u4e36\u96e8\u6708]] // Wikiplus"}]}}}}

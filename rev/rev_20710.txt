@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"35":{"pageid":35,"ns":0,"title":"mohui666","revisions":[{"revid":20710,"parentid":20012,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-10-14T12:08:35Z","comment":"/* \u4f60\u77e5\u9053\u5417 */ \u79fb\u52a8\u5185\u5bb9"}]}}}}

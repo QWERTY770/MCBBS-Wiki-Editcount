@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"668":{"pageid":668,"ns":0,"title":"ouAuAuo","revisions":[{"revid":20815,"parentid":5597,"user":"MashKJo","timestamp":"2020-10-15T10:25:05Z","comment":"// Edit via Wikiplus"}]}}}}

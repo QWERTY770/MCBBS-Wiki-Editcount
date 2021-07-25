@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1403":{"pageid":1403,"ns":0,"title":"LkStent","revisions":[{"revid":9319,"parentid":9315,"minor":"","user":"Salt lovely","timestamp":"2020-06-04T12:48:56Z","comment":"// Edit via Wikiplus"}]}}}}

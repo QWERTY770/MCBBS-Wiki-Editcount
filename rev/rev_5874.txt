@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"968":{"pageid":968,"ns":0,"title":"Zero\u00b0F","revisions":[{"revid":5874,"parentid":5628,"minor":"","user":"Sheep-realms","timestamp":"2020-04-30T00:55:46Z","comment":"\u4fee\u590d\u53cc\u91cd\u91cd\u5b9a\u5411"}]}}}}

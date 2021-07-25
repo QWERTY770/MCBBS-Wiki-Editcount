@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"19":{"pageid":19,"ns":1,"title":"\u8ba8\u8bba:\u8ba8\u8bba\u677f","revisions":[{"revid":13755,"parentid":13754,"user":"QWERTY 52 38","timestamp":"2020-07-14T13:50:11Z","comment":"/* \u5f88\u5947\u602a\uff0c\u9a8c\u8bc1\u5b8c\u90ae\u7bb1\u5730\u5740\u4f9d\u65e7\u4e0d\u80fd\u65b0\u5efa\u9875\u9762.jpg */ // Edit via Wikiplus"}]}}}}

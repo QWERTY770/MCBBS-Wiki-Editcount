@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2186":{"pageid":2186,"ns":2,"title":"\u7528\u6237:Ricolove/common.css","revisions":[{"revid":15875,"parentid":15867,"user":"Ricolove","timestamp":"2020-07-30T08:30:41Z","comment":""}]}}}}

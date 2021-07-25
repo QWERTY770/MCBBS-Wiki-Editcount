@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2770":{"pageid":2770,"ns":0,"title":"Mojang AB","revisions":[{"revid":25797,"parentid":20862,"user":"Meow sauce~","timestamp":"2021-01-17T06:32:53Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}

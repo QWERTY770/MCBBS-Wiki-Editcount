@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"293":{"pageid":293,"ns":12,"title":"\u5e2e\u52a9:\u6c99\u76d2/handler","revisions":[{"revid":14286,"parentid":10749,"user":"Sheep-realms","timestamp":"2020-07-17T06:32:39Z","comment":""}]}}}}

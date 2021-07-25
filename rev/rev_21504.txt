@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2428":{"pageid":2428,"ns":0,"title":"wwzzh","revisions":[{"revid":21504,"parentid":19142,"minor":"","user":"QWERTY 52 38","timestamp":"2020-10-20T13:10:14Z","comment":"// Edit via Wikiplus"}]}}}}

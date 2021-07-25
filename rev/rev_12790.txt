@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1877":{"pageid":1877,"ns":0,"title":"\u8d26\u53f7\u6ce8\u9500","revisions":[{"revid":12790,"parentid":0,"user":"MashKJo","timestamp":"2020-07-07T00:40:30Z","comment":"\u5c06[[\u8d26\u53f7\u6ce8\u9500]]\u91cd\u5b9a\u5411\u81f3[[\u516c\u544a\u548c\u53cd\u9988/\u8d26\u53f7\u6ce8\u9500]] // Wikiplus"}]}}}}

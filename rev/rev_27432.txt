@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3268":{"pageid":3268,"ns":0,"title":"Ruang Feng","revisions":[{"revid":27432,"parentid":27416,"user":"QWERTY 52 38","timestamp":"2021-02-19T02:48:58Z","comment":"// Edit via Wikiplus"}]}}}}

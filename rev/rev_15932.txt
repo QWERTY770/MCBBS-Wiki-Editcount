@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"50":{"pageid":50,"ns":0,"title":"\u7535\u78c1\u6b65\u5175","revisions":[{"revid":15932,"parentid":14569,"minor":"","user":"\u5496\u5566\u5b50","timestamp":"2020-07-30T16:58:17Z","comment":"\u300a\u5173\u4e8eMCBBS Wiki\u6709\u4e00\u5806\u4e0d\u77e5\u9053\u662f\u600e\u4e48\u6392\u7248\u7684\u9875\u9762\u8fd9\u4ef6\u4e8b\u300b"}]}}}}

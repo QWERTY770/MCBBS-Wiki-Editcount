@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1197":{"pageid":1197,"ns":6,"title":"\u6587\u4ef6:Windows10\u6b63\u7248\u52cb\u7ae0.png","revisions":[{"revid":21033,"parentid":7133,"minor":"","user":"Salt lovely","timestamp":"2020-10-16T06:09:36Z","comment":"// Edit via Wikiplus"}]}}}}

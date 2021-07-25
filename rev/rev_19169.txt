@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2601":{"pageid":2601,"ns":6,"title":"\u6587\u4ef6:Mojang.png","revisions":[{"revid":19169,"parentid":0,"user":"Eicy","timestamp":"2020-08-30T13:03:54Z","comment":""}]}}}}

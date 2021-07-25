@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1707":{"pageid":1707,"ns":0,"title":"\u96ea\u5c3c","revisions":[{"revid":17334,"parentid":17333,"user":"White i","timestamp":"2020-08-11T12:21:18Z","comment":"\u64a4\u9500[[Special:Contributions/White i|White i]]\uff08[[User talk:White i|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c17333"}]}}}}

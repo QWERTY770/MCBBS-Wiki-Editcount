@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang","revisions":[{"revid":1297,"parentid":1296,"user":"QWERTY 52 38","timestamp":"2020-04-14T10:16:54Z","comment":""}]}}}}

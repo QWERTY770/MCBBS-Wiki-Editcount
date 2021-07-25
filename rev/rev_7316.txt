@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"731":{"pageid":731,"ns":10,"title":"\u6a21\u677f:\u65bd\u5de5\u4e2d/doc","revisions":[{"revid":7316,"parentid":6718,"minor":"","user":"Sheep-realms","timestamp":"2020-05-15T06:27:14Z","comment":"// Edit via Wikiplus"}]}}}}

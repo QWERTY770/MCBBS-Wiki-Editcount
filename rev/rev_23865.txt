@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2265":{"pageid":2265,"ns":0,"title":"NMFWikiCC\u534f\u8bae\u4e8b\u4ef6","revisions":[{"revid":23865,"parentid":23861,"user":"\u5f00\u70b8\u5f39\u8f66","timestamp":"2020-11-21T13:31:37Z","comment":"/* WTK_\u753b\u7709\u88ab\u64a4\u9500\u7248\u4e3b\u6743\u9650 */ \u6269\u5145\u5185\u5bb9"}]}}}}

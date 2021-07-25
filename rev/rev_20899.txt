@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2506":{"pageid":2506,"ns":0,"title":"ELProject","revisions":[{"revid":20899,"parentid":20884,"user":"MashKJo","timestamp":"2020-10-15T15:24:32Z","comment":"// Edit via Wikiplus"}]}}}}

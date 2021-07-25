@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"903":{"pageid":903,"ns":8,"title":"MediaWiki:Noarticletext-nopermission","revisions":[{"revid":11983,"parentid":10996,"user":"Sheep-realms","timestamp":"2020-06-30T04:54:34Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"323":{"pageid":323,"ns":8,"title":"MediaWiki:Common.css","revisions":[{"revid":14695,"parentid":13103,"minor":"","user":"Salt lovely","timestamp":"2020-07-20T04:10:15Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3378":{"pageid":3378,"ns":2,"title":"\u7528\u6237:Jaanai/common.js","revisions":[{"revid":29092,"parentid":29074,"minor":"","user":"Jaanai","timestamp":"2021-04-15T13:42:55Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"738":{"pageid":738,"ns":6,"title":"\u6587\u4ef6:MCBBSWiki-LOGO-\u5bbd.png","revisions":[{"revid":23114,"parentid":10849,"minor":"","user":"Salt lovely","timestamp":"2020-11-14T13:20:32Z","comment":"// Edit via Wikiplus"}]}}}}

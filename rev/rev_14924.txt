@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2097":{"pageid":2097,"ns":0,"title":"sj","revisions":[{"revid":14924,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-07-22T09:06:31Z","comment":"Redirect [[sj]] to [[sjjklh]] // Wikiplus"}]}}}}

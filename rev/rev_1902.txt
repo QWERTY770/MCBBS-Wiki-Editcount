@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"408":{"pageid":408,"ns":6,"title":"\u6587\u4ef6:DDOC.png","revisions":[{"revid":1902,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-15T11:02:36Z","comment":""}]}}}}

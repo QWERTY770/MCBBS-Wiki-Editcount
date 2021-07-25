@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1312":{"pageid":1312,"ns":8,"title":"MediaWiki:Abusefilter-warning-sensitive-words-3","revisions":[{"revid":27421,"parentid":27411,"minor":"","user":"Eicy","timestamp":"2021-02-19T01:36:20Z","comment":"// Edit via Wikiplus"}]}}}}

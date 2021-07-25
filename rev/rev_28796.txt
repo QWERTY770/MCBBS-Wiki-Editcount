@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3147":{"pageid":3147,"ns":2,"title":"\u7528\u6237:Salt lovely/Vector.scss","revisions":[{"revid":28796,"parentid":28794,"minor":"","user":"Salt lovely","timestamp":"2021-04-05T06:20:01Z","comment":"."}]}}}}

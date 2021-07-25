@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2650":{"pageid":2650,"ns":10,"title":"\u6a21\u677f:DFJ1","revisions":[{"revid":19713,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-09-07T13:38:54Z","comment":"\u5c06[[Template:DFJ1]]\u91cd\u5b9a\u5411\u81f3[[\u6a21\u677f:DaysFromJan1]] // Wikiplus"}]}}}}

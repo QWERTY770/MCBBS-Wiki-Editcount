@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1163":{"pageid":1163,"ns":6,"title":"\u6587\u4ef6:\u5f00\u53d1\u4eba\u5458\u52cb\u7ae0.png","revisions":[{"revid":7057,"parentid":0,"user":"Xiang xge","timestamp":"2020-05-14T01:36:24Z","comment":""}]}}}}

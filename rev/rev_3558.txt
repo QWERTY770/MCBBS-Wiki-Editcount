@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"98":{"pageid":98,"ns":0,"title":"gamerteam","revisions":[{"revid":3558,"parentid":3357,"user":"Sheep-realms","timestamp":"2020-04-19T10:56:48Z","comment":""}]}}}}

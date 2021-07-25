@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"88":{"pageid":88,"ns":0,"title":"xmdhs","revisions":[{"revid":626,"parentid":594,"user":"\u591c\u7a7a523","timestamp":"2020-04-13T05:13:00Z","comment":""}]}}}}

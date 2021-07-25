@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1600":{"pageid":1600,"ns":10,"title":"\u6a21\u677f:MCBBS\u8bba\u575b\u7528\u6237/\u664b\u7ea7\u7528\u6237\u7ec4/Q","revisions":[{"revid":10441,"parentid":0,"user":"Sheep-realms","timestamp":"2020-06-15T06:11:11Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c[[\u79cb\u96c6]] \u2022 [[Qiuzilu]]\u201d"}]}}}}

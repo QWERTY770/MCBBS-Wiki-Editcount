@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2120":{"pageid":2120,"ns":6,"title":"\u6587\u4ef6:FHC&KPC=KFC.jpg","revisions":[{"revid":15145,"parentid":0,"user":"\u7231\u5fc3\u9b54\u738bFHC","timestamp":"2020-07-24T12:55:57Z","comment":"FHC&KPC=KFC.jpg"}]}}}}

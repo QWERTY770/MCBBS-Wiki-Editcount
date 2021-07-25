@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2640":{"pageid":2640,"ns":0,"title":"\u51b7\u50b2\u7ec5\u58eb","revisions":[{"revid":21675,"parentid":21674,"minor":"","user":"ItIsEnderman","timestamp":"2020-10-25T02:41:52Z","comment":"\u64a4\u9500[[Special:Contributions/ItIsEnderman|ItIsEnderman]]\uff08[[User talk:ItIsEnderman|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c21674"}]}}}}

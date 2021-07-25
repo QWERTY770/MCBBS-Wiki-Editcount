@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"364":{"pageid":364,"ns":10,"title":"\u6a21\u677f:Cquote","revisions":[{"revid":21270,"parentid":1645,"user":"MashKJo","timestamp":"2020-10-17T11:36:05Z","comment":"// Edit via Wikiplus"}]}}}}

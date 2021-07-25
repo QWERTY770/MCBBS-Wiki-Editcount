@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2833":{"pageid":2833,"ns":2,"title":"\u7528\u6237:QWERTYtest","revisions":[{"revid":21643,"parentid":0,"user":"QWERTYtest","timestamp":"2020-10-24T13:09:39Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c\u8fd9\u662f[[User:QWERTY_52_38]]\u7684\u5c0f\u53f7\u3002\u201d"}]}}}}

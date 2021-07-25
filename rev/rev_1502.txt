@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"39":{"pageid":39,"ns":10,"title":"\u6a21\u677f:quote","revisions":[{"revid":1502,"parentid":1444,"user":"- \u84dd\u989c5886 -","timestamp":"2020-04-15T01:40:04Z","comment":"/* \u7528\u6cd5 */"}]}}}}

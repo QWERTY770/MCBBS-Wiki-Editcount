@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"88":{"pageid":88,"ns":0,"title":"xmdhs","revisions":[{"revid":10622,"parentid":5405,"minor":"","user":"Salt lovely","timestamp":"2020-06-16T15:17:50Z","comment":"// Edit via Wikiplus"}]}}}}

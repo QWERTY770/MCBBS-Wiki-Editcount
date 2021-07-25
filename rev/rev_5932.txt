@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1001":{"pageid":1001,"ns":10,"title":"\u6a21\u677f:documentation","revisions":[{"revid":5932,"parentid":0,"user":"\u5751\u89e6\u53ef","timestamp":"2020-04-30T05:40:20Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6a21\u677f:Documentation]]"}]}}}}

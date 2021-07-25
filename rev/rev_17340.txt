@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2394":{"pageid":2394,"ns":0,"title":"\u672b\u5f71\u4eba\u75be\u98ce","revisions":[{"revid":17340,"parentid":0,"user":"MashKJo","timestamp":"2020-08-11T13:23:52Z","comment":"\u5c06[[\u672b\u5f71\u4eba\u75be\u98ce]]\u91cd\u5b9a\u5411\u81f3[[\u75be\u98ce]] // Wikiplus"}]}}}}

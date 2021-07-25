@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2811":{"pageid":2811,"ns":10,"title":"\u6a21\u677f:Anchor/doc","revisions":[{"revid":21300,"parentid":0,"user":"MashKJo","timestamp":"2020-10-17T12:14:07Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c\u7528\u4e8e\u52a0\u4e0a\u4e00\u4e2a\u951a\u70b9\u3002\u201d"}]}}}}

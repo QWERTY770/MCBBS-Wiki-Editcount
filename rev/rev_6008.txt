@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1004":{"pageid":1004,"ns":0,"title":"\u7687\u5e1d\u7684\u9a8c\u8bc1\u7801","revisions":[{"revid":6008,"parentid":0,"user":"Sheep-realms","timestamp":"2020-05-01T04:04:00Z","comment":"Sheep-realms\u79fb\u52a8\u9875\u9762[[\u7687\u5e1d\u7684\u9a8c\u8bc1\u7801]]\u81f3[[\u7687\u5e1d\u7684XX]]\uff1a\u6574\u5408\u884d\u751f\u6897"}]}}}}

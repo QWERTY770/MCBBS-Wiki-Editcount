@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1960":{"pageid":1960,"ns":6,"title":"\u6587\u4ef6:\u5c45\u4ed5\u7ed9FHC\u63d0\u4f9b\u65b0\u7248\u7684\u5c0f\u9a6cMOD.png","revisions":[{"revid":13498,"parentid":0,"user":"\u7231\u5fc3\u9b54\u738bFHC","timestamp":"2020-07-12T10:40:27Z","comment":"\u5c45\u4ed5\u7ed9FHC\u63d0\u4f9b\u65b0\u7248\u7684\u5c0f\u9a6cMOD"}]}}}}

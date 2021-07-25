@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2834":{"pageid":2834,"ns":2,"title":"\u7528\u6237:QWERTYtest/common.js","revisions":[{"revid":25424,"parentid":21645,"user":"QWERTYtest","timestamp":"2021-01-02T13:12:09Z","comment":""}]}}}}

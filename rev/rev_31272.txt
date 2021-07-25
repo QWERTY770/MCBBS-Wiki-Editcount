@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1196":{"pageid":1196,"ns":6,"title":"\u6587\u4ef6:Java\u6b63\u7248\u52cb\u7ae0.png","revisions":[{"revid":31272,"parentid":31269,"user":"Hzwcyq","timestamp":"2021-07-08T17:06:30Z","comment":"Hzwcyq \u5df2\u6062\u590d [[\u6587\u4ef6:Java\u6b63\u7248\u52cb\u7ae0.png]] \u81f3\u65e7\u7248\u672c"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"764":{"pageid":764,"ns":8,"title":"MediaWiki:Common.js","revisions":[{"revid":4098,"parentid":4097,"user":"Sheep-realms","timestamp":"2020-04-20T15:49:44Z","comment":""}]}}}}

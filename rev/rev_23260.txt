@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2593":{"pageid":2593,"ns":0,"title":"KVIWNNVQSBGD","revisions":[{"revid":23260,"parentid":23259,"minor":"","user":"QWERTY 52 38","timestamp":"2020-11-15T03:07:57Z","comment":"// Edit via Wikiplus"}]}}}}

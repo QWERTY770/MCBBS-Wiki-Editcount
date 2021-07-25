@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2002":{"pageid":2002,"ns":0,"title":"Earfreet","revisions":[{"revid":16404,"parentid":15248,"user":"Earl","timestamp":"2020-08-02T12:38:12Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1358":{"pageid":1358,"ns":0,"title":"\u60f3\u81f4\u5bcc\uff0c\u5148\u64b8\u6811","revisions":[{"revid":8347,"parentid":8346,"user":"QWERTY 52 38","timestamp":"2020-05-25T08:49:30Z","comment":""}]}}}}

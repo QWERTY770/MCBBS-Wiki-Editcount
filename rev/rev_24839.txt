@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1667":{"pageid":1667,"ns":0,"title":"Rypixel","revisions":[{"revid":24839,"parentid":20704,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-16T13:37:15Z","comment":"// Edit via Wikiplus"}]}}}}

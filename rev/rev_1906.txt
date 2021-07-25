@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"99":{"pageid":99,"ns":0,"title":"DDOC","revisions":[{"revid":1906,"parentid":1904,"minor":"","user":"Sheep-realms","timestamp":"2020-04-15T11:07:18Z","comment":""}]}}}}

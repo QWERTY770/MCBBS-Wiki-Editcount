@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"938":{"pageid":938,"ns":0,"title":"ir-0","revisions":[{"revid":25230,"parentid":25228,"user":"QWERTY 52 38","timestamp":"2020-12-30T14:07:03Z","comment":"// Edit via Wikiplus"}]}}}}

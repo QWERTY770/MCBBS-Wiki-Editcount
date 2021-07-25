@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2575":{"pageid":2575,"ns":6,"title":"\u6587\u4ef6:\u7248\u4e3b\u6c99\u9f99.png","revisions":[{"revid":18851,"parentid":0,"user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2020-08-26T13:30:10Z","comment":"\u6765\u81ea\u4e8e[\u6c35]\u7248\u4e3b\u6c99\u9f99\u80fd\u770b\u89c1\u529b\nhttps://www.mcbbs.net/forum.php?mod=viewthread&tid=1001142"}]}}}}

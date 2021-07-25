@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"498":{"pageid":498,"ns":12,"title":"\u5e2e\u52a9:\u7d22\u5f15","revisions":[{"revid":21546,"parentid":21163,"user":"QWERTY 52 38","timestamp":"2020-10-21T10:41:04Z","comment":"// Edit via Wikiplus"}]}}}}

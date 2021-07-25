@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"987":{"pageid":987,"ns":0,"title":"\u5446\u74dcDomado","revisions":[{"revid":10559,"parentid":8518,"minor":"","user":"Salt lovely","timestamp":"2020-06-16T12:44:13Z","comment":"\u8fd9\u4e2a\u5934\u50cf\u4e5f\u6709\u70b9\u5c0f// Edit via Wikiplus"}]}}}}

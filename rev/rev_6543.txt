@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"715":{"pageid":715,"ns":0,"title":"SPGoding","revisions":[{"revid":6543,"parentid":6371,"minor":"","user":"Sheep-realms","timestamp":"2020-05-09T02:50:48Z","comment":"// Edit via Wikiplus"}]}}}}

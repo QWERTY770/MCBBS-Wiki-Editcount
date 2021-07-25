@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"271":{"pageid":271,"ns":0,"title":"\u767d\u53f6Official","revisions":[{"revid":22822,"parentid":22821,"minor":"","user":"\u5751\u89e6\u53ef","timestamp":"2020-11-14T05:30:16Z","comment":"\u5751\u89e6\u53ef\u79fb\u52a8\u9875\u9762[[\u6d6e\u4e16\u5fb7]]\u81f3[[\u767d\u53f6Official]]\uff1a\u91cd\u547d\u540d"}]}}}}

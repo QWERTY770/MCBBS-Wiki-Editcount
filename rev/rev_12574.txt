@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1839":{"pageid":1839,"ns":2,"title":"\u7528\u6237:MappyJ","revisions":[{"revid":12574,"parentid":0,"user":"MappyJ","timestamp":"2020-07-05T14:35:19Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201cMappyJ\u662f[https://www.mcbbs.net MCBBS]\u7684\u4e00\u540d\u840c\u65b0\u201d"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2763":{"pageid":2763,"ns":6,"title":"\u6587\u4ef6:prism\u63d2\u4ef6\u4ee3\u7801\u9ad8\u4eae\u63d2\u4ef6\u6d4b\u8bd5.png","revisions":[{"revid":20835,"parentid":0,"user":"Salt lovely","timestamp":"2020-10-15T10:44:03Z","comment":"prism\u9ad8\u4eae\u6548\u679c\u6d4b\u8bd5"}]}}}}

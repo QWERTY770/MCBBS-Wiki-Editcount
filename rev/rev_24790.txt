@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"512":{"pageid":512,"ns":8,"title":"MediaWiki:Gadget-DotsSyntaxHighlighter.js","revisions":[{"revid":24790,"parentid":2617,"minor":"","user":"Salt lovely","timestamp":"2020-12-16T08:35:51Z","comment":"\u7528\u6211\u7684proxy\u52a0\u8f7d\u8fd9\u4e2ajs\u6587\u4ef6// Edit via Wikiplus"}]}}}}

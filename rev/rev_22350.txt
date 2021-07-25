@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1463":{"pageid":1463,"ns":2,"title":"\u7528\u6237:Salt lovely/common.js","revisions":[{"revid":22350,"parentid":22349,"minor":"","user":"Salt lovely","timestamp":"2020-11-09T07:44:04Z","comment":"MW\u65e5\u5e38\u4e0d\u8ba4\u8bc6JS\u4ee3\u7801"}]}}}}

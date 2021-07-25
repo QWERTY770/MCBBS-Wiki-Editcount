@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"722":{"pageid":722,"ns":6,"title":"\u6587\u4ef6:ff98sha.jpg","revisions":[{"revid":3812,"parentid":0,"user":"SPGoding","timestamp":"2020-04-20T05:16:00Z","comment":""}]}}}}

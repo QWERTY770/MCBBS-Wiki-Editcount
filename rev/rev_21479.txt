@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2827":{"pageid":2827,"ns":8,"title":"MediaWiki:Abusefilter-warning-wrong-word","revisions":[{"revid":21479,"parentid":21476,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-10-20T11:14:32Z","comment":""}]}}}}

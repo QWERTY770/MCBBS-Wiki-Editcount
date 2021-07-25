@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1890":{"pageid":1890,"ns":6,"title":"\u6587\u4ef6:FHC\u5934\u50cf\u539f\u56e0.png","revisions":[{"revid":22834,"parentid":12939,"minor":"","user":"Salt lovely","timestamp":"2020-11-14T05:54:04Z","comment":"// Edit via Wikiplus"}]}}}}

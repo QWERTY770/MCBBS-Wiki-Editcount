@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1712":{"pageid":1712,"ns":8,"title":"MediaWiki:Gadget-Wikiplus","revisions":[{"revid":11451,"parentid":0,"user":"Sheep-realms","timestamp":"2020-06-25T03:48:50Z","comment":"// Edit via Wikiplus"}]}}}}

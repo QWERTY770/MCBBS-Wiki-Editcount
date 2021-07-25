@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1568":{"pageid":1568,"ns":6,"title":"\u6587\u4ef6:squid233.jpg","revisions":[{"revid":10403,"parentid":0,"user":"DiamondsBlocks","timestamp":"2020-06-15T04:30:05Z","comment":"squid233\u7684\u5934\u50cf"}]}}}}

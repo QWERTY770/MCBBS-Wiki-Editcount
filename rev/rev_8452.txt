@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1246":{"pageid":1246,"ns":2,"title":"\u7528\u6237:Salt lovely/Spell e","revisions":[{"revid":8452,"parentid":7522,"user":"Salt lovely","timestamp":"2020-05-26T07:33:49Z","comment":"\u6dfb\u52a0\u4e86Java\u3001VBS\u3001Python2.X\u7684\u548fe\uff1b\u6682\u65e0\u4f5c\u4e1a\uff0c\u54b8\u6781\u65e0\u804a\uff0c\u5f00\u59cb\u6574\u6d3b"}]}}}}

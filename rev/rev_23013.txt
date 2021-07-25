@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2943":{"pageid":2943,"ns":6,"title":"\u6587\u4ef6:Ff98sha\u5e2e\u52a9\u5c01\u7981.png","revisions":[{"revid":23013,"parentid":0,"user":"MashKJo","timestamp":"2020-11-14T09:24:26Z","comment":"[[\u5206\u7c7b:MediaWiki\u622a\u56fe]]"}]}}}}

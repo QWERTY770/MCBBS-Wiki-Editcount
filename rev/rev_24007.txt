@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3018":{"pageid":3018,"ns":8,"title":"MediaWiki:Addon-prism-lang-plus1.js","revisions":[{"revid":24007,"parentid":0,"user":"Salt lovely","timestamp":"2020-11-25T15:29:32Z","comment":"\u8bed\u8a00\u62d3\u5c55\uff1abasic, ?, bbcode, c, ?, ?, ?, lua, less, wiki"}]}}}}

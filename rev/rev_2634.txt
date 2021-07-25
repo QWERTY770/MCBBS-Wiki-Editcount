@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"89":{"pageid":89,"ns":0,"title":"White i","revisions":[{"revid":2634,"parentid":1710,"minor":"","user":"\u5751\u89e6\u53ef","timestamp":"2020-04-17T12:05:13Z","comment":""}]}}}}

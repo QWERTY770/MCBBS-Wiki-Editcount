@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"778":{"pageid":778,"ns":8,"title":"MediaWiki:Protect-dropdown","revisions":[{"revid":21146,"parentid":5089,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-10-16T14:42:30Z","comment":""}]}}}}

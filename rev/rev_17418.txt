@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1069":{"pageid":1069,"ns":0,"title":"ToNick","revisions":[{"revid":17418,"parentid":14074,"minor":"","user":"QWERTY 52 38","timestamp":"2020-08-12T08:48:07Z","comment":"// Edit via Wikiplus"}]}}}}

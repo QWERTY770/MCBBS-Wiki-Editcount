@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2918":{"pageid":2918,"ns":0,"title":"MashKJo/\u4f5c\u54c1","revisions":[{"revid":24208,"parentid":24126,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-12-02T14:42:59Z","comment":"\u6279\u91cf\u66ff\u6362\u201c\u5c45\u4ed5\u201d\u4e3a\u201c\u5028\u58eb\u201d\uff0c\u7b2c14\u4e2a"}]}}}}

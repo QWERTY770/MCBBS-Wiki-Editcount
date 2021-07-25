@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3491":{"pageid":3491,"ns":0,"title":"HNIN","revisions":[{"revid":30310,"parentid":30308,"minor":"","user":"Salt lovely","timestamp":"2021-05-15T15:58:02Z","comment":"."}]}}}}

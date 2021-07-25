@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3267":{"pageid":3267,"ns":0,"title":"spgbigfan:","revisions":[{"revid":27397,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-02-19T00:54:55Z","comment":"\u5c06[[:spgbigfan:]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}

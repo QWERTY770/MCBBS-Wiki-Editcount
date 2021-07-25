@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2710":{"pageid":2710,"ns":0,"title":"KaNyon","revisions":[{"revid":20373,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-10-01T23:41:05Z","comment":"\u5c06[[KaNyon]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}

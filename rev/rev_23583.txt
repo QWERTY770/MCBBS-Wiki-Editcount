@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2974":{"pageid":2974,"ns":14,"title":"\u5206\u7c7b:\u5176\u4ed6\u56e2\u961f","revisions":[{"revid":23583,"parentid":23570,"minor":"","user":"Salt lovely","timestamp":"2020-11-17T13:12:20Z","comment":"\u66ff\u6362 \u201c[[Category:\u7d22\u5f15]]\u201d \u4e3a \u201c[[\u5206\u7c7b:\u5c0f\u7ec4]]\u201d"}]}}}}

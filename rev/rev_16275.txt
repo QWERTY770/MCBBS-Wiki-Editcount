@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2244":{"pageid":2244,"ns":6,"title":"\u6587\u4ef6:ricolove.png","revisions":[{"revid":16275,"parentid":0,"user":"Ricolove","timestamp":"2020-08-01T15:03:38Z","comment":""}]}}}}

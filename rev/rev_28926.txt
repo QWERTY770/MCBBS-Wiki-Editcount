@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3370":{"pageid":3370,"ns":274,"title":"Widget:SaltTextDiffPalette","revisions":[{"revid":28926,"parentid":0,"user":"Salt lovely","timestamp":"2021-04-10T09:18:24Z","comment":"\u6d4b\u8bd5\u4e2d"}]}}}}

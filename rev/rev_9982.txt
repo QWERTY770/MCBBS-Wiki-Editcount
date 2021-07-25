@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1524":{"pageid":1524,"ns":14,"title":"\u5206\u7c7b:The Redpixel\u6210\u5458","revisions":[{"revid":9982,"parentid":0,"user":"Sheep-realms","timestamp":"2020-06-11T12:19:15Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c{{catnav|\u7528\u6237|\u5c0f\u7ec4\u6210\u5458}} [[Category:\u5c0f\u7ec4\u6210\u5458]]\u201d"}]}}}}

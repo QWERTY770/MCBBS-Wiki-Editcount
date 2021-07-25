@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1401":{"pageid":1401,"ns":0,"title":"QQ\u6e38\u5ba2","revisions":[{"revid":10684,"parentid":10683,"user":"Drowned qwq","timestamp":"2020-06-18T11:32:51Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2177":{"pageid":2177,"ns":2,"title":"\u7528\u6237:Ricolove","revisions":[{"revid":15792,"parentid":0,"user":"Ricolove","timestamp":"2020-07-29T16:27:58Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Kakagou]]"}]}}}}

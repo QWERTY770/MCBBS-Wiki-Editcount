@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3021":{"pageid":3021,"ns":6,"title":"\u6587\u4ef6:Stop killing hunluans to make hats.jpg","revisions":[{"revid":24067,"parentid":24066,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-28T08:37:23Z","comment":"/* \u6388\u6743\u534f\u8bae */"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2570":{"pageid":2570,"ns":0,"title":"\u5272\u5364\u86cb","revisions":[{"revid":18816,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-08-26T06:06:17Z","comment":"Redirect [[\u5272\u5364\u86cb]] to [[geludan]] // Wikiplus"}]}}}}

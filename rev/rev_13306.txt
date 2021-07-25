@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1942":{"pageid":1942,"ns":6,"title":"\u6587\u4ef6:2012\u5e74\u75af\u72c2\u8fc7\u5c71\u8f66\u64c2\u53f0\u8d5b\u7eaa\u5ff5\u5fbd\u7ae0.png","revisions":[{"revid":13306,"parentid":0,"user":"Sheep-realms","timestamp":"2020-07-11T13:19:15Z","comment":""}]}}}}

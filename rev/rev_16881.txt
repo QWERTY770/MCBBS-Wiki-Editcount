@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"912":{"pageid":912,"ns":0,"title":"Mr Snake","revisions":[{"revid":16881,"parentid":15621,"user":"\u6c99\u6f20\u4e4b\u9e70xzy","timestamp":"2020-08-08T07:12:30Z","comment":""}]}}}}

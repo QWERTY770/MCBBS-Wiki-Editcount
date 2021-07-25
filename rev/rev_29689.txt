@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1246":{"pageid":1246,"ns":2,"title":"\u7528\u6237:Salt lovely/Spell e","revisions":[{"revid":29689,"parentid":29688,"minor":"","user":"Jaanai","timestamp":"2021-04-28T12:48:10Z","comment":"/* Python2 */ \u663e\u793a\u51fa\u95ee\u9898\u4e86"}]}}}}

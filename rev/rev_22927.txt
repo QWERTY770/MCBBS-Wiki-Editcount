@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2932":{"pageid":2932,"ns":2,"title":"\u7528\u6237:\u98de\u5c0fRAN","revisions":[{"revid":22927,"parentid":0,"user":"Xiaofeifei","timestamp":"2020-11-14T07:00:07Z","comment":"Xiaofeifei\u79fb\u52a8\u9875\u9762[[\u7528\u6237:\u98de\u5c0fRAN]]\u81f3[[\u98de\u5c0fRAN1]]\uff1a\u521a\u521a\u70b9\u9519\u4e86"}]}}}}

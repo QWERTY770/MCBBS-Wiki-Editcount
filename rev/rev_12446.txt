@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"19":{"pageid":19,"ns":1,"title":"\u8ba8\u8bba:\u8ba8\u8bba\u677f","revisions":[{"revid":12446,"parentid":12421,"user":"QWERTY 52 38","timestamp":"2020-07-05T02:20:04Z","comment":"/* wiki\u65b0\u4eba\uff0c\u90a3\u4e2a\u6709\u4e89\u8bae\u7684\u6807\u600e\u4e48\u6253\u554a */ // Edit via Wikiplus"}]}}}}

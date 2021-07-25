@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"264":{"pageid":264,"ns":0,"title":"Ranick","revisions":[{"revid":10165,"parentid":10159,"minor":"","user":"Sheep-realms","timestamp":"2020-06-13T04:38:38Z","comment":""}]}}}}

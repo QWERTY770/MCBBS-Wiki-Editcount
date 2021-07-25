@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2141":{"pageid":2141,"ns":8,"title":"MediaWiki:Minerva.css","revisions":[{"revid":27768,"parentid":27544,"minor":"","user":"Salt lovely","timestamp":"2021-02-24T08:21:08Z","comment":"// Edit via Wikiplus"}]}}}}

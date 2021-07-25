@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1990":{"pageid":1990,"ns":0,"title":"NMFW","revisions":[{"revid":23987,"parentid":19925,"user":"MashKJo","timestamp":"2020-11-24T10:49:28Z","comment":"// Edit via Wikiplus"}]}}}}

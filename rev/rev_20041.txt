@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2671":{"pageid":2671,"ns":10,"title":"\u6a21\u677f:getEditCount","revisions":[{"revid":20041,"parentid":20040,"user":"QWERTY 52 38","timestamp":"2020-09-18T11:11:00Z","comment":"// Edit via Wikiplus"}]}}}}

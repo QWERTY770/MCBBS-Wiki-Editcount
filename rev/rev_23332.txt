@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"671":{"pageid":671,"ns":0,"title":"\u33d1243","revisions":[{"revid":23332,"parentid":19857,"minor":"","user":"QWERTY 52 38","timestamp":"2020-11-15T07:15:55Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1904":{"pageid":1904,"ns":8,"title":"MediaWiki:Newarticletext/namespace/talk","revisions":[{"revid":13112,"parentid":13110,"user":"Sheep-realms","timestamp":"2020-07-09T13:15:11Z","comment":""}]}}}}

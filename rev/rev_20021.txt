@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2593":{"pageid":2593,"ns":0,"title":"KVIWNNVQSBGD","revisions":[{"revid":20021,"parentid":20019,"user":"Prinz Eugen","timestamp":"2020-09-17T05:09:52Z","comment":""}]}}}}

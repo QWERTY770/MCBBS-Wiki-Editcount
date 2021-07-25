@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"448":{"pageid":448,"ns":4,"title":"MCBBS Wiki:\u9700\u6c42\u9875\u9762","revisions":[{"revid":10233,"parentid":10231,"minor":"","user":"Drowned","timestamp":"2020-06-13T12:12:00Z","comment":"\u6ca1\u6709\u7b7e\u540d\u6233"}]}}}}

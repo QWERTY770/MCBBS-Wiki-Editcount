@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"146":{"pageid":146,"ns":4,"title":"MCBBS Wiki:\u516c\u544a","revisions":[{"revid":20893,"parentid":20870,"user":"MashKJo","timestamp":"2020-10-15T15:20:50Z","comment":"/* Widget:getMCBBSAvatar\u5df2\u7ecf\u5c01\u88c5\u8fdb{{PersonInfoBox}} */ // Edit via Wikiplus"}]}}}}

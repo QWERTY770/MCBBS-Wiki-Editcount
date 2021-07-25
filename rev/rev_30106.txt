@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"99":{"pageid":99,"ns":0,"title":"DDOC","revisions":[{"revid":30106,"parentid":26629,"minor":"","user":"Jaanai","timestamp":"2021-05-11T07:41:19Z","comment":"// Edit via Wikiplus"}]}}}}

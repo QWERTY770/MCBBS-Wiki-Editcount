@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"715":{"pageid":715,"ns":0,"title":"SPGoding","revisions":[{"revid":18145,"parentid":18143,"user":"\u7231\u5fc3\u9b54\u738bFHC","timestamp":"2020-08-18T16:18:55Z","comment":""}]}}}}

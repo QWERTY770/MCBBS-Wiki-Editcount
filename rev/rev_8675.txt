@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1395":{"pageid":1395,"ns":0,"title":"Ling NPC","revisions":[{"revid":8675,"parentid":8667,"user":"MashKJo","timestamp":"2020-05-28T11:46:20Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3575":{"pageid":3575,"ns":10,"title":"\u6a21\u677f:Minecraft\u63d2\u4ef6\u767e\u79d1","revisions":[{"revid":30836,"parentid":0,"user":"LocusAzzurro","timestamp":"2021-06-07T16:10:26Z","comment":"\u8f7d\u5165"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1402":{"pageid":1402,"ns":3,"title":"\u7528\u6237\u8ba8\u8bba:Ling NPC","revisions":[{"revid":9879,"parentid":8725,"minor":"","user":"Ling NPC","timestamp":"2020-06-09T13:45:10Z","comment":"\u65e5\u5e38\u6e05\u9664"}]}}}}

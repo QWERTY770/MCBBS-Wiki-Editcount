@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1182":{"pageid":1182,"ns":6,"title":"\u6587\u4ef6:MINECON2013\u7eaa\u5ff5\u52cb\u7ae0.png","revisions":[{"revid":21022,"parentid":7090,"minor":"","user":"Salt lovely","timestamp":"2020-10-16T06:08:18Z","comment":"// Edit via Wikiplus"}]}}}}

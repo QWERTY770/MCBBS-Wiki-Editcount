@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"408":{"pageid":408,"ns":6,"title":"\u6587\u4ef6:DDOC.png","revisions":[{"revid":22937,"parentid":1902,"user":"MashKJo","timestamp":"2020-11-14T07:04:43Z","comment":"// Edit via Wikiplus"}]}}}}

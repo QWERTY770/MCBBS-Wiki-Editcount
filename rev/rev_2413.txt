@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"497":{"pageid":497,"ns":10,"title":"\u6a21\u677f:\u80cc\u666f\u8272","revisions":[{"revid":2413,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-17T01:55:41Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6a21\u677f:Background color]]"}]}}}}

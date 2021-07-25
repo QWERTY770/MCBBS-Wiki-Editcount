@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3380":{"pageid":3380,"ns":8,"title":"MediaWiki:HanziConverter.js","revisions":[{"revid":29084,"parentid":29080,"minor":"","user":"Salt lovely","timestamp":"2021-04-15T07:17:12Z","comment":"."}]}}}}

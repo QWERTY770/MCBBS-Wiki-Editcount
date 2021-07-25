@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"11":{"pageid":11,"ns":6,"title":"\u6587\u4ef6:Barrier.png","revisions":[{"revid":20,"parentid":0,"user":"MashKJo","timestamp":"2020-04-11T00:14:45Z","comment":""}]}}}}

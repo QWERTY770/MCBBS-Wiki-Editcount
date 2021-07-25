@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2922":{"pageid":2922,"ns":274,"title":"Widget:getMCBBSCredit","revisions":[{"revid":23968,"parentid":23269,"minor":"","user":"Salt lovely","timestamp":"2020-11-23T05:38:51Z","comment":"\u4f7f\u7528salt\u8de8\u57df"}]}}}}

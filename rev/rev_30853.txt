@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"764":{"pageid":764,"ns":8,"title":"MediaWiki:Common.js","revisions":[{"revid":30853,"parentid":30578,"minor":"","user":"Salt lovely","timestamp":"2021-06-08T16:36:00Z","comment":"\u6dfb\u52a0\u5e7b\u706f\u7247\u5c0f\u90e8\u4ef6"}]}}}}

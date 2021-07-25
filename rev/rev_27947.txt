@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"725":{"pageid":725,"ns":0,"title":"ff98sha","revisions":[{"revid":27947,"parentid":25294,"user":"Ff98sha","timestamp":"2021-03-02T12:41:28Z","comment":""}]}}}}

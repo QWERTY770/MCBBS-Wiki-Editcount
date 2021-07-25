@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"691":{"pageid":691,"ns":6,"title":"\u6587\u4ef6:Multicraft.jpg","revisions":[{"revid":23191,"parentid":3662,"user":"MashKJo","timestamp":"2020-11-14T15:18:15Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1879":{"pageid":1879,"ns":0,"title":"\u7b7e\u5230\u8bb0\u5f55","revisions":[{"revid":12792,"parentid":0,"user":"MashKJo","timestamp":"2020-07-07T00:42:31Z","comment":"\u5c06[[\u7b7e\u5230\u8bb0\u5f55]]\u91cd\u5b9a\u5411\u81f3[[\u77ff\u5de5\u8336\u9986/\u7b7e\u5230\u8bb0\u5f55]] // Wikiplus"}]}}}}

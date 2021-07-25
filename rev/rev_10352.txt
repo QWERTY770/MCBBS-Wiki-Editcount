@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1434":{"pageid":1434,"ns":0,"title":"stang555","revisions":[{"revid":10352,"parentid":10309,"minor":"","user":"DiamondsBlocks","timestamp":"2020-06-14T12:18:10Z","comment":""}]}}}}

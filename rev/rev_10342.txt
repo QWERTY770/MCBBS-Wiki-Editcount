@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1403":{"pageid":1403,"ns":0,"title":"LkStent","revisions":[{"revid":10342,"parentid":10334,"user":"LkStent","timestamp":"2020-06-14T10:59:32Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2":{"pageid":2,"ns":2,"title":"\u7528\u6237:MashKJo","revisions":[{"revid":2,"parentid":0,"user":"MashKJo","timestamp":"2020-04-10T13:42:01Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c'''MashKJo'''\uff0c\u539f[https://mcbbs.fandom.com/zh Fandom MCBBS Wiki]\u521b\u59cb\u4eba/\u884c\u653f\u5458\u3002\u201d"}]}}}}

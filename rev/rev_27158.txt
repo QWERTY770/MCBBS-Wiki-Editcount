@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3244":{"pageid":3244,"ns":6,"title":"\u6587\u4ef6:SCT.png","revisions":[{"revid":27158,"parentid":27157,"user":"MashKJo","timestamp":"2021-02-15T08:48:19Z","comment":"// Edit via Wikiplus"}]}}}}

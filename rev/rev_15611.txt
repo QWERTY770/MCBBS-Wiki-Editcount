@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"505":{"pageid":505,"ns":12,"title":"\u5e2e\u52a9:Wiki\u7f16\u8f91\u8fdb\u9636\u624b\u518c","revisions":[{"revid":15611,"parentid":15552,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-07-28T01:56:46Z","comment":"/* \u7279\u6b8a\u6807\u7b7e */wiki\u4e0d\u652f\u6301img"}]}}}}

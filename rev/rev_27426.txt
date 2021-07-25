@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2829":{"pageid":2829,"ns":8,"title":"MediaWiki:Abusefilter-warning-unacceptable-talk-behavior","revisions":[{"revid":27426,"parentid":27406,"minor":"","user":"Eicy","timestamp":"2021-02-19T01:37:03Z","comment":"// Edit via Wikiplus"}]}}}}

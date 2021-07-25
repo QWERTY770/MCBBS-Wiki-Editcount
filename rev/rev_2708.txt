@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"525":{"pageid":525,"ns":10,"title":"\u6a21\u677f:The Redpixel","revisions":[{"revid":2708,"parentid":2706,"user":"Sheep-realms","timestamp":"2020-04-17T17:54:47Z","comment":""}]}}}}

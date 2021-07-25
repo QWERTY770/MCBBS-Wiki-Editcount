@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2677":{"pageid":2677,"ns":0,"title":"EGEE2468","revisions":[{"revid":20876,"parentid":20543,"user":"MashKJo","timestamp":"2020-10-15T15:09:06Z","comment":""}]}}}}

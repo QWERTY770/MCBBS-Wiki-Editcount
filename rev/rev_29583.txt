@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3431":{"pageid":3431,"ns":6,"title":"\u6587\u4ef6:\u94b4Cobalt.png","revisions":[{"revid":29583,"parentid":29582,"minor":"","user":"Jaanai","timestamp":"2021-04-25T17:00:34Z","comment":"// Edit via Wikiplus"}]}}}}

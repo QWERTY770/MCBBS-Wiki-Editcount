@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"965":{"pageid":965,"ns":0,"title":"zero\u00b0F","revisions":[{"revid":5621,"parentid":0,"user":"Zero\u00b0C.","timestamp":"2020-04-29T03:36:18Z","comment":"Zero\u00b0C.\u79fb\u52a8\u9875\u9762[[zero\u00b0F]]\u81f3[[\u7528\u6237:Zero\u00b0F]]"}]}}}}

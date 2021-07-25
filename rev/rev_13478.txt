@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1958":{"pageid":1958,"ns":0,"title":"HerobrineQWQ","revisions":[{"revid":13478,"parentid":13398,"minor":"","user":"Salt lovely","timestamp":"2020-07-12T09:39:01Z","comment":"\u6392\u7248"}]}}}}

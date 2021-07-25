@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"960":{"pageid":960,"ns":10,"title":"\u6a21\u677f:PluginsCDTribe","revisions":[{"revid":26481,"parentid":5585,"minor":"","user":"\u6d1e\u7a74\u591c\u83ba","timestamp":"2021-02-02T14:41:46Z","comment":"\u6539\u540d"}]}}}}

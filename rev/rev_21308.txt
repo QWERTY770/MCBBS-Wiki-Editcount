@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"335":{"pageid":335,"ns":10,"title":"\u6a21\u677f:Yesno","revisions":[{"revid":21308,"parentid":1453,"user":"MashKJo","timestamp":"2020-10-17T12:18:51Z","comment":"// Edit via Wikiplus"}]}}}}

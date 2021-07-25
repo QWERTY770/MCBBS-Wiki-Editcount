@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1625":{"pageid":1625,"ns":2,"title":"\u7528\u6237:QWERTY 52 38/common.js","revisions":[{"revid":17367,"parentid":17365,"minor":"","user":"QWERTY 52 38","timestamp":"2020-08-12T03:08:37Z","comment":"\u64a4\u9500[[Special:Contributions/QWERTY 52 38|QWERTY 52 38]]\uff08[[User talk:QWERTY 52 38|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c17365"}]}}}}

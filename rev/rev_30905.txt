@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"588":{"pageid":588,"ns":0,"title":"Charon1","revisions":[{"revid":30905,"parentid":28974,"user":"\u8349\u4e94\u53f6","timestamp":"2021-06-12T09:17:12Z","comment":"wiki\u9700\u8981\u5ba2\u89c2\u6027\uff0c\u8fd9\u4e0d\u662f\u7528\u6237\u9875"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"5":{"pageid":5,"ns":8,"title":"MediaWiki:Sidebar","revisions":[{"revid":10747,"parentid":5879,"user":"Sheep-realms","timestamp":"2020-06-19T07:09:56Z","comment":""}]}}}}

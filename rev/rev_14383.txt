@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2030":{"pageid":2030,"ns":12,"title":"\u5e2e\u52a9:\u521b\u5efa\u4e2a\u4eba\u6c99\u76d2","revisions":[{"revid":14383,"parentid":14320,"user":"QWERTY 52 38","timestamp":"2020-07-17T13:40:43Z","comment":""}]}}}}

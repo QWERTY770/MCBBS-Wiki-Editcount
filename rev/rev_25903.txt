@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3140":{"pageid":3140,"ns":0,"title":"Karkout","revisions":[{"revid":25903,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-01-22T01:17:01Z","comment":"\u5c06[[Karkout]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"33":{"pageid":33,"ns":0,"title":"\u52a0\u901f\u706b\u628a(\u6897)","revisions":[{"revid":2019,"parentid":2018,"minor":"","user":"QWERTY 52 38","timestamp":"2020-04-16T00:29:55Z","comment":"/* \u7269\u54c1\u4ecb\u7ecd */"}]}}}}

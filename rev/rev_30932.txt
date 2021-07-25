@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3536":{"pageid":3536,"ns":6,"title":"\u6587\u4ef6:icon blaze.png","revisions":[{"revid":30932,"parentid":30644,"minor":"","user":"Salt lovely","timestamp":"2021-06-13T10:53:07Z","comment":"\u4fee\u590d\u5957\u5a03\u91cd\u5b9a\u5411"}]}}}}
