@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3656":{"pageid":3656,"ns":6,"title":"\u6587\u4ef6:mmwiki\u6f14\u793a\u56fe\u7247.png","revisions":[{"revid":31629,"parentid":0,"user":"Eicy","timestamp":"2021-07-25T08:44:57Z","comment":"== \u6587\u4ef6\u8bf4\u660e ==\n[[\u5206\u7c7b:\u6e38\u620f\u622a\u56fe]]\n== \u6388\u6743\u534f\u8bae ==\n{{\u6587\u4ef6\u7248\u6743/Mojang}}"}]}}}}

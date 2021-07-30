@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3009":{"pageid":3009,"ns":0,"title":"\u4f18\u79c0\u5c0f\u7ec4","revisions":[{"revid":31804,"parentid":31722,"minor":"","user":"\u6d1e\u7a74\u591c\u83ba","timestamp":"2021-07-28T00:12:26Z","comment":"\u64a4\u9500[[Special:Contributions/QWERTY 52 38|QWERTY 52 38]]\uff08[[User talk:QWERTY 52 38|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c31722"}]}}}}

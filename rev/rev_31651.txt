@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3250":{"pageid":3250,"ns":0,"title":"Eterstars","revisions":[{"revid":31651,"parentid":31089,"user":"Eterstars","timestamp":"2021-07-26T00:31:10Z","comment":""}]}}}}

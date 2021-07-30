@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2541":{"pageid":2541,"ns":0,"title":"siiftun1857","revisions":[{"revid":31638,"parentid":27323,"minor":"","user":"QWERTY 52 38","timestamp":"2021-07-25T11:37:17Z","comment":"// Edit via Wikiplus"}]}}}}

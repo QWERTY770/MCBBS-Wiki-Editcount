@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3664":{"pageid":3664,"ns":0,"title":"\u8389\u5361\u72d7\u9171","revisions":[{"revid":31658,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-26T01:59:59Z","comment":"\u5c06[[\u8389\u5361\u72d7\u9171]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}

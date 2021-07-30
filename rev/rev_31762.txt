@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2252":{"pageid":2252,"ns":0,"title":"7\u00b727\u6df7\u4e71-\u5364\u86cb\u704c\u6c34\u4e8b\u4ef6","revisions":[{"revid":31762,"parentid":31736,"minor":"","user":"QWERTY 52 38","timestamp":"2021-07-27T04:40:37Z","comment":"\u6279\u91cf\u641c\u7d22\u66ff\u6362\u201c\u5e16\u5427\u201d\u4e3a\u201c\u8d34\u5427\u201d\uff0c\u7b2c5\u4e2a"}]}}}}

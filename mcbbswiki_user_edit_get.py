@@ -12,7 +12,7 @@ __author__ = "QWERTY_52_38"
 __version__ = "0.2"
 rev_api = "https://mcbbs-wiki.cn/api.php?action=query&format=json&prop=revisions&revids="
 # revisions api
-folder = r"D:\python\mcbbswiki"
+folder = r"D:\python\mcbbswiki\MCBBS-Wiki-Editcount"
 
 namespace_score = {0: 3, 1: 0.125, 4: 1, 5: 0.125,
                    10: 2.5, 11: 0.125, 12: 2, 13: 0.125, 14: 1, 15: 0.125}
@@ -79,6 +79,6 @@ def make_workbook(dic: dict, filename=f"mcbbswiki-useredit-{localtime().tm_year}
 
 
 if __name__ == "__main__":
-    # get_revs(1, 31559)
-    make_workbook(get_edit_score_dic(1, 31559))
+    get_revs(31559, 31870)
+    make_workbook(get_edit_score_dic(1, 31870))
     print("Finished!")

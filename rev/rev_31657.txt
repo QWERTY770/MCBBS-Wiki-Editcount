@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3663":{"pageid":3663,"ns":0,"title":"Kaell","revisions":[{"revid":31657,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-26T01:59:47Z","comment":"\u5c06[[Kaell]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}

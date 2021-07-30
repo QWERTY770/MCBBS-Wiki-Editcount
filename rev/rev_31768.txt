@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2622":{"pageid":2622,"ns":0,"title":"\u81ea\u7531\u674e\u4ee3\u6570/\u4f5c\u54c1","revisions":[{"revid":31768,"parentid":25367,"minor":"","user":"QWERTY 52 38","timestamp":"2021-07-27T04:40:41Z","comment":"\u6279\u91cf\u641c\u7d22\u66ff\u6362\u201c\u5e16\u5427\u201d\u4e3a\u201c\u8d34\u5427\u201d\uff0c\u7b2c12\u4e2a"}]}}}}

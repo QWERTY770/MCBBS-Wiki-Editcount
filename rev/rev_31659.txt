@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3665":{"pageid":3665,"ns":0,"title":"SpicroGoft","revisions":[{"revid":31659,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-26T02:00:11Z","comment":"\u5c06[[SpicroGoft]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}
