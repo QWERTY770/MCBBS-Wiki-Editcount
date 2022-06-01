@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1259":{"pageid":1259,"ns":10,"title":"\u6a21\u677f:MCBBS\u8bba\u575b\u4e8b\u4ef6","revisions":[{"revid":31959,"parentid":30504,"minor":"","user":"QWERTY 52 38","timestamp":"2021-08-11T05:56:23Z","comment":"// Edit via Wikiplus"}]}}}}

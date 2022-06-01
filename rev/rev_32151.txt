@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"943":{"pageid":943,"ns":8,"title":"MediaWiki:Sitenotice","revisions":[{"revid":32151,"parentid":31692,"minor":"","user":"Eicy","timestamp":"2021-08-25T06:33:55Z","comment":"stats"}]}}}}

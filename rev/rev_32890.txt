@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3034":{"pageid":3034,"ns":274,"title":"Widget:SaltOutsidePicLoader","revisions":[{"revid":32890,"parentid":28935,"minor":"","user":"Salt lovely","timestamp":"2022-01-09T05:31:07Z","comment":"\u57df\u540d\u767d\u540d\u5355 // Edit via Wikiplus"}]}}}}

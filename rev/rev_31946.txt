@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2017":{"pageid":2017,"ns":0,"title":"\u98de\u5c0fRAN","revisions":[{"revid":31946,"parentid":31945,"user":"Xiaofeifei","timestamp":"2021-08-09T09:38:28Z","comment":"\u64a4\u9500[[Special:Contributions/Xiaofeifei|Xiaofeifei]]\uff08[[User talk:Xiaofeifei|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c31945"}]}}}}

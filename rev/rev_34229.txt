@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3873":{"pageid":3873,"ns":0,"title":"\u4f0f\u864e","revisions":[{"revid":34229,"parentid":34222,"user":"Mc0v0","timestamp":"2022-05-30T10:14:46Z","comment":"\u64a4\u9500[[Special:Contributions/\u6ed1\u7a3d\u8717|\u6ed1\u7a3d\u8717]]\uff08[[User talk:\u6ed1\u7a3d\u8717|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c34222"}]}}}}
