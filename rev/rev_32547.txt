@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3730":{"pageid":3730,"ns":6,"title":"\u6587\u4ef6:\u5e7b\u7ffc\u5757\u8baf.png","revisions":[{"revid":32547,"parentid":32453,"minor":"","user":"Salt lovely","timestamp":"2021-11-01T15:39:33Z","comment":"\u6dfb\u52a0\u201c\n[[\u5206\u7c7b:\u7248\u5757\u56fe\u6807]]\u201d\u5230\u9875\u5c3e"}]}}}}

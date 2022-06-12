@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3814":{"pageid":3814,"ns":0,"title":"CaSc","revisions":[{"revid":33613,"parentid":33459,"user":"MinecraftLYC","timestamp":"2022-04-18T12:34:00Z","comment":""}]}}}}

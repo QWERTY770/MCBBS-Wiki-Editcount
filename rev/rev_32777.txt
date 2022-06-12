@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2294":{"pageid":2294,"ns":0,"title":"\u94c1\u9550","revisions":[{"revid":32777,"parentid":20132,"minor":"","user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2021-12-19T01:04:04Z","comment":"[InPageEdit] /* .E9.93.81.E9.95.90.E7.9B.B8.E5.85.B3.E9.A1.B5.E9.9D.A2 */ No summary given"}]}}}}

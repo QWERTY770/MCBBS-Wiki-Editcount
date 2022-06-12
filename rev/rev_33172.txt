@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2768":{"pageid":2768,"ns":0,"title":"Mod\u53d1\u5e03","revisions":[{"revid":33172,"parentid":33171,"minor":"","user":"HeartyYF","timestamp":"2022-02-15T09:30:51Z","comment":"\u5bf9\u5b50\u7248\u5757\u505a\u51fa\u8bf4\u660e"}]}}}}

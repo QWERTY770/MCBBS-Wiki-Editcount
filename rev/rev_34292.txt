@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3884":{"pageid":3884,"ns":0,"title":"ASCII III","revisions":[{"revid":34292,"parentid":34287,"user":"\u5ea6\u6c76","timestamp":"2022-05-31T03:10:53Z","comment":""}]}}}}

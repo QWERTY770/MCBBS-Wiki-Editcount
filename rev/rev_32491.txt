@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"Kakagou","revisions":[{"revid":32491,"parentid":32232,"user":"QWERTY 52 38","timestamp":"2021-10-30T05:37:42Z","comment":"// Edit via Wikiplus"}]}}}}

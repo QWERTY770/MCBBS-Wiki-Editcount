@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3784":{"pageid":3784,"ns":10,"title":"\u6a21\u677f:wiki\u5934\u50cf","revisions":[{"revid":32891,"parentid":0,"user":"Salt lovely","timestamp":"2022-01-09T05:41:04Z","comment":"\u663e\u793awiki\u5934\u50cf"}]}}}}

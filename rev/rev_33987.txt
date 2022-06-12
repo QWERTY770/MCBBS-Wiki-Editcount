@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3162":{"pageid":3162,"ns":11,"title":"\u6a21\u677f\u8ba8\u8bba:MCBBS\u79ef\u5206\u5206\u6790","revisions":[{"revid":33987,"parentid":26199,"user":"\u5ea6\u6c76","timestamp":"2022-05-27T02:02:29Z","comment":"/*  MCBBS Credit Analyst\u65e0\u6cd5\u4f7f\u7528\u4e86 */ \u65b0\u7ae0\u8282"}]}}}}

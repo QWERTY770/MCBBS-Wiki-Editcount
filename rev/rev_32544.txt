@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3527":{"pageid":3527,"ns":0,"title":"\u5c45\u4ed5","revisions":[{"revid":32544,"parentid":30588,"minor":"","user":"Salt lovely","timestamp":"2021-11-01T15:37:05Z","comment":"\u6574\u9875\u66ff\u6362\u4e3a\u201c#\u91cd\u5b9a\u5411 [[\u8ff7\u60d1\u7684js]]\u201d"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3884":{"pageid":3884,"ns":0,"title":"ASCII III","revisions":[{"revid":34319,"parentid":34318,"user":"\u6ed1\u7a3d\u8717","timestamp":"2022-05-31T07:06:48Z","comment":"/* \u575b\u53cb\u8bc4\u4ef7 */"}]}}}}

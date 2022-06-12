@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3694":{"pageid":3694,"ns":0,"title":"Annals:Mechanizac","revisions":[{"revid":33903,"parentid":33131,"minor":"","user":"Eicy","timestamp":"2022-05-19T13:20:01Z","comment":"update"}]}}}}

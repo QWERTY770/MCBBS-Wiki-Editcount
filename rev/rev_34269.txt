@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3883":{"pageid":3883,"ns":0,"title":"cmd1152","revisions":[{"revid":34269,"parentid":0,"user":"MinecraftLYC","timestamp":"2022-05-31T00:46:50Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c{{\u65bd\u5de5\u4e2d}}\u201d"}]}}}}

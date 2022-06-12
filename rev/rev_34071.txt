@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3783":{"pageid":3783,"ns":0,"title":"Annals:Mechanizac/FAQ","revisions":[{"revid":34071,"parentid":32875,"minor":"","user":"Eicy","timestamp":"2022-05-28T02:32:30Z","comment":"\u5206\u7c7b\u4f18\u5316"}]}}}}

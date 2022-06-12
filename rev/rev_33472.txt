@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"953":{"pageid":953,"ns":0,"title":"MCBBS\u5df2\u79fb\u9664\u673a\u5236","revisions":[{"revid":33472,"parentid":33471,"minor":"","user":"Eicy","timestamp":"2022-04-02T11:42:18Z","comment":"\u64a4\u9500[[Special:Contributions/Eicy|Eicy]]\uff08[[User talk:Eicy|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c33471"}]}}}}

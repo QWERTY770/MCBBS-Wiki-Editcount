@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"98":{"pageid":98,"ns":0,"title":"gamerteam","revisions":[{"revid":33028,"parentid":32616,"user":"Xjq2009","timestamp":"2022-01-27T11:45:51Z","comment":""}]}}}}

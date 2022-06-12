@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3714":{"pageid":3714,"ns":0,"title":"8.27\u7ffb\u8bd1&Wiki\u7248\u5b9d\u77f3\u8d85\u53d1\u4e8b\u4ef6","revisions":[{"revid":32208,"parentid":32207,"minor":"","user":"Ricolove","timestamp":"2021-08-29T07:02:39Z","comment":"/* \u521d\u89c1\u7aef\u502a */ \u8865\u94fe\u63a5"}]}}}}

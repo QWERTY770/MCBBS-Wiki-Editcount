@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3855":{"pageid":3855,"ns":6,"title":"\u6587\u4ef6:doge.png","revisions":[{"revid":34045,"parentid":0,"user":"\u5ea6\u6c76","timestamp":"2022-05-27T12:54:00Z","comment":""}]}}}}

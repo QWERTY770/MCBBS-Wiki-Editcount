@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3698":{"pageid":3698,"ns":0,"title":"Annals:Mechanizac/\u4efb\u52a1","revisions":[{"revid":32959,"parentid":32620,"minor":"","user":"Eicy","timestamp":"2022-01-20T04:06:37Z","comment":""}]}}}}

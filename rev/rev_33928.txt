@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3839":{"pageid":3839,"ns":0,"title":"QWERTY770/xdi8","revisions":[{"revid":33928,"parentid":33927,"minor":"","user":"QWERTY 52 38","timestamp":"2022-05-22T02:58:41Z","comment":"// Edit via Wikiplus"}]}}}}

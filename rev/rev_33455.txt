@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3814":{"pageid":3814,"ns":0,"title":"CaSc","revisions":[{"revid":33455,"parentid":33445,"user":"CaSc","timestamp":"2022-03-25T02:24:00Z","comment":""}]}}}}
