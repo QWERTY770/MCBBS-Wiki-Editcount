@@ -79,6 +79,6 @@ def make_workbook(dic: dict, filename=f"mcbbswiki-useredit-{localtime().tm_year}
 
 
 if __name__ == "__main__":
-    get_revs(31559, 31870)
-    make_workbook(get_edit_score_dic(1, 31870))
+    # get_revs(34511, 34925)
+    make_workbook(get_edit_score_dic(1, 34925))
     print("Finished!")

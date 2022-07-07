@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3808":{"pageid":3808,"ns":6,"title":"\u6587\u4ef6:CaSc\u540c\u5b66.png","revisions":[{"revid":34745,"parentid":33352,"minor":"","user":"Eicy","timestamp":"2022-06-20T14:00:21Z","comment":"// Edit via Wikiplus"}]}}}}

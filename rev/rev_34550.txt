@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3815":{"pageid":3815,"ns":0,"title":"supermouse 233","revisions":[{"revid":34550,"parentid":34204,"minor":"","user":"Salt lovely","timestamp":"2022-06-05T15:03:05Z","comment":"\u201cMCBBS\u8bba\u575b\u7528\u6237\u201d\u6a21\u677f\u53c2\u6570\u4fee\u590d"}]}}}}

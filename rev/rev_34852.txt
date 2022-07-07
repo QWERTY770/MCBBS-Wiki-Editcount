@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"195":{"pageid":195,"ns":0,"title":"MCBBS","revisions":[{"revid":34852,"parentid":33913,"user":"QWERTY 52 38","timestamp":"2022-06-30T02:44:23Z","comment":"// Edit via Wikiplus"}]}}}}

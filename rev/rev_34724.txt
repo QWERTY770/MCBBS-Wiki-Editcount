@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3924":{"pageid":3924,"ns":6,"title":"\u6587\u4ef6:RTX ON\u5efa\u7b51\u7eaa\u5ff5\u52cb\u7ae0.png","revisions":[{"revid":34724,"parentid":0,"user":"SHILIAN\u5c31\u662f\u8bd5\u70bc","timestamp":"2022-06-20T05:19:12Z","comment":"RTX ON\u5efa\u7b51\u7eaa\u5ff5\u52cb\u7ae0"}]}}}}

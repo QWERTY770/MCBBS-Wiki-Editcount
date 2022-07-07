@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3935":{"pageid":3935,"ns":274,"title":"Widget:SaltCardEffect","revisions":[{"revid":34818,"parentid":0,"user":"Salt lovely","timestamp":"2022-06-25T08:03:01Z","comment":"\u4eff\u7167\u84b8\u6c7d\u5e73\u53f0\u7684\u96c6\u6362\u5f0f\u5361\u724c\u6548\u679c\u5236\u4f5c\u7684"}]}}}}

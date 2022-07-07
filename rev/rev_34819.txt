@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3936":{"pageid":3936,"ns":274,"title":"Widget:SaltCardEffect/CSS","revisions":[{"revid":34819,"parentid":0,"user":"Salt lovely","timestamp":"2022-06-25T08:04:48Z","comment":"\u5361\u7247\u6548\u679c\u7684CSS"}]}}}}

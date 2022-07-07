@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3413":{"pageid":3413,"ns":0,"title":"\u5c38\u5148peng","revisions":[{"revid":34876,"parentid":34875,"user":"\u5c38\u5148peng","timestamp":"2022-07-02T05:45:22Z","comment":"\u64a4\u9500[[Special:Contributions/\u5c38\u5148peng|\u5c38\u5148peng]]\uff08[[User talk:\u5c38\u5148peng|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c34875"}]}}}}

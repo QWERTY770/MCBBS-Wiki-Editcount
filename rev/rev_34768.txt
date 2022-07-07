@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3930":{"pageid":3930,"ns":6,"title":"\u6587\u4ef6:\u4f18\u79c0\u670d\u52a1\u5668\u52cb\u7ae0.png","revisions":[{"revid":34768,"parentid":0,"user":"SHILIAN\u5c31\u662f\u8bd5\u70bc","timestamp":"2022-06-21T13:16:23Z","comment":"\u4f18\u79c0\u670d\u52a1\u5668\u52cb\u7ae0"}]}}}}

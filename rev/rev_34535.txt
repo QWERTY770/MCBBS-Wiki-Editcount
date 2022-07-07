@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1010":{"pageid":1010,"ns":0,"title":"\u6ce5\u6f6d","revisions":[{"revid":34535,"parentid":34377,"user":"HerobrineinMF","timestamp":"2022-06-04T07:12:01Z","comment":""}]}}}}
