@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4215":{"pageid":4215,"ns":8,"title":"MediaWiki:Gadget-VectorThemeLoader.js","revisions":[{"revid":36993,"parentid":0,"user":"Salt lovely","timestamp":"2022-08-13T09:59:41Z","comment":"\u65b0\u7684\u4e3b\u9898\u5207\u6362\u529f\u80fd"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4651":{"pageid":4651,"ns":8,"title":"MediaWiki:Gadget-HotCat.js/local defaults","revisions":[{"revid":40358,"parentid":0,"user":"Litwak913","timestamp":"2022-12-07T15:23:08Z","comment":"// Edit via Wikiplus"}]}}}}

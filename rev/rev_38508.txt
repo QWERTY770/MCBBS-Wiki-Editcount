@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4443":{"pageid":4443,"ns":6,"title":"\u6587\u4ef6:MCBBS Wiki \u6280\u672f\u67b6\u6784.png","revisions":[{"revid":38508,"parentid":38507,"user":"Litwak913","timestamp":"2022-09-02T14:30:04Z","comment":"Litwak913\u4e0a\u4f20[[\u6587\u4ef6:MCBBS Wiki \u6280\u672f\u67b6\u6784.png]]\u7684\u65b0\u7248\u672c"}]}}}}

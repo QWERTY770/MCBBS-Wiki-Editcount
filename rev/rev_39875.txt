@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1371":{"pageid":1371,"ns":2,"title":"\u7528\u6237:QWERTY 52 38/\u8ff7\u60d1\u884c\u4e3a\u6536\u5f55","revisions":[{"revid":39875,"parentid":33921,"minor":"","user":"Eicy","timestamp":"2022-11-21T23:45:26Z","comment":"\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u201cmcbbs-wiki.cn\u201d\u4e3a\u201cmcbbs.wiki\u201d"}]}}}}

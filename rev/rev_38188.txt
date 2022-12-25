@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4420":{"pageid":4420,"ns":10,"title":"\u6a21\u677f:\u9000\u575b/doc","revisions":[{"revid":38188,"parentid":0,"user":"Litwak913","timestamp":"2022-08-24T13:53:06Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c<pre>{{\u9000\u575b}}</pre> {{\u9000\u575b}}\u201d"}]}}}}

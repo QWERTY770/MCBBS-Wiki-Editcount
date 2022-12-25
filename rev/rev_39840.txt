@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"13":{"pageid":13,"ns":12,"title":"\u5e2e\u52a9:\u6c99\u76d2","revisions":[{"revid":39840,"parentid":39839,"user":"Fatal-Fantasy","timestamp":"2022-11-20T04:07:04Z","comment":"/* \u79ef\u5206\u5206\u6790 */"}]}}}}

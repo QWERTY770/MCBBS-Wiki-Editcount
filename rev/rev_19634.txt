@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"Kakagou","revisions":[{"revid":19634,"parentid":19587,"minor":"","user":"Enderman3133","timestamp":"2020-09-06T03:13:59Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}
+{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"\u5361\u72d7","revisions":[{"revid":19634,"parentid":19587,"minor":"","user":"Enderman3133","timestamp":"2020-09-06T03:13:59Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}

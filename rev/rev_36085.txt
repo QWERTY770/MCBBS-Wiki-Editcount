@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4066":{"pageid":4066,"ns":10,"title":"\u6a21\u677f:\u968f\u673a\u6897\u56fe/style.css","revisions":[{"revid":36085,"parentid":35886,"minor":"","user":"Litwak913","timestamp":"2022-08-01T14:27:32Z","comment":"Litwak913\u79fb\u52a8\u9875\u9762[[Widget:RandomMemesImg/CSS]]\u81f3[[\u6a21\u677f:RandomMemesImg.css]]"}]}}}}

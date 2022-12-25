@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4290":{"pageid":4290,"ns":10,"title":"\u6a21\u677f:\u52a8\u6001\u663e\u793a/HTML","revisions":[{"revid":37587,"parentid":0,"user":"Salt lovely","timestamp":"2022-08-18T13:47:39Z","comment":"\u7ed9\u201c\u52a8\u6001\u663e\u793a\u201d\u6a21\u677f\u751f\u6210DOM\u7ed3\u6784\u7528"}]}}}}

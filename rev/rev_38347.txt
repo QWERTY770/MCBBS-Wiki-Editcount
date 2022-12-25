@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"194":{"pageid":194,"ns":0,"title":"\u8bb8\u706c\u613f","revisions":[{"revid":38347,"parentid":32709,"user":"AlbertInf","timestamp":"2022-08-28T09:01:04Z","comment":""}]}}}}

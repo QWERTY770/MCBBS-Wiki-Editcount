@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4147":{"pageid":4147,"ns":2,"title":"\u7528\u6237:Don Trueno","revisions":[{"revid":39107,"parentid":39106,"user":"Don Trueno","timestamp":"2022-10-04T11:29:29Z","comment":"\u64a4\u9500[[Special:Contributions/Don Trueno|Don Trueno]]\uff08[[User talk:Don Trueno|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c39106"}]}}}}

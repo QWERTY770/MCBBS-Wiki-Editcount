@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4647":{"pageid":4647,"ns":8,"title":"MediaWiki:Gadget-HotCat.js","revisions":[{"revid":40344,"parentid":0,"user":"Litwak913","timestamp":"2022-12-07T14:52:51Z","comment":"// Edit via Wikiplus"}]}}}}

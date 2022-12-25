@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4538":{"pageid":4538,"ns":8,"title":"MediaWiki:Gadget-VectorLeftPanel","revisions":[{"revid":39632,"parentid":39631,"minor":"","user":"Litwak913","timestamp":"2022-11-10T08:34:24Z","comment":"// Edit via Wikiplus"}]}}}}

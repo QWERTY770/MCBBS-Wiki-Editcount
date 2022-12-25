@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1898":{"pageid":1898,"ns":4,"title":"MCBBS Wiki:\u7f16\u8f91\u79ef\u5206","revisions":[{"revid":35402,"parentid":34966,"minor":"","user":"QWERTY 52 38","timestamp":"2022-07-17T05:33:12Z","comment":"// Edit via Wikiplus"}]}}}}

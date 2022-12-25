@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2138":{"pageid":2138,"ns":0,"title":"CarlotaAnnabell","revisions":[{"revid":36364,"parentid":24663,"minor":"","user":"QWERTY 52 38","timestamp":"2022-08-05T03:19:34Z","comment":"// Edit via Wikiplus"}]}}}}

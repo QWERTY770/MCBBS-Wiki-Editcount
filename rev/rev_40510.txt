@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3716":{"pageid":3716,"ns":0,"title":"M1032","revisions":[{"revid":40510,"parentid":36362,"minor":"","user":"\u8d77\u540d\u5b57\u771f\u96be\u5c31\u53eb\u5357\u5357","timestamp":"2022-12-14T11:22:48Z","comment":"// Edit via Wikiplus"}]}}}}

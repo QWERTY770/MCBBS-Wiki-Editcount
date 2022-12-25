@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3820":{"pageid":3820,"ns":0,"title":"SakuraSu","revisions":[{"revid":33710,"parentid":33699,"user":"SakuraSu","timestamp":"2022-04-22T14:13:29Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"3820":{"pageid":3820,"ns":0,"title":"\u6771\u7d05","revisions":[{"revid":33710,"parentid":33699,"user":"SakuraSu","timestamp":"2022-04-22T14:13:29Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4476":{"pageid":4476,"ns":8,"title":"MediaWiki:Footerinfo","revisions":[{"revid":39063,"parentid":39061,"user":"Litwak913","timestamp":"2022-10-02T11:37:23Z","comment":"// Edit via Wikiplus"}]}}}}

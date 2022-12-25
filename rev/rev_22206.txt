@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2875":{"pageid":2875,"ns":0,"title":"\u52a0\u901f\u706b\u628a(Mod)","revisions":[{"revid":22206,"parentid":22204,"user":"MashKJo","timestamp":"2020-11-08T10:34:10Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"2875":{"pageid":2875,"ns":0,"title":"\u52a0\u901f\u706b\u628a\uff08Torcherino\uff09","revisions":[{"revid":22206,"parentid":22204,"user":"MashKJo","timestamp":"2020-11-08T10:34:10Z","comment":"// Edit via Wikiplus"}]}}}}

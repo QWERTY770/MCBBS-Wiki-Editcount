@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"194":{"pageid":194,"ns":0,"title":"AzZ\u4e36\u8bb8\u613f","revisions":[{"revid":9329,"parentid":9128,"minor":"","user":"Salt lovely","timestamp":"2020-06-04T13:00:24Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"194":{"pageid":194,"ns":0,"title":"\u8bb8\u706c\u613f","revisions":[{"revid":9329,"parentid":9128,"minor":"","user":"Salt lovely","timestamp":"2020-06-04T13:00:24Z","comment":"// Edit via Wikiplus"}]}}}}

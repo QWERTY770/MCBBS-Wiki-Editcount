@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4255":{"pageid":4255,"ns":2,"title":"\u7528\u6237:Destscript","revisions":[{"revid":37403,"parentid":0,"user":"Destscript","timestamp":"2022-08-17T03:11:16Z","comment":"\u6211\u5728\u6211\u7684\u4e2a\u4eba\u754c\u9762\u778e\u5199\u70b9\u4e1c\u897f\u6ca1\u4e8b\u5427"}]}}}}

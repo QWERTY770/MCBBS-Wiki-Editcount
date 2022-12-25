@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3670":{"pageid":3670,"ns":2,"title":"\u7528\u6237:QWERTY 52 38/\u6c99\u76d2/Test2","revisions":[{"revid":31786,"parentid":0,"user":"QWERTY 52 38","timestamp":"2021-07-27T10:12:29Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u7528\u6237:QWERTY 52 38/\u6c99\u76d2/Test1]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"31786":{"revid":31786,"missing":""}}}}

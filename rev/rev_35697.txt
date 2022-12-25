@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2923":{"pageid":2923,"ns":10,"title":"\u6a21\u677f:MCBBS\u79ef\u5206\u5206\u6790","revisions":[{"revid":35697,"parentid":35695,"minor":"","user":"Litwak913","timestamp":"2022-07-29T13:57:13Z","comment":""}]}}}}

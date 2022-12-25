@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"RarityEG","revisions":[{"revid":24844,"parentid":22500,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-16T13:38:30Z","comment":"//Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"ARSpark","revisions":[{"revid":24844,"parentid":22500,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-16T13:38:30Z","comment":"//Edit via Wikiplus"}]}}}}

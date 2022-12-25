@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"892":{"pageid":892,"ns":2,"title":"\u7528\u6237:\u5c45\u4ed5","revisions":[{"revid":36493,"parentid":30934,"user":"Litwak913","timestamp":"2022-08-06T11:42:44Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[Enjous]]\u66f4\u6539\u4e3a[[\u8ff7\u60d1\u7684js]]"}]}}}}

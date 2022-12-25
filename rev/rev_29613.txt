@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3436":{"pageid":3436,"ns":6,"title":"\u6587\u4ef6:\u7ffb\u8bd1&Wiki.png","revisions":[{"revid":29613,"parentid":29607,"minor":"","user":"Jaanai","timestamp":"2021-04-25T17:35:30Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"3436":{"pageid":3436,"ns":6,"title":"\u6587\u4ef6:\u8bc6\u6d77\u6f2b\u8c08.png","revisions":[{"revid":29613,"parentid":29607,"minor":"","user":"Jaanai","timestamp":"2021-04-25T17:35:30Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4375":{"pageid":4375,"ns":6,"title":"\u6587\u4ef6:8\u00b719\u4e8b\u4ef6\u9cb8\u9c7c\u5728\u67d0QQ\u7fa4\u58f0\u79f0\u7591\u4f3cMCBBS\u6570\u636e\u6cc4\u6f0f.png","revisions":[{"revid":38062,"parentid":37999,"minor":"","user":"Eicy","timestamp":"2022-08-21T15:46:15Z","comment":"// Edit via Wikiplus"}]}}}}

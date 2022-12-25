@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3517":{"pageid":3517,"ns":2,"title":"\u7528\u6237:Ghost chu","revisions":[{"revid":30469,"parentid":0,"user":"Ghost chu","timestamp":"2021-05-24T17:28:29Z","comment":"\u6dfb\u52a0\u91cd\u5b9a\u5411"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"30469":{"revid":30469,"missing":""}}}}

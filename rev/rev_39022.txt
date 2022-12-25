@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3044":{"pageid":3044,"ns":0,"title":"KamBridges","revisions":[{"revid":39022,"parentid":24524,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-01T05:40:28Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[Kakagou]]\u66f4\u6539\u4e3a[[\u5361\u72d7]]"}]}}}}

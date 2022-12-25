@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4542":{"pageid":4542,"ns":8,"title":"MediaWiki:Gadget-avatar.js","revisions":[{"revid":40023,"parentid":40022,"minor":"","user":"Litwak913","timestamp":"2022-11-22T12:18:04Z","comment":"// Edit via Wikiplus"}]}}}}

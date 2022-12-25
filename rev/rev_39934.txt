@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4584":{"pageid":4584,"ns":6,"title":"\u6587\u4ef6:fmpanorama1.png","revisions":[{"revid":39934,"parentid":39893,"minor":"","user":"Litwak913","timestamp":"2022-11-22T06:12:05Z","comment":"// Edit via Wikiplus"}]}}}}

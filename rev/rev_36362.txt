@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3716":{"pageid":3716,"ns":0,"title":"M1032","revisions":[{"revid":36362,"parentid":32444,"minor":"","user":"QWERTY 52 38","timestamp":"2022-08-05T03:12:47Z","comment":"// Edit via Wikiplus"}]}}}}

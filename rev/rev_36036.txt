@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3790":{"pageid":3790,"ns":0,"title":"\u67da\u5b50\u6ed1\u7a3d","revisions":[{"revid":36036,"parentid":35337,"minor":"","user":"Litwak913","timestamp":"2022-08-01T08:55:26Z","comment":""}]}}}}

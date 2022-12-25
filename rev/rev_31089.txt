@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3250":{"pageid":3250,"ns":0,"title":"Eterstars","revisions":[{"revid":31089,"parentid":30219,"user":"Jaanai","timestamp":"2021-06-30T05:59:02Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"3250":{"pageid":3250,"ns":0,"title":"\u661f\u6cb3\u7693\u6708\u4e36","revisions":[{"revid":31089,"parentid":30219,"user":"Jaanai","timestamp":"2021-06-30T05:59:02Z","comment":"// Edit via Wikiplus"}]}}}}

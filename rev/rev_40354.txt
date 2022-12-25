@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4649":{"pageid":4649,"ns":8,"title":"MediaWiki:Gadget-HotCat.js/zh-cn","revisions":[{"revid":40354,"parentid":40353,"minor":"","user":"Litwak913","timestamp":"2022-12-07T15:14:31Z","comment":"// Edit via Wikiplus"}]}}}}

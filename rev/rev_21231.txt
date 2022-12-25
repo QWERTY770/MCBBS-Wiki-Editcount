@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2792":{"pageid":2792,"ns":6,"title":"\u6587\u4ef6:\u7bb1\u5b50.png","revisions":[{"revid":21231,"parentid":0,"user":"MashKJo","timestamp":"2020-10-17T08:43:44Z","comment":"[[\u5206\u7c7b:Minecraft\u6750\u8d28]]"}]}}}}
+{"batchcomplete":"","query":{"pages":{"2792":{"pageid":2792,"ns":6,"title":"\u6587\u4ef6:\u539f\u7248-\u7bb1\u5b50.png","revisions":[{"revid":21231,"parentid":0,"user":"MashKJo","timestamp":"2020-10-17T08:43:44Z","comment":"[[\u5206\u7c7b:Minecraft\u6750\u8d28]]"}]}}}}

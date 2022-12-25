@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4474":{"pageid":4474,"ns":8,"title":"MediaWiki:Printableversion","revisions":[{"revid":39035,"parentid":0,"user":"Litwak913","timestamp":"2022-10-01T07:31:02Z","comment":"\u7edf\u4e00\u56db\u5b57"}]}}}}

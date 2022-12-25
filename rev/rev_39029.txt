@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3666":{"pageid":3666,"ns":0,"title":"Kascade","revisions":[{"revid":39029,"parentid":31660,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-01T05:41:14Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[Kakagou]]\u66f4\u6539\u4e3a[[\u5361\u72d7]]"}]}}}}

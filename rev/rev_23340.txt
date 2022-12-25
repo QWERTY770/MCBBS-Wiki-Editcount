@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2961":{"pageid":2961,"ns":0,"title":"\u5361\u72d7","revisions":[{"revid":23340,"parentid":0,"user":"QWERTY 52 38","timestamp":"2020-11-15T08:30:22Z","comment":"\u5c06[[\u5361\u72d7]]\u91cd\u5b9a\u5411\u81f3[[Kakagou]] // Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"23340":{"revid":23340,"missing":""}}}}

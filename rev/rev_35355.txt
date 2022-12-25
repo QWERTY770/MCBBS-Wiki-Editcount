@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3491":{"pageid":3491,"ns":0,"title":"HNIN","revisions":[{"revid":35355,"parentid":34623,"minor":"","user":"Eicy","timestamp":"2022-07-15T23:32:34Z","comment":"// Edit via Wikiplus"}]}}}}

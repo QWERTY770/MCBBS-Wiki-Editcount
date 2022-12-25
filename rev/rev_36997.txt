@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4216":{"pageid":4216,"ns":8,"title":"MediaWiki:Vector-Book-Winter.css","revisions":[{"revid":36997,"parentid":0,"user":"Salt lovely","timestamp":"2022-08-13T10:03:10Z","comment":"\u4e66\u9875\u98ce\u683c\u51ac\u5b63\u76ae\u80a4"}]}}}}

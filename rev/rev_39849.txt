@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4573":{"pageid":4573,"ns":6,"title":"\u6587\u4ef6:\u81f4\u547d\u7a7a\u60f3 \u5934\u56fe.jpeg","revisions":[{"revid":39849,"parentid":0,"user":"Fatal-Fantasy","timestamp":"2022-11-20T05:21:13Z","comment":""}]}}}}

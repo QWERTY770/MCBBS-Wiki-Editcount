@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang","revisions":[{"revid":14825,"parentid":14790,"user":"QWERTY 52 38","timestamp":"2020-07-21T12:21:21Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang Studios","revisions":[{"revid":14825,"parentid":14790,"user":"QWERTY 52 38","timestamp":"2020-07-21T12:21:21Z","comment":"// Edit via Wikiplus"}]}}}}

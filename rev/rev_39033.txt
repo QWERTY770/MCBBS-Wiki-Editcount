@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4345":{"pageid":4345,"ns":0,"title":"Minecraft","revisions":[{"revid":39033,"parentid":37847,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-01T05:53:35Z","comment":"// Edit via Wikiplus"}]}}}}

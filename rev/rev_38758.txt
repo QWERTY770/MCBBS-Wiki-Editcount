@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3882":{"pageid":3882,"ns":0,"title":"\u9ea6\u9648Bingkler","revisions":[{"revid":38758,"parentid":37654,"user":"Ssxhq","timestamp":"2022-09-16T09:45:12Z","comment":"/* \u4ee3\u8868\u4f5c */"}]}}}}

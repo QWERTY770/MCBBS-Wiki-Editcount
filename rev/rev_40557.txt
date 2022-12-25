@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3886":{"pageid":3886,"ns":0,"title":"\u300e\u5357\u5357\u300f","revisions":[{"revid":40557,"parentid":40556,"user":"Litwak913","timestamp":"2022-12-16T12:54:53Z","comment":"/* \u5176\u4ed6 */ // Edit via Wikiplus"}]}}}}

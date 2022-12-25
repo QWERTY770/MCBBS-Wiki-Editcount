@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4225":{"pageid":4225,"ns":0,"title":"ctr123","revisions":[{"revid":37145,"parentid":37143,"minor":"","user":"Litwak913","timestamp":"2022-08-15T01:37:00Z","comment":"// Edit via Wikiplus"}]}}}}

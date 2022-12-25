@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"19":{"pageid":19,"ns":1,"title":"\u8ba8\u8bba:\u8ba8\u8bba\u677f","revisions":[{"revid":40385,"parentid":39866,"minor":"","user":"Litwak913","timestamp":"2022-12-08T12:45:00Z","comment":"// Edit via Wikiplus"}]}}}}

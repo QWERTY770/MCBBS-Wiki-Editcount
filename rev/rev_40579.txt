@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4666":{"pageid":4666,"ns":0,"title":"TransparentColor","revisions":[{"revid":40579,"parentid":0,"user":"\u900f\u660e\u8272","timestamp":"2022-12-17T15:15:03Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u900f\u660e\u8272]]"}]}}}}

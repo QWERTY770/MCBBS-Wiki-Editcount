@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4224":{"pageid":4224,"ns":8,"title":"MediaWiki:Vector-Book.css","revisions":[{"revid":37104,"parentid":0,"user":"Salt lovely","timestamp":"2022-08-14T06:18:03Z","comment":"Salt lovely\u79fb\u52a8\u9875\u9762[[MediaWiki:Vector-Book.css]]\u81f3[[MediaWiki:Vector-V4.css]]\uff1a\u533a\u5206\u65b0\u65e7\u7248vector\u76ae\u80a4"}]}}}}

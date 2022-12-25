@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3630":{"pageid":3630,"ns":6,"title":"\u6587\u4ef6:Complex Studio\u5c0f\u7ec4\u52cb\u7ae0.png","revisions":[{"revid":31482,"parentid":0,"user":"Jaanai","timestamp":"2021-07-23T14:19:26Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"31482":{"revid":31482,"missing":""}}}}

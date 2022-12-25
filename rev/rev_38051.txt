@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"642":{"pageid":642,"ns":6,"title":"\u6587\u4ef6:\u539f\u7248-\u91d1\u952d.png","revisions":[{"revid":38051,"parentid":37543,"minor":"","user":"Eicy","timestamp":"2022-08-21T15:36:27Z","comment":"\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u201cMinecraft\u6750\u8d28\u201d\u4e3a\u201cMinecraft\u7eb9\u7406\u201d"}]}}}}

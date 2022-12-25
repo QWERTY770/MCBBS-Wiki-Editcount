@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"618":{"pageid":618,"ns":8,"title":"MediaWiki:Mobile.css","revisions":[{"revid":36527,"parentid":36165,"minor":"","user":"Litwak913","timestamp":"2022-08-07T02:26:53Z","comment":"CSS\u5185\u5d4c\u5728\u9ed1\u5e55\u6a21\u677f"}]}}}}

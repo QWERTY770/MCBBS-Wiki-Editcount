@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"634":{"pageid":634,"ns":10,"title":"\u6a21\u677f:\u7528\u6237\u4fe1\u606f","revisions":[{"revid":3319,"parentid":0,"user":"Sheep-realms","timestamp":"2020-04-19T06:04:53Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[\u6a21\u677f:PersonInfoBox]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"3319":{"revid":3319,"missing":""}}}}

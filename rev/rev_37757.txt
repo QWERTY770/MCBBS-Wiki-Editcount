@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4315":{"pageid":4315,"ns":0,"title":"\u9996\u9875/style.css","revisions":[{"revid":37757,"parentid":37724,"minor":"","user":"Litwak913","timestamp":"2022-08-20T16:54:24Z","comment":"// Edit via Wikiplus"}]}}}}

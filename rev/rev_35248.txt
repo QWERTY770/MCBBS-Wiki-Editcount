@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3966":{"pageid":3966,"ns":6,"title":"\u6587\u4ef6:CPS.png","revisions":[{"revid":35248,"parentid":35133,"minor":"","user":"Salt lovely","timestamp":"2022-07-14T11:46:21Z","comment":"// Edit via Wikiplus"}]}}}}

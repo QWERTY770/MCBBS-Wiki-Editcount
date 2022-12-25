@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"780":{"pageid":780,"ns":6,"title":"\u6587\u4ef6:UserboxTestIMG.webp.jpg","revisions":[{"revid":4230,"parentid":0,"user":"\u5751\u89e6\u53ef","timestamp":"2020-04-21T07:36:09Z","comment":"\u672c\u6587\u4ef6\u5f15\u7528\u81ea\u840c\u5a18\u767e\u79d1\uff0c\u76ee\u7684\u662f\u4e3a\u4e86Userbox\u4ee3\u7801\u7684\u6210\u529f"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"4230":{"revid":4230,"missing":""}}}}

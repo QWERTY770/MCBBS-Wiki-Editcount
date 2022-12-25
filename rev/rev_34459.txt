@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"badrevids":{"34459":{"revid":34459}}}}
+{"batchcomplete":"","query":{"pages":{"3883":{"pageid":3883,"ns":0,"title":"cmd1152","revisions":[{"revid":34459,"parentid":34458,"user":"Cmd1152","timestamp":"2022-06-01T11:00:59Z","comment":""}]}}}}

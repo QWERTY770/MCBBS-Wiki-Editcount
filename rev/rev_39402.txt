@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"980":{"pageid":980,"ns":0,"title":"\u5e7b\u7ffc\u5757\u8baf","revisions":[{"revid":39402,"parentid":39354,"minor":"","user":"Don Trueno","timestamp":"2022-10-23T12:50:48Z","comment":"\u7ea0\u9519\uff0cJava\u2192\u57fa\u5ca9"}]}}}}

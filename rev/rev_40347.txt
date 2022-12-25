@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4024":{"pageid":4024,"ns":0,"title":"Litwak.913","revisions":[{"revid":40347,"parentid":40322,"minor":"","user":"Litwak913","timestamp":"2022-12-07T15:05:03Z","comment":"removed [[Category:\u7f51\u7ad9\u5f00\u53d1\u8005]] using [[Help:Gadget-HotCat|HotCat]]"}]}}}}

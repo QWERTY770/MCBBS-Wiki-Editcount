@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"421":{"pageid":421,"ns":6,"title":"\u6587\u4ef6:\u52a0\u901f\u706b\u628a.png","revisions":[{"revid":22486,"parentid":21215,"user":"MashKJo","timestamp":"2020-11-10T10:43:05Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"421":{"pageid":421,"ns":6,"title":"\u6587\u4ef6:\u52a0\u901f\u706b\u628a-\u52a0\u901f\u706b\u628a.png","revisions":[{"revid":22486,"parentid":21215,"user":"MashKJo","timestamp":"2020-11-10T10:43:05Z","comment":"// Edit via Wikiplus"}]}}}}

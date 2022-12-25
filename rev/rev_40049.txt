@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3883":{"pageid":3883,"ns":0,"title":"cmd1152","revisions":[{"revid":40049,"parentid":39836,"user":"Cmd1152","timestamp":"2022-11-25T09:30:02Z","comment":""}]}}}}

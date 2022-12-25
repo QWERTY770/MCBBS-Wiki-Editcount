@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"933":{"pageid":933,"ns":0,"title":"\u9b3c\u755c\u755c","revisions":[{"revid":6589,"parentid":5516,"user":"Salt lovely","timestamp":"2020-05-09T13:33:53Z","comment":"/* \u4f5c\u54c1 */"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"6589":{"revid":6589,"missing":""}}}}

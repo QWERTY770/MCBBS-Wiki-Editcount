@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4211":{"pageid":4211,"ns":8,"title":"MediaWiki:Vector-Legacy-Book.css","revisions":[{"revid":39073,"parentid":36995,"minor":"","user":"Litwak913","timestamp":"2022-10-03T06:46:24Z","comment":""}]}}}}

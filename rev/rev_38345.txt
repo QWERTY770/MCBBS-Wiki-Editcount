@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1895":{"pageid":1895,"ns":0,"title":"A55778866579","revisions":[{"revid":38345,"parentid":31499,"minor":"","user":"AlbertInf","timestamp":"2022-08-28T08:54:22Z","comment":""}]}}}}

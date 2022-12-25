@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4425":{"pageid":4425,"ns":6,"title":"\u6587\u4ef6:ctrLighter.png","revisions":[{"revid":38312,"parentid":38304,"minor":"","user":"AlbertInf","timestamp":"2022-08-27T10:16:43Z","comment":"/* \u6458\u8981 */"}]}}}}

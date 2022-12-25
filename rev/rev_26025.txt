@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3149":{"pageid":3149,"ns":8,"title":"MediaWiki:Vector-leftPanel.js","revisions":[{"revid":26025,"parentid":0,"user":"Salt lovely","timestamp":"2021-01-24T02:17:28Z","comment":"ES2015 == ES5 // false ; mw.ES2015 === mw.ES5 // true"}]}}}}
+{"batchcomplete":"","query":{"pages":{"3149":{"pageid":3149,"ns":8,"title":"MediaWiki:Gadget-VectorLeftPanel.js","revisions":[{"revid":26025,"parentid":0,"user":"Salt lovely","timestamp":"2021-01-24T02:17:28Z","comment":"ES2015 == ES5 // false ; mw.ES2015 === mw.ES5 // true"}]}}}}

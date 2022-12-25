@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1911":{"pageid":1911,"ns":8,"title":"MediaWiki:Newarticletext/namespace/mediawiki","revisions":[{"revid":39044,"parentid":13120,"minor":"","user":"Litwak913","timestamp":"2022-10-01T12:54:41Z","comment":"// Edit via Wikiplus"}]}}}}

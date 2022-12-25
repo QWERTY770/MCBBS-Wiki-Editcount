@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"503":{"pageid":503,"ns":0,"title":"\u7ba1\u7406\u5458","revisions":[{"revid":38875,"parentid":38799,"minor":"","user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2022-09-25T11:06:58Z","comment":"/* \u540d\u5355\uff08\u6309\u6210\u4e3a\u7ba1\u7406\u5458\u6b21\u5e8f\u6392\u5e8f\uff09 */ \u6570\u4f4d\u7ba1\u7406\u5458\u5ba3\u5e03\u79bb\u4efb"}]}}}}

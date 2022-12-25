@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3195":{"pageid":3195,"ns":0,"title":"\u632f\u7fee\u9ad8\u98de/\u4f5c\u54c1","revisions":[{"revid":26507,"parentid":26506,"user":"Fsddg 41","timestamp":"2021-02-02T18:53:04Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"26507":{"revid":26507,"missing":""}}}}

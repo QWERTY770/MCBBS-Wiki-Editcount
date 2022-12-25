@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3376":{"pageid":3376,"ns":0,"title":"PaulWong","revisions":[{"revid":31080,"parentid":31079,"user":"\u5c38\u5148peng","timestamp":"2021-06-23T14:38:58Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"31080":{"revid":31080,"missing":""}}}}

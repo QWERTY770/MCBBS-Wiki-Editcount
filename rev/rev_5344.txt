@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"934":{"pageid":934,"ns":0,"title":"\u840c\u840c\u54d2\u7684\u9b3c\u755c","revisions":[{"revid":5344,"parentid":0,"user":"Salt lovely","timestamp":"2020-04-27T15:28:13Z","comment":"\u91cd\u5b9a\u5411\u9875\u9762\u81f3[[Ghost chu]]"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"5344":{"revid":5344,"missing":""}}}}

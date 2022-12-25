@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4022":{"pageid":4022,"ns":2,"title":"\u7528\u6237:Litwak913/common.js","revisions":[{"revid":35985,"parentid":35984,"user":"Litwak913","timestamp":"2022-08-01T04:18:46Z","comment":""}]}}}}

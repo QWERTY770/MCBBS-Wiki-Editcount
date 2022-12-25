@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4295":{"pageid":4295,"ns":10,"title":"\u6a21\u677f:\u76ae\u80a4\u9884\u89c8/doc","revisions":[{"revid":38661,"parentid":37743,"minor":"","user":"Litwak913","timestamp":"2022-09-09T16:55:01Z","comment":"MinotarAPI\u62fc\u9519\u4e86"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4656":{"pageid":4656,"ns":8,"title":"MediaWiki:Hcaptcha-createaccount-fail","revisions":[{"revid":40375,"parentid":0,"user":"Litwak913-bot","timestamp":"2022-12-08T06:53:50Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c\u770b\u8d77\u6765\u60a8\u672a\u5b8c\u6210hCaptcha\u9a8c\u8bc1\u7801\u3002\u201d"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang","revisions":[{"revid":18446,"parentid":17152,"user":"Minecraft.Wnxi","timestamp":"2020-08-21T05:58:02Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang Studios","revisions":[{"revid":18446,"parentid":17152,"user":"Minecraft.Wnxi","timestamp":"2020-08-21T05:58:02Z","comment":""}]}}}}

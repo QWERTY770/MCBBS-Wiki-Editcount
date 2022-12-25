@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1321":{"pageid":1321,"ns":0,"title":"\u730e\u624b","revisions":[{"revid":39381,"parentid":38458,"user":"Don Trueno","timestamp":"2022-10-14T07:53:22Z","comment":""}]}}}}

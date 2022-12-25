@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4017":{"pageid":4017,"ns":0,"title":"Bedrockcraft","revisions":[{"revid":35562,"parentid":35561,"minor":"","user":"ZXFunsing","timestamp":"2022-07-23T06:29:51Z","comment":""}]}}}}

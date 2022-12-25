@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3886":{"pageid":3886,"ns":0,"title":"\u662f\u5357\u5357\uff01","revisions":[{"revid":34795,"parentid":34794,"user":"MinecraftLYC","timestamp":"2022-06-22T23:35:07Z","comment":"/* \u9ed1\u5386\u53f2 */"}]}}}}
+{"batchcomplete":"","query":{"pages":{"3886":{"pageid":3886,"ns":0,"title":"\u300e\u5357\u5357\u300f","revisions":[{"revid":34795,"parentid":34794,"user":"MinecraftLYC","timestamp":"2022-06-22T23:35:07Z","comment":"/* \u9ed1\u5386\u53f2 */"}]}}}}

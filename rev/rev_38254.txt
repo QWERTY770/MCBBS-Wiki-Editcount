@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4287":{"pageid":4287,"ns":0,"title":"\u54ac\u6253\u706b\u673a","revisions":[{"revid":38254,"parentid":38226,"minor":"","user":"Don Trueno","timestamp":"2022-08-27T05:37:09Z","comment":"/* \u6897\u6765\u6e90 */  \u53d6\u6d88\u52a0\u7c97\uff0c\u56e0\u4e3a\u5f71\u54cd\u9605\u8bfb"}]}}}}

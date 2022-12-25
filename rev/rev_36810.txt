@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4194":{"pageid":4194,"ns":6,"title":"\u6587\u4ef6:\u706f\u7e9f\u706b.png","revisions":[{"revid":36810,"parentid":0,"user":"QWERTY 52 38","timestamp":"2022-08-10T11:25:08Z","comment":""}]}}}}

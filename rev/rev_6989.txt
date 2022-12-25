@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1143":{"pageid":1143,"ns":6,"title":"\u6587\u4ef6:\u5730\u72f1\u75a3\u52cb\u7ae0.png","revisions":[{"revid":6989,"parentid":0,"user":"Xiang xge","timestamp":"2020-05-13T08:36:37Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"1143":{"pageid":1143,"ns":6,"title":"\u6587\u4ef6:\u4e0b\u754c\u75a3\u52cb\u7ae0.png","revisions":[{"revid":6989,"parentid":0,"user":"Xiang xge","timestamp":"2020-05-13T08:36:37Z","comment":""}]}}}}

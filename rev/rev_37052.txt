@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4222":{"pageid":4222,"ns":8,"title":"MediaWiki:Urlshortener-toolbox","revisions":[{"revid":37052,"parentid":0,"user":"Litwak913","timestamp":"2022-08-13T14:40:11Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c\u751f\u6210\u77ed\u94fe\u201d"}]}}}}

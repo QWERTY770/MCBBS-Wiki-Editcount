@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4672":{"pageid":4672,"ns":0,"title":"wjjkun","revisions":[{"revid":40617,"parentid":0,"user":"\u8d77\u540d\u5b57\u771f\u96be\u5c31\u53eb\u5357\u5357","timestamp":"2022-12-19T03:07:47Z","comment":"\u5e2e\u521b\u5efa\u9875\u9762"}]}}}}

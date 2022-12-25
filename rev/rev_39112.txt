@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4481":{"pageid":4481,"ns":828,"title":"\u6a21\u5757:Arguments","revisions":[{"revid":39112,"parentid":0,"user":"Litwak913","timestamp":"2022-10-04T12:44:00Z","comment":"From Wikipedia"}]}}}}

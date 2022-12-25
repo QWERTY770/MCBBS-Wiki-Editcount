@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"671":{"pageid":671,"ns":0,"title":"\u33d1243","revisions":[{"revid":37623,"parentid":36706,"minor":"","user":"Don Trueno","timestamp":"2022-08-18T15:52:23Z","comment":"<nowiki>\u66ff\u6362\\n\u4e3a<br></nowiki>"}]}}}}

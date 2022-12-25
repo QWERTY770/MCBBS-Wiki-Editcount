@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4227":{"pageid":4227,"ns":6,"title":"\u6587\u4ef6:lighter.png","revisions":[{"revid":37161,"parentid":37160,"minor":"","user":"Don Trueno","timestamp":"2022-08-15T04:49:52Z","comment":""}]}}}}

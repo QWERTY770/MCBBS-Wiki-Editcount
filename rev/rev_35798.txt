@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4048":{"pageid":4048,"ns":6,"title":"\u6587\u4ef6:BugJumpStudios.gif","revisions":[{"revid":35798,"parentid":0,"user":"Sheep-realms","timestamp":"2022-07-30T03:59:26Z","comment":"[[\u5206\u7c7b:\u5176\u4ed6\u56fe\u7247]]"}]}}}}

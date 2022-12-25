@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"562":{"pageid":562,"ns":10,"title":"\u6a21\u677f:\u6d88\u6b67\u4e49\u9875","revisions":[{"revid":35503,"parentid":35176,"minor":"","user":"Sheep-realms","timestamp":"2022-07-21T06:18:17Z","comment":"\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u201cmcbbs-wiki.cn\u201d\u4e3a\u201cmcbbs.wiki\u201d"}]}}}}

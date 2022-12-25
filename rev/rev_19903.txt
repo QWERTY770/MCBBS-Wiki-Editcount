@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang","revisions":[{"revid":19903,"parentid":19282,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-09-12T07:28:20Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}
+{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang Studios","revisions":[{"revid":19903,"parentid":19282,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-09-12T07:28:20Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3872":{"pageid":3872,"ns":0,"title":"minecraftLYC","revisions":[{"revid":35405,"parentid":35037,"user":"\u8d77\u540d\u5b57\u771f\u96be\u5c31\u53eb\u5357\u5357","timestamp":"2022-07-17T08:19:05Z","comment":"/* \u7b80\u4ecb */"}]}}}}

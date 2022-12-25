@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3278":{"pageid":3278,"ns":8,"title":"MediaWiki:Flowthread-blacklist","revisions":[{"revid":40845,"parentid":36073,"minor":"","user":"Litwak913","timestamp":"2022-12-22T04:04:15Z","comment":"// Edit via Wikiplus"}]}}}}

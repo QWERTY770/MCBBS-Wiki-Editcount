@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"37":{"pageid":37,"ns":10,"title":"\u6a21\u677f:PersonInfoBox","revisions":[{"revid":1769,"parentid":1768,"user":"MashKJo","timestamp":"2020-04-15T07:56:58Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"37":{"pageid":37,"ns":10,"title":"\u6a21\u677f:\u7528\u6237\u4fe1\u606f","revisions":[{"revid":1769,"parentid":1768,"user":"MashKJo","timestamp":"2020-04-15T07:56:58Z","comment":""}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3884":{"pageid":3884,"ns":0,"title":"ASCII III","revisions":[{"revid":34306,"parentid":34299,"user":"\u9ea6\u9648Bingkler","timestamp":"2022-05-31T06:17:39Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"3884":{"pageid":3884,"ns":0,"title":"\u96e8\u66ae\u8fb0\u661f","revisions":[{"revid":34306,"parentid":34299,"user":"\u9ea6\u9648Bingkler","timestamp":"2022-05-31T06:17:39Z","comment":""}]}}}}

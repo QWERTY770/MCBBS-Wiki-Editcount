@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3250":{"pageid":3250,"ns":0,"title":"Eterstars","revisions":[{"revid":27232,"parentid":27231,"user":"Eterstars","timestamp":"2021-02-16T03:05:19Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"3250":{"pageid":3250,"ns":0,"title":"\u661f\u6cb3\u7693\u6708\u4e36","revisions":[{"revid":27232,"parentid":27231,"user":"Eterstars","timestamp":"2021-02-16T03:05:19Z","comment":""}]}}}}

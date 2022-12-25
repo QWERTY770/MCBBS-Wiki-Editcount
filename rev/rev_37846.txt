@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4335":{"pageid":4335,"ns":0,"title":"\u57fa\u7840\u4e0b\u754c\u77ff\u77f3\uff08BasicNetherOres\uff09","revisions":[{"revid":37846,"parentid":37825,"minor":"","user":"Eicy","timestamp":"2022-08-21T07:48:29Z","comment":"\u547d\u540d\u4e0d\u89c4\u8303\uff0c\u7ef4\u62a4\u4e24\u884c\u6cea"}]}}}}

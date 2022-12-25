@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4498":{"pageid":4498,"ns":6,"title":"\u6587\u4ef6:MojangStudios.webp","revisions":[{"revid":39229,"parentid":39228,"minor":"","user":"Don Trueno","timestamp":"2022-10-06T08:52:11Z","comment":"\u66f4\u6b63\u8bb8\u53ef\u534f\u8bae"}]}}}}

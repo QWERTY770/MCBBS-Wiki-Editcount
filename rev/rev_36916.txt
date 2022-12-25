@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"23":{"pageid":23,"ns":0,"title":"\u77ff\u5de5\u8336\u9986","revisions":[{"revid":36916,"parentid":36372,"minor":"","user":"\u70e4\u4e8e\u7684\u70e4\u9c7c","timestamp":"2022-08-12T02:34:40Z","comment":"\u91cd\u590d\u53d1\u5e16\u539f\u6765\u662f\u201c\u5e16\u5b50\u201d\uff0c\u6539\u6210\u201c\u4e3b\u9898\u6216\u56de\u590d\u201d"}]}}}}

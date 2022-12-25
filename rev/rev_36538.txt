@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4154":{"pageid":4154,"ns":0,"title":"Vernaya Layue Mil Steloj Orienta \u0108ielo","revisions":[{"revid":36538,"parentid":36534,"minor":"","user":"Litwak913","timestamp":"2022-08-07T04:32:58Z","comment":"// Edit via Wikiplus"}]}}}}

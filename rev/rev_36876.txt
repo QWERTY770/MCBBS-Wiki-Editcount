@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4199":{"pageid":4199,"ns":8,"title":"MediaWiki:Welcomeuser","revisions":[{"revid":36876,"parentid":0,"user":"Litwak913","timestamp":"2022-08-11T14:22:44Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c$1\uff0c\u6b22\u8fce\u6765\u5230 MCBBS Wiki\uff01\u201d"}]}}}}

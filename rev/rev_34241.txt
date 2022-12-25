@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3879":{"pageid":3879,"ns":0,"title":"EWO","revisions":[{"revid":34241,"parentid":34239,"user":"Branden","timestamp":"2022-05-30T12:34:45Z","comment":"\u6e05\u7a7a\u5168\u90e8\u5185\u5bb9"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"34241":{"revid":34241,"missing":""}}}}

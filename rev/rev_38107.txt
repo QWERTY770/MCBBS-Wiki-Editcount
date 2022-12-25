@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4287":{"pageid":4287,"ns":0,"title":"\u54ac\u6253\u706b\u673a","revisions":[{"revid":38107,"parentid":37661,"user":"Don Trueno","timestamp":"2022-08-22T13:52:36Z","comment":"\u64a4\u9500[[Special:Contributions/Ssxhq|Ssxhq]]\uff08[[User talk:Ssxhq|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c37655 \u7406\u7531\uff1a\u65e0\u610f\u4e49"}]}}}}

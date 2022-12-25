@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2108":{"pageid":2108,"ns":0,"title":"Minecraft:MCBBS\u7248","revisions":[{"revid":38349,"parentid":36834,"minor":"","user":"Teddyxlandlee","timestamp":"2022-08-28T10:41:32Z","comment":"\u300aQulit\u300b"}]}}}}

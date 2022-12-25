@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3239":{"pageid":3239,"ns":0,"title":"Server CT","revisions":[{"revid":39499,"parentid":39498,"minor":"","user":"\u68a6\u5f57\u696d","timestamp":"2022-10-28T08:04:34Z","comment":"\u5ba2\u89c2\u8868\u8ff0"}]}}}}

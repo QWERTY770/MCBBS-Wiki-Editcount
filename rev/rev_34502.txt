@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"badrevids":{"34502":{"revid":34502}}}}
+{"batchcomplete":"","query":{"pages":{"1964":{"pageid":1964,"ns":0,"title":"Minecraft:\u7248\u672c\u6897","revisions":[{"revid":34502,"parentid":33844,"user":"HerobrineinMF","timestamp":"2022-06-03T08:27:07Z","comment":""}]}}}}

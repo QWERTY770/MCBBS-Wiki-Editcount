@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"37":{"pageid":37,"ns":10,"title":"\u6a21\u677f:PersonInfoBox","revisions":[{"revid":31835,"parentid":24072,"user":"Jaanai","timestamp":"2021-07-28T14:12:31Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"37":{"pageid":37,"ns":10,"title":"\u6a21\u677f:\u7528\u6237\u4fe1\u606f","revisions":[{"revid":31835,"parentid":24072,"user":"Jaanai","timestamp":"2021-07-28T14:12:31Z","comment":"// Edit via Wikiplus"}]}}}}

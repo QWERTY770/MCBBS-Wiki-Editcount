@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4423":{"pageid":4423,"ns":0,"title":"MCnyan","revisions":[{"revid":38252,"parentid":38250,"minor":"","user":"Dk","timestamp":"2022-08-27T02:57:14Z","comment":""}]}}}}

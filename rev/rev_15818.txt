@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2180":{"pageid":2180,"ns":2,"title":"\u7528\u6237:Ricolove/Archieve","revisions":[{"revid":15818,"parentid":15817,"user":"Ricolove","timestamp":"2020-07-30T04:22:01Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2180":{"pageid":2180,"ns":2,"title":"\u7528\u6237:Ricolove/Archive","revisions":[{"revid":15818,"parentid":15817,"user":"Ricolove","timestamp":"2020-07-30T04:22:01Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4018":{"pageid":4018,"ns":0,"title":"\u662f\u5357\u5357\uff01","revisions":[{"revid":39614,"parentid":35473,"user":"Litwak913","timestamp":"2022-11-10T00:13:42Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[\u4e0d\u4e8b\u5357\u5357\u554a]]\u66f4\u6539\u4e3a[[\u300e\u5357\u5357\u300f]]"}]}}}}

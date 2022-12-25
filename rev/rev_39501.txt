@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3240":{"pageid":3240,"ns":0,"title":"Legoshi","revisions":[{"revid":39501,"parentid":32517,"minor":"","user":"\u68a6\u5f57\u696d","timestamp":"2022-10-28T08:09:22Z","comment":"\u66f4\u65b0\u4efb\u804c\u60c5\u51b5"}]}}}}

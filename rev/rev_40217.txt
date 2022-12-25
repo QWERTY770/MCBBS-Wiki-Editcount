@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4246":{"pageid":4246,"ns":6,"title":"\u6587\u4ef6:\u539f\u7248-Command Block.png","revisions":[{"revid":40217,"parentid":37363,"minor":"","user":"Eicy","timestamp":"2022-11-30T00:01:44Z","comment":"[[\u5206\u7c7b:Minecraft\u7eb9\u7406]]"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3329":{"pageid":3329,"ns":0,"title":"yzcabc","revisions":[{"revid":28297,"parentid":0,"user":"Yzcabc","timestamp":"2021-03-14T03:18:08Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c{{\u65bd\u5de5\u4e2d|\u6301\u7eed\u65f6\u95f4=1\u5c0f\u65f6|\u4fe1\u606f=\u5b8c\u5584}} \u4e00\u4e2amcbbs\u7684\u51c6\u6c35\u602a \u4ed6\u6709JAVA\u7248\u7684\u6211\u7684\u4e16\u754c\uff0c\u662f\u751f\u65e5\u5bb6\u957f\u9001\u7ed9\u4ed6\u7684\u201d"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"28297":{"revid":28297,"missing":""}}}}

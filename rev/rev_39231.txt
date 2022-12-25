@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4499":{"pageid":4499,"ns":6,"title":"\u6587\u4ef6:Mojang Studios.gif","revisions":[{"revid":39231,"parentid":0,"user":"Don Trueno","timestamp":"2022-10-06T09:01:32Z","comment":""}]}}}}

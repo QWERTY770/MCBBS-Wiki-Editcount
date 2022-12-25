@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4455":{"pageid":4455,"ns":6,"title":"\u6587\u4ef6:MCWZH Era Visualized.png","revisions":[{"revid":38675,"parentid":0,"user":"Lxazl5770","timestamp":"2022-09-10T13:13:06Z","comment":""}]}}}}

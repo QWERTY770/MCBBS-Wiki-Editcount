@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"RarityEG","revisions":[{"revid":28153,"parentid":28151,"user":"Skjsjhb","timestamp":"2021-03-07T14:03:28Z","comment":"/* \u4f60\u77e5\u9053\u5417 */re"}]}}}}
+{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"ARSpark","revisions":[{"revid":28153,"parentid":28151,"user":"Skjsjhb","timestamp":"2021-03-07T14:03:28Z","comment":"/* \u4f60\u77e5\u9053\u5417 */re"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3947":{"pageid":3947,"ns":0,"title":"xmlyrgzn XCDH","revisions":[{"revid":35001,"parentid":34993,"minor":"","user":"Eicy","timestamp":"2022-07-11T11:28:12Z","comment":"// Edit via Wikiplus"}]}}}}

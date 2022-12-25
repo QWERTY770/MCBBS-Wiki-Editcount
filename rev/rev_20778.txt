@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"197":{"pageid":197,"ns":14,"title":"\u5206\u7c7b:\u6070\u952d\u5de8\u5934","revisions":[{"revid":20778,"parentid":8062,"user":"MashKJo","timestamp":"2020-10-15T10:05:50Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"20778":{"revid":20778,"missing":""}}}}

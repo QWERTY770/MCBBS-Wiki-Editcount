@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2662":{"pageid":2662,"ns":10,"title":"\u6a21\u677f:PersonInfoBox/IsMoreThan8","revisions":[{"revid":19833,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-09-11T11:53:39Z","comment":"tmp"}]}}}}
+{"batchcomplete":"","query":{"pages":{"2662":{"pageid":2662,"ns":10,"title":"\u6a21\u677f:\u7528\u6237\u4fe1\u606f/IsMoreThan8","revisions":[{"revid":19833,"parentid":0,"user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-09-11T11:53:39Z","comment":"tmp"}]}}}}

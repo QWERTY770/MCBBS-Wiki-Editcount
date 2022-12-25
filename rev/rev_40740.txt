@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4443":{"pageid":4443,"ns":6,"title":"\u6587\u4ef6:MCBBS Wiki \u6280\u672f\u67b6\u6784.png","revisions":[{"revid":40740,"parentid":38508,"minor":"","user":"Litwak913","timestamp":"2022-12-20T01:15:56Z","comment":"\u4f7f\u7528HotCat\u79fb\u9664[[Category:Wiki\u56fe\u7247]]; \u6dfb\u52a0[[Category:\u5176\u4ed6\u56fe\u7247]]"}]}}}}

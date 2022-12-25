@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4672":{"pageid":4672,"ns":0,"title":"wjjkun","revisions":[{"revid":40645,"parentid":40644,"user":"Wjjkd","timestamp":"2022-12-19T04:47:50Z","comment":""}]}}}}

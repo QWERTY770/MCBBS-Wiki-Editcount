@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4171":{"pageid":4171,"ns":0,"title":"\u5e0c\u9876\u6a21\u7ec4","revisions":[{"revid":36667,"parentid":0,"user":"QWERTY 52 38","timestamp":"2022-08-09T02:51:46Z","comment":"\u5c06[[\u5e0c\u9876\u6a21\u7ec4]]\u91cd\u5b9a\u5411\u81f3[[\u706f\u7e9f\u706b]] // Wikiplus"}]}}}}

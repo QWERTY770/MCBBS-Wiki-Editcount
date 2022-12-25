@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4207":{"pageid":4207,"ns":8,"title":"MediaWiki:Notification-header-thank-you-10-edit","revisions":[{"revid":38660,"parentid":36921,"minor":"","user":"Litwak913","timestamp":"2022-09-09T16:53:31Z","comment":"// Edit via Wikiplus"}]}}}}

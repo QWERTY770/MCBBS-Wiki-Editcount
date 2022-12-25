@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1383":{"pageid":1383,"ns":0,"title":"\u6d41\u6d6a\u8005","revisions":[{"revid":39238,"parentid":39237,"minor":"","user":"Litwak913","timestamp":"2022-10-06T09:45:01Z","comment":"\u6d41  \u6d6a  \u8003  \u53e4  \u5bb6"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"780":{"pageid":780,"ns":6,"title":"\u6587\u4ef6:UserboxTestIMG.webp.jpg","revisions":[{"revid":4238,"parentid":4230,"minor":"","user":"\u5751\u89e6\u53ef","timestamp":"2020-04-21T07:45:56Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"4238":{"revid":4238,"missing":""}}}}

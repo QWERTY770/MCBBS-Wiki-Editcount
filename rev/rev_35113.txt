@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3788":{"pageid":3788,"ns":8,"title":"MediaWiki:Flowthread-ui-cantpost","revisions":[{"revid":35113,"parentid":33005,"minor":"","user":"Eicy","timestamp":"2022-07-13T03:25:33Z","comment":"*\u81ea\u52a8\u786e\u8ba4\u7528\u6237\u5728\u653f\u7b56\u5185 flowthread\u63d2\u4ef6\u5df2\u6062\u590d"}]}}}}

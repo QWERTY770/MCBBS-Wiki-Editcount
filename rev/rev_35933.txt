@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4065":{"pageid":4065,"ns":274,"title":"Widget:RandomMemesImg","revisions":[{"revid":35933,"parentid":35887,"minor":"","user":"Litwak913","timestamp":"2022-07-31T09:58:45Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"Kakagou","revisions":[{"revid":24525,"parentid":24273,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-11T11:31:43Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"\u5361\u72d7","revisions":[{"revid":24525,"parentid":24273,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-11T11:31:43Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4592":{"pageid":4592,"ns":0,"title":"FancyMenu Wiki/\u5e7b\u706f\u7247","revisions":[{"revid":39950,"parentid":39949,"minor":"","user":"Litwak913","timestamp":"2022-11-22T06:17:10Z","comment":"/* \u6dfb\u52a0\u56fe\u7247 */"}]}}}}

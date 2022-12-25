@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4218":{"pageid":4218,"ns":6,"title":"\u6587\u4ef6:The Diablo Avatar.jpg","revisions":[{"revid":37229,"parentid":36999,"user":"Don Trueno","timestamp":"2022-08-15T15:02:05Z","comment":""}]}}}}

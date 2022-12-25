@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2194":{"pageid":2194,"ns":0,"title":"xukarhei","revisions":[{"revid":36100,"parentid":26438,"minor":"","user":"Tangcb","timestamp":"2022-08-02T00:14:08Z","comment":""}]}}}}

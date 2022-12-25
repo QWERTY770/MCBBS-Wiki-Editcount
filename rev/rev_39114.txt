@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"349":{"pageid":349,"ns":10,"title":"\u6a21\u677f:Navbox","revisions":[{"revid":39114,"parentid":37717,"user":"Litwak913","timestamp":"2022-10-04T13:17:34Z","comment":"Module"}]}}}}

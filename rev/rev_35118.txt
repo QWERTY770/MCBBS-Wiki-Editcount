@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"528":{"pageid":528,"ns":0,"title":"The Redpixel","revisions":[{"revid":35118,"parentid":35117,"user":"LYOfficial","timestamp":"2022-07-13T03:38:02Z","comment":"/* \u4f60\u77e5\u9053\u5417 */"}]}}}}

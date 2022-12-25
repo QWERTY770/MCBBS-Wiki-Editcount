@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"118":{"pageid":118,"ns":8,"title":"MediaWiki:Vector.css","revisions":[{"revid":36151,"parentid":35901,"minor":"","user":"Salt lovely","timestamp":"2022-08-02T16:18:50Z","comment":"\u91cd\u5199 topsign"}]}}}}

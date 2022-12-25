@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4083":{"pageid":4083,"ns":0,"title":"\u71c3\u96ea\u542c\u98ce/SSR","revisions":[{"revid":36016,"parentid":36015,"user":"Sharks","timestamp":"2022-08-01T07:39:38Z","comment":"\u64a4\u9500[[Special:Contributions/Sharks|Sharks]]\uff08[[User talk:Sharks|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c36015"}]}}}}

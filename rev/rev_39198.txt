@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4487":{"pageid":4487,"ns":10,"title":"\u6a21\u677f:Hlist/style.css","revisions":[{"revid":39198,"parentid":0,"user":"Salt lovely","timestamp":"2022-10-06T05:24:10Z","comment":"\u5f15\u7528\u81ea\u7ef4\u767e\u7684common.css"}]}}}}

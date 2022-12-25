@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"938":{"pageid":938,"ns":0,"title":"ir-0","revisions":[{"revid":6114,"parentid":5428,"minor":"","user":"QWERTY 52 38","timestamp":"2020-05-03T04:06:10Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"938":{"pageid":938,"ns":3100,"title":"\u9875\u9762\u5b58\u5e9f:ir-0","revisions":[{"revid":6114,"parentid":5428,"minor":"","user":"QWERTY 52 38","timestamp":"2020-05-03T04:06:10Z","comment":""}]}}}}

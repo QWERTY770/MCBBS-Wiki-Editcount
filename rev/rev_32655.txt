@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"933":{"pageid":933,"ns":3100,"title":"\u9875\u9762\u5e9f\u5b58:\u9b3c\u755c\u755c","revisions":[{"revid":32655,"parentid":32606,"userhidden":"","timestamp":"2021-11-20T16:35:04Z","comment":"\u505c\u7528\u8be5\u9875\u9762\uff0c\u91cd\u5b9a\u5411\u81f3\u9996\u9875","suppressed":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"32655":{"revid":32655,"missing":""}}}}

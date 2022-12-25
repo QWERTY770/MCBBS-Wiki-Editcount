@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4618":{"pageid":4618,"ns":0,"title":"FancyMenu Wiki/\u5bfc\u51fa&\u5bfc\u5165","revisions":[{"revid":40010,"parentid":40005,"user":"Litwak913","timestamp":"2022-11-22T08:44:50Z","comment":"/* \u5bfc\u5165\u8bbe\u7f6e */"}]}}}}

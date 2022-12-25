@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3870":{"pageid":3870,"ns":6,"title":"\u6587\u4ef6:\u4e00\u9053\u9633\u5149-\u7f8e\u6ee1\u5bb6\u548c(x\u9897\u661f\u661f).jpg","revisions":[{"revid":34748,"parentid":34131,"minor":"","user":"Eicy","timestamp":"2022-06-20T14:02:22Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"34748":{"revid":34748,"missing":""}}}}

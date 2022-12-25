@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"943":{"pageid":943,"ns":8,"title":"MediaWiki:Sitenotice","revisions":[{"revid":39188,"parentid":39187,"user":"Sheep-realms","timestamp":"2022-10-05T17:38:46Z","comment":""}]}}}}

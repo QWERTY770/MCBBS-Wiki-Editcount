@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4211":{"pageid":4211,"ns":8,"title":"MediaWiki:Vector-Legacy-Book.css","revisions":[{"revid":36995,"parentid":36969,"user":"Salt lovely","timestamp":"2022-08-13T10:02:07Z","comment":"\u7f16\u8f91\u201cMediaWiki:Vector-Legacy-Book.css\u201d // \u7ef4\u57fa\u76d0\u7f16\u8f91\u5668"}]}}}}

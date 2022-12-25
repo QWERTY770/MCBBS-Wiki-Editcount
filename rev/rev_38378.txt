@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2770":{"pageid":2770,"ns":0,"title":"Mojang AB","revisions":[{"revid":38378,"parentid":37186,"minor":"","user":"Teddyxlandlee","timestamp":"2022-08-29T02:01:33Z","comment":"/* \u7b80\u4ecb */ \u7528\u6237\u540d\u66f4\u6539 - \u5996\u68a6\u7684\u8214\u72d7"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3063":{"pageid":3063,"ns":8,"title":"MediaWiki:ReplaceUsername.js","revisions":[{"revid":24906,"parentid":24884,"user":"MashKJo","timestamp":"2020-12-19T08:31:26Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"3063":{"pageid":3063,"ns":8,"title":"MediaWiki:Gadget-ReplaceUsername.js","revisions":[{"revid":24906,"parentid":24884,"user":"MashKJo","timestamp":"2020-12-19T08:31:26Z","comment":"// Edit via Wikiplus"}]}}}}

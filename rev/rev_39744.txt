@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4552":{"pageid":4552,"ns":8,"title":"MediaWiki:EditCredit.css","revisions":[{"revid":39744,"parentid":0,"user":"Litwak913","timestamp":"2022-11-15T14:18:26Z","comment":"// Edit via Wikiplus"}]}}}}

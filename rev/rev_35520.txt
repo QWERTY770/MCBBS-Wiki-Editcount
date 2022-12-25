@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2827":{"pageid":2827,"ns":8,"title":"MediaWiki:Abusefilter-warning-wrong-word","revisions":[{"revid":35520,"parentid":27217,"minor":"","user":"Sheep-realms","timestamp":"2022-07-21T06:22:19Z","comment":"\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u201cmcbbs-wiki.cn\u201d\u4e3a\u201cmcbbs.wiki\u201d"}]}}}}

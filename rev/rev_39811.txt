@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4532":{"pageid":4532,"ns":8,"title":"MediaWiki:Gadget-visitor-warning.js","revisions":[{"revid":39811,"parentid":39810,"minor":"","user":"Litwak913","timestamp":"2022-11-16T12:24:24Z","comment":"// Edit via Wikiplus"}]}}}}

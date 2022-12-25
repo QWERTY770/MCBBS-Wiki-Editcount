@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3073":{"pageid":3073,"ns":0,"title":"\u51b0\u5ddd\u6a58\u5b50","revisions":[{"revid":25103,"parentid":0,"user":"\u51b0\u5ddd\u6a58\u5b50","timestamp":"2020-12-26T05:22:41Z","comment":"\u51b0\u5ddd\u6a58\u5b50\u79fb\u52a8\u9875\u9762[[\u51b0\u5ddd\u6a58\u5b50]]\u81f3[[xiaopangju]]\uff1a\u6539\u540d"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"25103":{"revid":25103,"missing":""}}}}

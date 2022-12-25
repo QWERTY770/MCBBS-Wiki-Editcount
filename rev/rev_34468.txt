@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"badrevids":{"34468":{"revid":34468}}}}
+{"batchcomplete":"","query":{"pages":{"3848":{"pageid":3848,"ns":0,"title":"mc\u5ea6\u6c76","revisions":[{"revid":34468,"parentid":34465,"minor":"","user":"Eicy","timestamp":"2022-06-02T00:08:06Z","comment":"// Edit via Wikiplus"}]}}}}

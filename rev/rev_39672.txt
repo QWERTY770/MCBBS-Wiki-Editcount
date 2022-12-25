@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3063":{"pageid":3063,"ns":8,"title":"MediaWiki:Gadget-ReplaceUsername.js","revisions":[{"revid":39672,"parentid":39643,"minor":"","user":"Litwak913","timestamp":"2022-11-11T15:00:42Z","comment":"// Edit via Wikiplus"}]}}}}

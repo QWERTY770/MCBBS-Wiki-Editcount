@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2543":{"pageid":2543,"ns":0,"title":"\u8be1\u706c\u7a3d","revisions":[{"revid":18758,"parentid":18757,"user":"\u6c99\u6f20\u4e4b\u9e70xzy","timestamp":"2020-08-25T10:36:05Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2543":{"pageid":2543,"ns":0,"title":"\u8d34\u8d34\u8ff7\u79bb","revisions":[{"revid":18758,"parentid":18757,"user":"\u6c99\u6f20\u4e4b\u9e70xzy","timestamp":"2020-08-25T10:36:05Z","comment":""}]}}}}

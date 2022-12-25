@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4225":{"pageid":4225,"ns":0,"title":"ctr123","revisions":[{"revid":37426,"parentid":37406,"user":"Don Trueno","timestamp":"2022-08-17T14:21:42Z","comment":"\u8c03\u6574\u6392\u7248\uff0c\u8c03\u6574\u90e8\u5206\u63cf\u8ff0\uff0c\u8c03\u6574\u90e8\u5206\u6587\u5b57\u987a\u5e8f"}]}}}}

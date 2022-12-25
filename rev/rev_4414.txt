@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"11":{"pageid":11,"ns":6,"title":"\u6587\u4ef6:Barrier.png","revisions":[{"revid":4414,"parentid":20,"minor":"","user":"Sheep-realms","timestamp":"2020-04-22T05:49:06Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"11":{"pageid":11,"ns":6,"title":"\u6587\u4ef6:\u539f\u7248-\u5c4f\u969c.png","revisions":[{"revid":4414,"parentid":20,"minor":"","user":"Sheep-realms","timestamp":"2020-04-22T05:49:06Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4293":{"pageid":4293,"ns":10,"title":"\u6a21\u677f:\u52a8\u6001\u663e\u793a/CSS/doc","revisions":[{"revid":39099,"parentid":37681,"minor":"","user":"Salt lovely","timestamp":"2022-10-04T10:39:54Z","comment":"css \u89e3\u6790\u5668\u94a9\u5b50\u88ab\u6084\u54aa\u54aa\u5730\u4e0b\u7ebf\u4e86"}]}}}}

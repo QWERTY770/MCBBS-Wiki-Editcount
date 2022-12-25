@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1508":{"pageid":1508,"ns":0,"title":"\u4e00\u6761\u61d2\u61d2\u72d7","revisions":[{"revid":39007,"parentid":11829,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-01T05:38:41Z","comment":"\u5df2\u5c06\u91cd\u5b9a\u5411\u76ee\u6807\u4ece[[Kakagou]]\u66f4\u6539\u4e3a[[\u5361\u72d7]]"}]}}}}

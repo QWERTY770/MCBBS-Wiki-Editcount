@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3966":{"pageid":3966,"ns":6,"title":"\u6587\u4ef6:CPS.png","revisions":[{"revid":35133,"parentid":0,"user":"LYOfficial","timestamp":"2022-07-13T08:30:27Z","comment":"CPS\u5c0f\u7ec4LOGO"}]}}}}

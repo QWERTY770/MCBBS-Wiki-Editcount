@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"795":{"pageid":795,"ns":10,"title":"\u6a21\u677f:MainpageBox","revisions":[{"revid":37729,"parentid":19502,"minor":"","user":"Litwak913","timestamp":"2022-08-20T05:32:33Z","comment":"// Edit via Wikiplus"}]}}}}

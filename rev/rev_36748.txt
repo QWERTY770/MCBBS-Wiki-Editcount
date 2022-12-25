@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"252":{"pageid":252,"ns":0,"title":"Zapic","revisions":[{"revid":36748,"parentid":32272,"user":"Sheep-realms","timestamp":"2022-08-10T08:02:01Z","comment":""}]}}}}

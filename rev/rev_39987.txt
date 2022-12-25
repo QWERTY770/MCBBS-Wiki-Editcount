@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4608":{"pageid":4608,"ns":0,"title":"FancyMenu Wiki/\u81ea\u5b9a\u4e49\u83dc\u5355\u80cc\u666f","revisions":[{"revid":39987,"parentid":39986,"user":"Litwak913","timestamp":"2022-11-22T08:06:00Z","comment":"/* \u521b\u5efa\u5b57\u7b26\u4e32\u6a21\u5f0f\u80cc\u666f */"}]}}}}

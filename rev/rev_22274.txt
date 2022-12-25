@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"599":{"pageid":599,"ns":6,"title":"\u6587\u4ef6:Crafting Table.png","revisions":[{"revid":22274,"parentid":4418,"user":"MashKJo","timestamp":"2020-11-08T11:23:29Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"599":{"pageid":599,"ns":6,"title":"\u6587\u4ef6:\u539f\u7248-\u5de5\u4f5c\u53f0.png","revisions":[{"revid":22274,"parentid":4418,"user":"MashKJo","timestamp":"2020-11-08T11:23:29Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3877":{"pageid":3877,"ns":0,"title":"funny snail","revisions":[{"revid":39525,"parentid":37336,"user":"\u6ed1\u7a3d\u8717","timestamp":"2022-11-02T03:31:56Z","comment":""}]}}}}

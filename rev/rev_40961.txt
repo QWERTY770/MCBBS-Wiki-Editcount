@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4700":{"pageid":4700,"ns":6,"title":"\u6587\u4ef6:\u544a\u6c34\u602a\u540c\u5fd7\u4e66 \u7ea2\u7248 \u7248\u4e3b\u63a8\u8350.png","revisions":[{"revid":40961,"parentid":40959,"minor":"","user":"Litwak913","timestamp":"2022-12-23T03:17:24Z","comment":"\u4f7f\u7528HotCat\u6dfb\u52a0[[Category:\u8bba\u575b\u622a\u56fe]]"}]}}}}

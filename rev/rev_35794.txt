@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4047":{"pageid":4047,"ns":6,"title":"\u6587\u4ef6:FancyMenuLogo.png","revisions":[{"revid":35794,"parentid":35793,"minor":"","user":"Eicy","timestamp":"2022-07-30T03:12:29Z","comment":"// Edit via Wikiplus"}]}}}}

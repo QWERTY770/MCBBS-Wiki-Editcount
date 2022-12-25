@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2017":{"pageid":2017,"ns":0,"title":"\u98de\u5c0fRAN1","revisions":[{"revid":17589,"parentid":17300,"user":"Xiaofeifei","timestamp":"2020-08-13T15:34:40Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2017":{"pageid":2017,"ns":0,"title":"\u98de\u5c0fRAN","revisions":[{"revid":17589,"parentid":17300,"user":"Xiaofeifei","timestamp":"2020-08-13T15:34:40Z","comment":""}]}}}}

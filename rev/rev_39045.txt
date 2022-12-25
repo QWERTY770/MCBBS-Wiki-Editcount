@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2922":{"pageid":2922,"ns":274,"title":"Widget:getMCBBSCredit","revisions":[{"revid":39045,"parentid":36322,"minor":"","user":"Litwak913","timestamp":"2022-10-01T13:15:52Z","comment":"// Edit via Wikiplus"}]}}}}

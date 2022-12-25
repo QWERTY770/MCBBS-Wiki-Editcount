@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1964":{"pageid":1964,"ns":0,"title":"Minecraft:\u7248\u672c\u6897","revisions":[{"revid":40708,"parentid":40470,"user":"Teddyxlandlee","timestamp":"2022-12-19T12:16:40Z","comment":"/* 1.19 */ The Report & Ban Update"}]}}}}

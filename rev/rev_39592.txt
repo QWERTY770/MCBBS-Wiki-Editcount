@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4531":{"pageid":4531,"ns":8,"title":"MediaWiki:Gadget-disuse.js","revisions":[{"revid":39592,"parentid":39591,"minor":"","user":"Litwak913","timestamp":"2022-11-09T14:22:59Z","comment":"// Edit via Wikiplus"}]}}}}

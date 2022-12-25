@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"Kakagou","revisions":[{"revid":16069,"parentid":15876,"user":"Dianliang233","timestamp":"2020-08-01T05:19:41Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"\u5361\u72d7","revisions":[{"revid":16069,"parentid":15876,"user":"Dianliang233","timestamp":"2020-08-01T05:19:41Z","comment":""}]}}}}

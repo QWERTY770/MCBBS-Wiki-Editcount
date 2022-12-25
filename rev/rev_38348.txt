@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2138":{"pageid":2138,"ns":0,"title":"CarlotaAnnabell","revisions":[{"revid":38348,"parentid":37304,"minor":"","user":"AlbertInf","timestamp":"2022-08-28T09:06:53Z","comment":""}]}}}}

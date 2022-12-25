@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3342":{"pageid":3342,"ns":0,"title":"wood-man","revisions":[{"revid":38238,"parentid":38237,"user":"\u83ab\u4eca\u5bb5","timestamp":"2022-08-26T07:30:18Z","comment":"\u64a4\u9500[[Special:Contributions/\u83ab\u4eca\u5bb5|\u83ab\u4eca\u5bb5]]\uff08[[User talk:\u83ab\u4eca\u5bb5|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c38237"}]}}}}

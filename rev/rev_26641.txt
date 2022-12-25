@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"RarityEG","revisions":[{"revid":26641,"parentid":24844,"minor":"","user":"Bleake","timestamp":"2021-02-06T13:59:33Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"ARSpark","revisions":[{"revid":26641,"parentid":24844,"minor":"","user":"Bleake","timestamp":"2021-02-06T13:59:33Z","comment":""}]}}}}

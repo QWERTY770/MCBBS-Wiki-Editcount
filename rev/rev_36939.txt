@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4198":{"pageid":4198,"ns":8,"title":"MediaWiki:Welcomecreation-msg","revisions":[{"revid":36939,"parentid":36875,"minor":"","user":"Litwak913","timestamp":"2022-08-12T09:34:30Z","comment":"// Edit via Wikiplus"}]}}}}

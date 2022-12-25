@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1899":{"pageid":1899,"ns":5,"title":"MCBBS Wiki\u8ba8\u8bba:\u9700\u6c42\u9875\u9762","revisions":[{"revid":29011,"parentid":28111,"user":"PaulWong","timestamp":"2021-04-11T11:15:49Z","comment":"/* \u7533\u8bf7 */"}]}}}}
+{"batchcomplete":"","query":{"pages":{"1899":{"pageid":1899,"ns":5,"title":"MCBBS Wiki\u8ba8\u8bba:\u9700\u6c42\u9875\u9762","revisions":[{"revid":29011,"parentid":28111,"userhidden":"","timestamp":"2021-04-11T11:15:49Z","comment":"/* \u7533\u8bf7 */","suppressed":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4291":{"pageid":4291,"ns":10,"title":"\u6a21\u677f:\u52a8\u6001\u663e\u793a","revisions":[{"revid":39076,"parentid":37682,"minor":"","user":"Litwak913","timestamp":"2022-10-03T12:08:23Z","comment":"// Edit via Wikiplus"}]}}}}

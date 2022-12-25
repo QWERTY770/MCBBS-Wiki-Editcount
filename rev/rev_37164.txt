@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4227":{"pageid":4227,"ns":6,"title":"\u6587\u4ef6:lighter.png","revisions":[{"revid":37164,"parentid":37161,"user":"Salt lovely","timestamp":"2022-08-15T04:55:06Z","comment":"\u7f16\u8f91\u201c\u6587\u4ef6:lighter.png\u201d // \u7ef4\u57fa\u76d0\u7f16\u8f91\u5668"}]}}}}

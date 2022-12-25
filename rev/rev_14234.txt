@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2002":{"pageid":2002,"ns":0,"title":"Earfreet","revisions":[{"revid":14234,"parentid":14155,"user":"Earl","timestamp":"2020-07-17T01:01:42Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2002":{"pageid":2002,"ns":0,"title":"EEEarl","revisions":[{"revid":14234,"parentid":14155,"user":"Earl","timestamp":"2020-07-17T01:01:42Z","comment":""}]}}}}

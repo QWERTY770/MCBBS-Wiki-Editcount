@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"10":{"pageid":10,"ns":6,"title":"\u6587\u4ef6:Diamond.png","revisions":[{"revid":19,"parentid":0,"user":"MashKJo","timestamp":"2020-04-11T00:05:54Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"10":{"pageid":10,"ns":6,"title":"\u6587\u4ef6:\u539f\u7248-\u94bb\u77f3.png","revisions":[{"revid":19,"parentid":0,"user":"MashKJo","timestamp":"2020-04-11T00:05:54Z","comment":""}]}}}}

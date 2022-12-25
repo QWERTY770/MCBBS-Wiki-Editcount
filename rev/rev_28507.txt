@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1644":{"pageid":1644,"ns":0,"title":"\u8ff7\u706c\u79bb","revisions":[{"revid":28507,"parentid":28454,"minor":"","user":"LeoPro","timestamp":"2021-03-23T13:02:50Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"1644":{"pageid":1644,"ns":0,"title":"\u6ee1\u8239\u6e05\u68a6\u4e36","revisions":[{"revid":28507,"parentid":28454,"minor":"","user":"LeoPro","timestamp":"2021-03-23T13:02:50Z","comment":""}]}}}}

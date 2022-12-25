@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"Kakagou","revisions":[{"revid":6091,"parentid":6090,"minor":"","user":"MashKJo","timestamp":"2020-05-03T00:02:25Z","comment":"MashKJo\u79fb\u52a8\u9875\u9762[[KakaGou]]\u81f3[[kakagRou]]"}]}}}}
+{"batchcomplete":"","query":{"pages":{"734":{"pageid":734,"ns":0,"title":"\u5361\u72d7","revisions":[{"revid":6091,"parentid":6090,"minor":"","user":"MashKJo","timestamp":"2020-05-03T00:02:25Z","comment":"MashKJo\u79fb\u52a8\u9875\u9762[[KakaGou]]\u81f3[[kakagRou]]"}]}}}}

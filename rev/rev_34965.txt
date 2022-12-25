@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2682":{"pageid":2682,"ns":0,"title":"\u94bb\u77f3\u9550(\u9053\u5177)","revisions":[{"revid":34965,"parentid":33136,"minor":"","user":"QWERTY 52 38","timestamp":"2022-07-10T02:52:35Z","comment":"// Edit via Wikiplus"}]}}}}

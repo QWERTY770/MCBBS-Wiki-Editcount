@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4254":{"pageid":4254,"ns":6,"title":"\u6587\u4ef6:ctr\u5feb\u53bb\u54ac\u6253\u706b\u673a.gif","revisions":[{"revid":37400,"parentid":37399,"user":"\u8d77\u540d\u5b57\u771f\u96be\u5c31\u53eb\u5357\u5357","timestamp":"2022-08-17T03:00:59Z","comment":"/* \u8bb8\u53ef\u534f\u8bae */"}]}}}}

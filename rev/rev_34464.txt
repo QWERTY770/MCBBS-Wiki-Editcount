@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"badrevids":{"34464":{"revid":34464}}}}
+{"batchcomplete":"","query":{"pages":{"656":{"pageid":656,"ns":4,"title":"MCBBS Wiki:\u81ea\u52a8\u786e\u8ba4\u7528\u6237","revisions":[{"revid":34464,"parentid":33839,"minor":"","user":"Cmd1152","timestamp":"2022-06-01T11:20:51Z","comment":""}]}}}}

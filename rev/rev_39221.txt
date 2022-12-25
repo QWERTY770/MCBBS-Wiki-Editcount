@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"103":{"pageid":103,"ns":0,"title":"Bugjump","revisions":[{"revid":39221,"parentid":160,"user":"Don Trueno","timestamp":"2022-10-06T08:38:34Z","comment":"\u91cd\u65b0\u521b\u5efa\u6b64\u9875\u9762\uff0c\u5c06\u4ecb\u7ecdMojang\u7684\u5185\u5bb9\u548c\u4ecb\u7ecdBugjump\u7684\u5185\u5bb9\u5206\u5f00"}]}}}}

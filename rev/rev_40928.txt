@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"174":{"pageid":174,"ns":0,"title":"rom718","revisions":[{"revid":40928,"parentid":38998,"minor":"","user":"Dk","timestamp":"2022-12-22T13:18:31Z","comment":""}]}}}}

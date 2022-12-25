@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4123":{"pageid":4123,"ns":0,"title":"FancyMenu Wiki/\u4e0d\u517c\u5bb9MOD\u5217\u8868","revisions":[{"revid":36218,"parentid":36217,"minor":"","user":"Eicy","timestamp":"2022-08-03T03:51:52Z","comment":"// Edit via Wikiplus"}]}}}}

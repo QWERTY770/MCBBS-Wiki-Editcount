@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3623":{"pageid":3623,"ns":0,"title":"\u5c0f\u5929\u94c4","revisions":[{"revid":31383,"parentid":31382,"user":"Paomomangguo","timestamp":"2021-07-14T09:31:48Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"31383":{"revid":31383,"missing":""}}}}

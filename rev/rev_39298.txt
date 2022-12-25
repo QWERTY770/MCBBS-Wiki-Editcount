@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1711":{"pageid":1711,"ns":8,"title":"MediaWiki:Gadget-Wikiplus.js","revisions":[{"revid":39298,"parentid":11450,"minor":"","user":"Litwak913","timestamp":"2022-10-09T05:00:28Z","comment":"// Edit via Wikiplus"}]}}}}

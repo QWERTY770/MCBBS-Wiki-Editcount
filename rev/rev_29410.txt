@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"933":{"pageid":933,"ns":0,"title":"\u9b3c\u755c\u755c","revisions":[{"revid":29410,"parentid":29405,"minor":"","user":"Jaanai","timestamp":"2021-04-23T16:41:58Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"29410":{"revid":29410,"missing":""}}}}

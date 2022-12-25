@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3526":{"pageid":3526,"ns":8,"title":"MediaWiki:Gadget-NationalDays.js","revisions":[{"revid":39600,"parentid":30575,"minor":"","user":"Litwak913","timestamp":"2022-11-09T14:50:47Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4518":{"pageid":4518,"ns":8,"title":"MediaWiki:Mobile-frontend-logged-in-homepage-notification","revisions":[{"revid":39417,"parentid":0,"user":"Litwak913","timestamp":"2022-10-25T01:12:47Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c{{GENDER:$1|\u6b22\u8fce}}\u56de\u6765\uff0c$1\uff01\u201d"}]}}}}

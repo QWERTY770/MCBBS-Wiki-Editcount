@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2002":{"pageid":2002,"ns":0,"title":"Earfreet","revisions":[{"revid":24829,"parentid":24757,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-16T13:28:36Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"2002":{"pageid":2002,"ns":0,"title":"EEEarl","revisions":[{"revid":24829,"parentid":24757,"minor":"","user":"QWERTY 52 38","timestamp":"2020-12-16T13:28:36Z","comment":"// Edit via Wikiplus"}]}}}}

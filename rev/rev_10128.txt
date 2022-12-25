@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"37":{"pageid":37,"ns":10,"title":"\u6a21\u677f:PersonInfoBox","revisions":[{"revid":10128,"parentid":10124,"user":"Sheep-realms","timestamp":"2020-06-13T02:26:46Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"37":{"pageid":37,"ns":10,"title":"\u6a21\u677f:\u7528\u6237\u4fe1\u606f","revisions":[{"revid":10128,"parentid":10124,"user":"Sheep-realms","timestamp":"2020-06-13T02:26:46Z","comment":""}]}}}}

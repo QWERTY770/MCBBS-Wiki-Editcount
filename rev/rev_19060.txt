@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2587":{"pageid":2587,"ns":2,"title":"\u7528\u6237:DiamondsBlocks/\u6c99\u76d2/Jvav","revisions":[{"revid":19060,"parentid":19058,"minor":"","user":"DiamondsBlocks","timestamp":"2020-08-29T06:33:18Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"19060":{"revid":19060,"missing":""}}}}

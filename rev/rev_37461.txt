@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"ARSpark","revisions":[{"revid":37461,"parentid":37443,"minor":"","user":"Eicy","timestamp":"2022-08-18T01:10:26Z","comment":"\u3002"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3958":{"pageid":3958,"ns":6,"title":"\u6587\u4ef6:BBSWiki22\u5e747\u6708\u66f4\u65b0-4.png","revisions":[{"revid":35100,"parentid":35086,"minor":"","user":"Eicy","timestamp":"2022-07-13T02:21:50Z","comment":"// Edit via Wikiplus"}]}}}}

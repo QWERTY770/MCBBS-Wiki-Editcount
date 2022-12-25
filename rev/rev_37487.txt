@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3620":{"pageid":3620,"ns":0,"title":"wine\u6bdb\u6bdb","revisions":[{"revid":37487,"parentid":31502,"minor":"","user":"Eicy","timestamp":"2022-08-18T01:33:18Z","comment":"\u6574\u7406\u6570\u636e\u7ed3\u6784"}]}}}}

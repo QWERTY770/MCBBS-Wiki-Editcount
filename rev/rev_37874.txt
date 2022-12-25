@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4360":{"pageid":4360,"ns":10,"title":"\u6a21\u677f:\u56fe\u6807\u7ec4","revisions":[{"revid":37874,"parentid":0,"user":"Salt lovely","timestamp":"2022-08-21T09:08:00Z","comment":"\u56fe\u6807\u6a21\u677f\u5c01\u88c5"}]}}}}

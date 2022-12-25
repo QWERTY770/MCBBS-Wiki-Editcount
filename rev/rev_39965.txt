@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4600":{"pageid":4600,"ns":6,"title":"\u6587\u4ef6:fmanimation1.png","revisions":[{"revid":39965,"parentid":39964,"minor":"","user":"Litwak913","timestamp":"2022-11-22T06:57:02Z","comment":"// Edit via Wikiplus"}]}}}}

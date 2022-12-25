@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4466":{"pageid":4466,"ns":6,"title":"\u6587\u4ef6:\u7eff\u5b9d\u77f3\u888b.gif","revisions":[{"revid":38835,"parentid":0,"user":"Don Trueno","timestamp":"2022-09-21T07:54:16Z","comment":""}]}}}}

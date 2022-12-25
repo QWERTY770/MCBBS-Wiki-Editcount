@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4220":{"pageid":4220,"ns":8,"title":"MediaWiki:Vector-V4.css","revisions":[{"revid":37423,"parentid":37422,"user":"Litwak913","timestamp":"2022-08-17T13:46:09Z","comment":"\u64a4\u9500[[Special:Contributions/Litwak913|Litwak913]]\uff08[[User talk:Litwak913|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c37422"}]}}}}

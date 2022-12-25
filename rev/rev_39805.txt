@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4572":{"pageid":4572,"ns":8,"title":"MediaWiki:Gadget-OOUIWM.js","revisions":[{"revid":39805,"parentid":0,"user":"Litwak913","timestamp":"2022-11-16T12:16:52Z","comment":"// Edit via Wikiplus"}]}}}}

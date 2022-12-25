@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"604":{"pageid":604,"ns":6,"title":"\u6587\u4ef6:Jvav-\u804a\u5929\u8bb0\u5f55.jpg","revisions":[{"revid":23185,"parentid":3133,"user":"MashKJo","timestamp":"2020-11-14T15:07:05Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"23185":{"revid":23185,"missing":""}}}}

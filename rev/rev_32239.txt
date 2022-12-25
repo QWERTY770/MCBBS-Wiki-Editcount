@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3714":{"pageid":3714,"ns":0,"title":"8.27\u7ffb\u8bd1&Wiki\u7248\u5b9d\u77f3\u8d85\u53d1\u4e8b\u4ef6","revisions":[{"revid":32239,"parentid":32228,"user":"Sun4966","timestamp":"2021-08-30T05:24:33Z","comment":"/* \u575b\u53cb\u8ba8\u8bba */"}]}}}}
+{"batchcomplete":"","query":{"pages":{"3714":{"pageid":3714,"ns":0,"title":"8\u00b727\u7ffb\u8bd1&Wiki\u7248\u5b9d\u77f3\u8d85\u53d1\u4e8b\u4ef6","revisions":[{"revid":32239,"parentid":32228,"user":"Sun4966","timestamp":"2021-08-30T05:24:33Z","comment":"/* \u575b\u53cb\u8ba8\u8bba */"}]}}}}

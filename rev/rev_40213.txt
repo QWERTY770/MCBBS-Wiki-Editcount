@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4437":{"pageid":4437,"ns":10,"title":"\u6a21\u677f:BedrockCraft","revisions":[{"revid":40213,"parentid":38425,"minor":"","user":"Eicy","timestamp":"2022-11-29T23:59:49Z","comment":"\u5206\u7c7b"}]}}}}

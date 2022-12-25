@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"764":{"pageid":764,"ns":8,"title":"MediaWiki:Common.js","revisions":[{"revid":40364,"parentid":40363,"minor":"","user":"Litwak913","timestamp":"2022-12-07T15:31:00Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3149":{"pageid":3149,"ns":8,"title":"MediaWiki:Vector-leftPanel.js","revisions":[{"revid":33001,"parentid":26048,"user":"Sheep-realms","timestamp":"2022-01-25T04:01:42Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"3149":{"pageid":3149,"ns":8,"title":"MediaWiki:Gadget-VectorLeftPanel.js","revisions":[{"revid":33001,"parentid":26048,"user":"Sheep-realms","timestamp":"2022-01-25T04:01:42Z","comment":""}]}}}}

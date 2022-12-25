@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4446":{"pageid":4446,"ns":0,"title":"SPE HaiKuo","revisions":[{"revid":38568,"parentid":0,"user":"\u571f\u7403\u7403","timestamp":"2022-09-05T13:05:22Z","comment":"\u6dfb\u52a0 SPE__HaiKuo \u7684\u4ecb\u7ecd"}]}}}}

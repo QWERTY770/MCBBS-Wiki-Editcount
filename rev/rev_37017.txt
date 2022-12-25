@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4220":{"pageid":4220,"ns":8,"title":"MediaWiki:Vector-V4.css","revisions":[{"revid":37017,"parentid":0,"user":"Litwak913","timestamp":"2022-08-13T12:36:16Z","comment":"\u521b\u5efa\u9875\u9762\uff0c\u5185\u5bb9\u4e3a\u201c:root {   --linecolor: #fff; }\u201d"}]}}}}

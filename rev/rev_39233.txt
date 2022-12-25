@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"93":{"pageid":93,"ns":0,"title":"Mojang Studios","revisions":[{"revid":39233,"parentid":39226,"user":"Don Trueno","timestamp":"2022-10-06T09:05:29Z","comment":"\u753b\u5eca"}]}}}}

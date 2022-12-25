@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"3896":{"pageid":3896,"ns":1,"title":"\u8ba8\u8bba:\u8717\u725b\u80cc\u6ed1\u7a3d","revisions":[{"revid":34390,"parentid":0,"user":"Eicy","timestamp":"2022-05-31T13:21:41Z","comment":"/* \u53e5\u53f7\uff1f */ \u65b0\u7ae0\u8282"}]}}}}
+{"batchcomplete":"","query":{"pages":{"3896":{"pageid":3896,"ns":1,"title":"\u8ba8\u8bba:funny snail","revisions":[{"revid":34390,"parentid":0,"user":"Eicy","timestamp":"2022-05-31T13:21:41Z","comment":"/* \u53e5\u53f7\uff1f */ \u65b0\u7ae0\u8282"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4643":{"pageid":4643,"ns":6,"title":"\u6587\u4ef6:Tangcb\u5fae\u4fe1.jpg","revisions":[{"revid":40330,"parentid":40317,"minor":"","user":"Litwak913","timestamp":"2022-12-07T13:47:02Z","comment":"// Edit via Wikiplus"}]}}}}

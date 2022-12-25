@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4193":{"pageid":4193,"ns":6,"title":"\u6587\u4ef6:Don Trueno avatar 02.jpg","revisions":[{"revid":36894,"parentid":36797,"minor":"","user":"Don Trueno","timestamp":"2022-08-11T15:43:59Z","comment":""}]}}}}

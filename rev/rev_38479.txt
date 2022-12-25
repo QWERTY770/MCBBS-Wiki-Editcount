@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4225":{"pageid":4225,"ns":0,"title":"ctr123","revisions":[{"revid":38479,"parentid":38476,"user":"Ctr123","timestamp":"2022-09-01T13:52:38Z","comment":""}]}}}}

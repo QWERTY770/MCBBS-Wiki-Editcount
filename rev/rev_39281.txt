@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3977":{"pageid":3977,"ns":0,"title":"destscript","revisions":[{"revid":39281,"parentid":39260,"minor":"","user":"Don Trueno","timestamp":"2022-10-08T09:45:02Z","comment":"/* \u8c37\u6b4c\u751f\u8349\u673a */"}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3142":{"pageid":3142,"ns":0,"title":"Jaanai","revisions":[{"revid":39365,"parentid":39364,"minor":"","user":"Litwak913","timestamp":"2022-10-12T23:26:27Z","comment":""}]}}}}

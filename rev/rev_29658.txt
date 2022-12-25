@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"933":{"pageid":933,"ns":0,"title":"\u9b3c\u755c\u755c","revisions":[{"revid":29658,"parentid":29655,"minor":"","user":"Jaanai","timestamp":"2021-04-27T03:25:04Z","comment":"\u5df2\u8fd8\u539f[[Special:Contributions/Ghost chu|Ghost chu]]\uff08[[User talk:Ghost chu|\u5bf9\u8bdd]]\uff09\u7684\u7f16\u8f91\u81f3\u6700\u540e\u7531[[User:Jaanai|Jaanai]]\u4fee\u8ba2\u7684\u7248\u672c"}]}}}}
+{"batchcomplete":"","query":{"badrevids":{"29658":{"revid":29658,"missing":""}}}}

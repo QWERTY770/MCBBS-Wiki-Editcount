@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"1288":{"pageid":1288,"ns":274,"title":"Widget:TopSign","revisions":[{"revid":36149,"parentid":7944,"user":"Salt lovely","timestamp":"2022-08-02T16:15:03Z","comment":"\u91cd\u5199 topsign\uff0c\u8fd9\u4e00\u7248\u4ee3\u7801\u4e0d\u4f9d\u8d56 jQuery"}]}}}}

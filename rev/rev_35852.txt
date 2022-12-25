@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"113":{"pageid":113,"ns":4,"title":"MCBBS Wiki:\u7ba1\u7406\u5458","revisions":[{"revid":35852,"parentid":35675,"minor":"","user":"Eicy","timestamp":"2022-07-30T08:15:02Z","comment":"/* \u6210\u5458 */ // Edit via Wikiplus"}]}}}}

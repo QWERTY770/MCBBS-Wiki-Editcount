@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3034":{"pageid":3034,"ns":274,"title":"Widget:SaltOutsidePicLoader","revisions":[{"revid":35502,"parentid":32893,"minor":"","user":"Sheep-realms","timestamp":"2022-07-21T06:18:02Z","comment":"\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u201cmcbbs-wiki.cn\u201d\u4e3a\u201cmcbbs.wiki\u201d"}]}}}}

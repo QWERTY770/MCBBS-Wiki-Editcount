@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"751":{"pageid":751,"ns":0,"title":"Greensky","revisions":[{"revid":39132,"parentid":34366,"minor":"","user":"LocusAzzurro","timestamp":"2022-10-04T20:34:17Z","comment":""}]}}}}

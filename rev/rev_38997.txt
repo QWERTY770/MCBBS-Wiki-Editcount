@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"176":{"pageid":176,"ns":0,"title":"pogox","revisions":[{"revid":38997,"parentid":38895,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-01T05:30:39Z","comment":"// Edit via Wikiplus"}]}}}}

@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"RarityEG","revisions":[{"revid":18025,"parentid":18024,"user":"Charon1","timestamp":"2020-08-18T02:51:20Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"ARSpark","revisions":[{"revid":18025,"parentid":18024,"user":"Charon1","timestamp":"2020-08-18T02:51:20Z","comment":""}]}}}}

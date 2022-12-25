@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3977":{"pageid":3977,"ns":0,"title":"destscript","revisions":[{"revid":35236,"parentid":35221,"minor":"","user":"QWERTY 52 38","timestamp":"2022-07-14T08:15:45Z","comment":"// Edit via Wikiplus"}]}}}}

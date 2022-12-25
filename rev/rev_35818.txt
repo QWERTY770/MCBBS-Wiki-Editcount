@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"3020":{"pageid":3020,"ns":8,"title":"MediaWiki:Addon-loadprism.js","revisions":[{"revid":35818,"parentid":24025,"user":"Sheep-realms","timestamp":"2022-07-30T04:32:05Z","comment":""}]}}}}

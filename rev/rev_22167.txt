@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"449":{"pageid":449,"ns":6,"title":"\u6587\u4ef6:Diamond Pickaxe JE3 BE3.png","revisions":[{"revid":22167,"parentid":4420,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-08T03:43:56Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"449":{"pageid":449,"ns":6,"title":"\u6587\u4ef6:\u539f\u7248-\u94bb\u77f3\u9550.png","revisions":[{"revid":22167,"parentid":4420,"minor":"","user":"\u81ea\u7531\u674e\u4ee3\u6570","timestamp":"2020-11-08T03:43:56Z","comment":""}]}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"357":{"pageid":357,"ns":10,"title":"\u6a21\u677f:MCBBS\u8bba\u575b\u7528\u6237","revisions":[{"revid":37167,"parentid":37111,"minor":"","user":"Tangcb","timestamp":"2022-08-15T05:03:21Z","comment":"\u64a4\u9500[[Special:Contributions/Tangcb|Tangcb]]\uff08[[User talk:Tangcb|\u8ba8\u8bba]]\uff09\u7684\u7248\u672c37111"}]}}}}

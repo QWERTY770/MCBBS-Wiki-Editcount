@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"723":{"pageid":723,"ns":274,"title":"Widget:TimeSinceLastEdit","revisions":[{"revid":39136,"parentid":3813,"minor":"","user":"QWERTY 52 38","timestamp":"2022-10-05T01:54:20Z","comment":"// Edit via Wikiplus"}]}}}}

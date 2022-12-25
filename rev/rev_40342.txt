@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"513":{"pageid":513,"ns":8,"title":"MediaWiki:Gadgets-definition","revisions":[{"revid":40342,"parentid":39809,"minor":"","user":"Litwak913","timestamp":"2022-12-07T14:50:45Z","comment":"// Edit via Wikiplus"}]}}}}

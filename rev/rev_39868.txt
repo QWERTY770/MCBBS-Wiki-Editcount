@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2450":{"pageid":2450,"ns":2,"title":"\u7528\u6237:\u5496\u5566\u5b50/\u672b\u5730\u65c5\u6e38\u6307\u5357","revisions":[{"revid":39868,"parentid":17804,"minor":"","user":"Eicy","timestamp":"2022-11-21T23:41:20Z","comment":"\u6587\u672c\u66ff\u6362 - \u66ff\u6362\u201cmcbbs-wiki.cn\u201d\u4e3a\u201cmcbbs.wiki\u201d"}]}}}}

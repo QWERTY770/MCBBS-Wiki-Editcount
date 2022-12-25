@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"2088":{"pageid":2088,"ns":0,"title":"ARSpark","revisions":[{"revid":40138,"parentid":40119,"minor":"","user":"Litwak913","timestamp":"2022-11-28T00:07:45Z","comment":"// Edit via Wikiplus"}]}}}}

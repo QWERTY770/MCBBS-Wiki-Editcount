@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"1138":{"pageid":1138,"ns":0,"title":"\u5624\u5c0f\u6a31","revisions":[{"revid":10111,"parentid":9307,"user":"LkStent","timestamp":"2020-06-13T01:39:23Z","comment":""}]}}}}
+{"batchcomplete":"","query":{"pages":{"1138":{"pageid":1138,"ns":0,"title":"\u96e8\u6d1bRainstorm","revisions":[{"revid":10111,"parentid":9307,"user":"LkStent","timestamp":"2020-06-13T01:39:23Z","comment":""}]}}}}

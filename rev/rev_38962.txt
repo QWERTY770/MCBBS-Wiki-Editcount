@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"270":{"pageid":270,"ns":0,"title":"\u67e0\u6aac","revisions":[{"revid":38962,"parentid":25964,"user":"Doomsday Envoy","timestamp":"2022-09-27T14:27:56Z","comment":"/* \u4f60\u77e5\u9053\u5417 */  \u67e0\u6aac\u4e0e\u53d8\u58f0\u5668\u4e0e\u7248\u4e3b"}]}}}}

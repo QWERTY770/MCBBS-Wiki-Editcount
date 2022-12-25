@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"pages":{"938":{"pageid":938,"ns":0,"title":"ir-0","revisions":[{"revid":24465,"parentid":23374,"minor":"","user":"Salt lovely","timestamp":"2020-12-11T10:59:03Z","comment":"// Edit via Wikiplus"}]}}}}
+{"batchcomplete":"","query":{"pages":{"938":{"pageid":938,"ns":3100,"title":"\u9875\u9762\u5b58\u5e9f:ir-0","revisions":[{"revid":24465,"parentid":23374,"minor":"","user":"Salt lovely","timestamp":"2020-12-11T10:59:03Z","comment":"// Edit via Wikiplus"}]}}}}

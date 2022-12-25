@@ -1,1 +1,1 @@
-{"batchcomplete":"","query":{"badrevids":{"2959":{"revid":2959}}}}
+{"batchcomplete":"","query":{"badrevids":{"2959":{"revid":2959,"missing":""}}}}

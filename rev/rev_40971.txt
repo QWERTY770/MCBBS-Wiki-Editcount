@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"4701":{"pageid":4701,"ns":0,"title":"MC\u7684\u82e6\u529b\u6015","revisions":[{"revid":40971,"parentid":40970,"minor":"","user":"\u8d77\u540d\u5b57\u771f\u96be\u5c31\u53eb\u5357\u5357","timestamp":"2022-12-23T04:20:43Z","comment":"/* MC\u7684\u82e6\u529b\u6015 */ \u6807\u9898\u52a0\u7c97\uff0c\u4f60TM\u771f\u662f\u5929\u624d"}]}}}}
